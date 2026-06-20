@@ -1,0 +1,80 @@
+name: Build & publish CDN
+
+# Regenerates normalized word data from the Excel masters and publishes it to
+# GitHub Pages (served from this repo's root). Triggers when the source spreadsheets
+# or tooling change.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "resources/**"
+      - "tools/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write      # commit regenerated JSON back
+  pages: write         # deploy Pages
+  id-token: write      # required by deploy-pages
+
+concurrency:
+  group: publish-cdn
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r tools/requirements.txt
+
+      - name: Regenerate content (strict)
+        run: python tools/build_all.py --strict
+
+      - name: Commit regenerated content
+        run: |
+          git config user.name  "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add index.json */manifest.json */words.*.json
+          if git diff --cached --quiet; then
+            echo "No content changes."
+          else
+            git commit -m "chore(content): regenerate word data [skip ci]"
+            git push
+          fi
+
+      - name: Stage publishable files only
+        # Serve just index.json + the language folders — keep resources/ and tools/
+        # out of the published site.
+        run: |
+          rm -rf _public && mkdir _public
+          cp index.json _public/
+          python - <<'PY'
+          import json, shutil
+          idx = json.load(open("index.json", encoding="utf-8"))
+          for app in idx["apps"]:
+              shutil.copytree(app["path"], f"_public/{app['path']}")
+          print("staged:", [a["path"] for a in idx["apps"]])
+          PY
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

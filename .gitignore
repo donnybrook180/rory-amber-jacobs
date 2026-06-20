@@ -1,0 +1,6 @@
+# Pages staging dir (rebuilt by CI each run)
+/_public/
+
+# Python
+__pycache__/
+*.pyc

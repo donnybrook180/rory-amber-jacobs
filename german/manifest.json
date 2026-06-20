@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "targetLang": "de",
+  "nativeLangs": [
+    "nl",
+    "en",
+    "es",
+    "zh",
+    "hi",
+    "ur",
+    "ar",
+    "pt",
+    "ja",
+    "ko",
+    "fr",
+    "it",
+    "vi",
+    "th",
+    "id",
+    "ru",
+    "sw"
+  ],
+  "wordCount": 5000,
+  "audioCount": 0,
+  "exampleCount": 0,
+  "contentHash": "d106fb2d2d70",
+  "minAppVersion": "1.0.0",
+  "files": {
+    "words": "words.de.json"
+  }
+}

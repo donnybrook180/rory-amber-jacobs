@@ -1,0 +1,60 @@
+{
+  "apps": [
+    {
+      "targetLang": "en",
+      "path": "english",
+      "manifest": "english/manifest.json",
+      "version": 3,
+      "wordCount": 5000,
+      "audioCount": 0,
+      "exampleCount": 0,
+      "nativeLangs": [
+        "nl",
+        "es",
+        "zh",
+        "hi",
+        "ur",
+        "ar",
+        "pt",
+        "ja",
+        "ko",
+        "fr",
+        "it",
+        "vi",
+        "th",
+        "id",
+        "de",
+        "ru",
+        "sw"
+      ]
+    },
+    {
+      "targetLang": "de",
+      "path": "german",
+      "manifest": "german/manifest.json",
+      "version": 1,
+      "wordCount": 5000,
+      "audioCount": 0,
+      "exampleCount": 0,
+      "nativeLangs": [
+        "nl",
+        "en",
+        "es",
+        "zh",
+        "hi",
+        "ur",
+        "ar",
+        "pt",
+        "ja",
+        "ko",
+        "fr",
+        "it",
+        "vi",
+        "th",
+        "id",
+        "ru",
+        "sw"
+      ]
+    }
+  ]
+}

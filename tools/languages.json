@@ -1,0 +1,17 @@
+{
+  "cdnRoot": ".",
+  "languages": [
+    {
+      "targetLang": "en",
+      "source": "resources/Top_5000_Engelse_Woorden_Meertalig_Master.xlsx",
+      "out": "english",
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "targetLang": "de",
+      "source": "resources/Top_5000_Duitse_Woorden_Meertalig_Master.xlsx",
+      "out": "german",
+      "minAppVersion": "1.0.0"
+    }
+  ]
+}
