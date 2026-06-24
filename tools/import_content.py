@@ -63,6 +63,19 @@ POS_MAP = {
     "voegwoord": "conjunction",
     "voornaamwoord": "pronoun",
     "conjunction/pronoun": "pronoun",
+    # Neutral English POS (used by the regenerated English master).
+    "noun": "noun",
+    "verb": "verb",
+    "adjective": "adjective",
+    "adverb": "adverb",
+    "preposition": "preposition",
+    "article": "article",
+    "determiner": "article",
+    "pronoun": "pronoun",
+    "conjunction": "conjunction",
+    "numeral": "numeral",
+    "interjection": "interjection",
+    "other": "other",
 }
 
 # Rank bands -> difficulty level.
