@@ -4,7 +4,7 @@
       "targetLang": "en",
       "path": "english",
       "manifest": "english/manifest.json",
-      "version": 3,
+      "version": 5,
       "wordCount": 5000,
       "audioCount": 0,
       "exampleCount": 0,

@@ -194,7 +194,9 @@ def import_workbook(source: Path, target_lang: str, audio_dir: Path | None = Non
     native_langs = [code for _, code in lang_cols]
 
     words: list[dict] = []
-    warnings: list[str] = []
+    warnings: list[str] = []        # structural problems (fatal under --strict)
+    soft: list[str] = []            # missing translations (never fatal; expected
+                                    # while some languages are still being filled)
     seen_keys: set[str] = set()
 
     for line_no, row in enumerate(rows, start=2):
@@ -224,7 +226,7 @@ def import_workbook(source: Path, target_lang: str, audio_dir: Path | None = Non
         for col_idx, code in lang_cols:
             vals = split_translations(row[col_idx] if col_idx < len(row) else None)
             if not vals:
-                warnings.append(f"row {line_no} ({key}): missing '{code}' translation")
+                soft.append(f"row {line_no} ({key}): missing '{code}' translation")
             translations[code] = vals
 
         # Audio is opt-in: set <key>.mp3 only when the file actually ships in
@@ -258,7 +260,7 @@ def import_workbook(source: Path, target_lang: str, audio_dir: Path | None = Non
             target_word["examples"] = examples
 
     words.sort(key=lambda w: w["rank"])
-    return words, native_langs, warnings
+    return words, native_langs, warnings, soft
 
 
 def write_output(out_dir: Path, target_lang: str, words: list[dict],
@@ -316,7 +318,7 @@ def main():
         sys.exit(f"Source not found: {args.source}")
 
     audio_dir = args.audio_dir or (args.out / "audio")
-    words, native_langs, warnings = import_workbook(
+    words, native_langs, warnings, soft = import_workbook(
         args.source, args.target_lang, audio_dir if audio_dir.exists() else None)
 
     if not words:
@@ -332,6 +334,10 @@ def main():
           f"words with examples: {example_count}")
     print(f"  -> {words_path}")
     print(f"  -> {manifest_path} (version {version})")
+
+    if soft:
+        print(f"\n{len(soft)} missing-translation notice(s) (non-fatal; some "
+              f"languages are still being filled).")
 
     if warnings:
         shown = warnings[:20]
