@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "targetLang": "vi",
+  "nativeLangs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "sw",
+    "th",
+    "ur",
+    "zh"
+  ],
+  "wordCount": 5000,
+  "audioCount": 0,
+  "exampleCount": 0,
+  "contentHash": null,
+  "minAppVersion": "1.0.0",
+  "files": {
+    "words.vi.json": "words.vi.json"
+  }
+}

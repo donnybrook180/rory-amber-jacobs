@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "targetLang": "id",
+  "nativeLangs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "hi",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "sw",
+    "th",
+    "ur",
+    "vi",
+    "zh"
+  ],
+  "wordCount": 5000,
+  "audioCount": 0,
+  "exampleCount": 0,
+  "contentHash": null,
+  "minAppVersion": "1.0.0",
+  "files": {
+    "words.id.json": "words.id.json"
+  }
+}
