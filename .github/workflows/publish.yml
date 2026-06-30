@@ -34,18 +34,23 @@ jobs:
       - name: Install dependencies
         run: pip install -r tools/requirements.txt
 
-      - name: Regenerate content (strict)
-        run: python tools/build_all.py --strict
+      - name: Refresh index.json (discovery only)
+        # The committed JSON is the source of truth — word data is generated
+        # out-of-band (Excel masters via build_all, plus tools/gen_lang_content.py
+        # for the rest) and may be hand-enriched after import. Do NOT re-import
+        # here: that would clobber enrichment with stale Excel output. Just rebuild
+        # index.json from whatever <lang>/manifest.json files are committed.
+        run: python tools/build_all.py --index-only
 
-      - name: Commit regenerated content
+      - name: Commit refreshed index.json
         run: |
           git config user.name  "content-bot"
           git config user.email "content-bot@users.noreply.github.com"
-          git add index.json */manifest.json */words.*.json
+          git add index.json
           if git diff --cached --quiet; then
-            echo "No content changes."
+            echo "index.json unchanged."
           else
-            git commit -m "chore(content): regenerate word data [skip ci]"
+            git commit -m "chore(content): refresh index.json [skip ci]"
             git push
           fi
 

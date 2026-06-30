@@ -31,6 +31,9 @@ CONFIG = ROOT / "tools" / "languages.json"
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--strict", action="store_true")
+    ap.add_argument("--index-only", action="store_true",
+                    help="skip Excel re-import; rebuild index.json from the "
+                         "manifests already committed on disk (deploy path)")
     args = ap.parse_args()
 
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -38,7 +41,7 @@ def main():
     cdn_root.mkdir(parents=True, exist_ok=True)
 
     index = {"apps": []}
-    for lang in cfg["languages"]:
+    for lang in [] if args.index_only else cfg["languages"]:
         out = ROOT / lang["out"]
         source = ROOT / lang["source"]
         # A language can be registered before its master spreadsheet is dropped in
@@ -72,6 +75,27 @@ def main():
             "exampleCount": manifest.get("exampleCount", 0),
             "nativeLangs": manifest["nativeLangs"],
         })
+
+    # Languages generated outside the Excel pipeline (tools/gen_lang_content.py)
+    # write their <lang>/manifest.json straight into the CDN root but never touch
+    # languages.json. Pick them up by discovery so they get published too.
+    configured = {app["path"] for app in index["apps"]}
+    for manifest_path in sorted(cdn_root.glob("*/manifest.json")):
+        rel = manifest_path.parent.relative_to(cdn_root).as_posix()
+        if rel in configured:
+            continue
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        index["apps"].append({
+            "targetLang": manifest["targetLang"],
+            "path": rel,
+            "manifest": f"{rel}/manifest.json",
+            "version": manifest["version"],
+            "wordCount": manifest["wordCount"],
+            "audioCount": manifest.get("audioCount", 0),
+            "exampleCount": manifest.get("exampleCount", 0),
+            "nativeLangs": manifest["nativeLangs"],
+        })
+        print(f"=== discovered {manifest['targetLang']} ({rel}) ===")
 
     index_path = cdn_root / "index.json"
     index_path.write_text(
