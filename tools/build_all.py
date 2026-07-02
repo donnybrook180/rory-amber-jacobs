@@ -105,4 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# publish trigger: es top-1000 senses
+# publish trigger: es senses 1-4076
