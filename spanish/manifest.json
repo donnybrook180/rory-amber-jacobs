@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "targetLang": "es",
   "nativeLangs": [
     "ar",
@@ -22,7 +22,7 @@
   ],
   "wordCount": 5000,
   "audioCount": 0,
-  "exampleCount": 0,
+  "exampleCount": 27,
   "contentHash": null,
   "minAppVersion": "1.0.0",
   "files": {
