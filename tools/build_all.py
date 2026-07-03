@@ -105,4 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# publish trigger: redeploy es senses
+# publish trigger: minified es
