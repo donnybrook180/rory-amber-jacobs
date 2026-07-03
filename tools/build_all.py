@@ -105,4 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# publish trigger: es examples partial 2460
+# publish trigger: shard examples
