@@ -144,10 +144,10 @@
       "targetLang": "es",
       "path": "spanish",
       "manifest": "spanish/manifest.json",
-      "version": 10,
+      "version": 11,
       "wordCount": 5000,
       "audioCount": 0,
-      "exampleCount": 27,
+      "exampleCount": 2460,
       "nativeLangs": [
         "ar",
         "de",
