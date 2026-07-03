@@ -71,7 +71,8 @@ def main():
         if args.check:
             continue
         wpath.write_text(
-            json.dumps(words, ensure_ascii=False, indent=2), encoding="utf-8")
+            json.dumps(words, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8")
         bumped = bump_manifest(wpath.parent)
         if bumped:
             mpath, manifest = bumped

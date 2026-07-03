@@ -81,8 +81,11 @@ def main():
                 break
         return
 
-    wpath.write_text(json.dumps(words, ensure_ascii=False, indent=2),
-                     encoding="utf-8")
+    # Compact: sense data triples file size; indent-2 pushed es past the Pages
+    # deploy ceiling. Manifests/index stay pretty (tiny, diff-friendly).
+    wpath.write_text(
+        json.dumps(words, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
     mpath = wpath.parent / "manifest.json"
     manifest = json.loads(mpath.read_text(encoding="utf-8"))
     manifest["version"] = int(manifest.get("version", 0)) + 1

@@ -269,7 +269,8 @@ def write_output(out_dir: Path, target_lang: str, words: list[dict],
 
     words_path = out_dir / f"words.{target_lang}.json"
     words_path.write_text(
-        json.dumps(words, ensure_ascii=False, indent=2), encoding="utf-8")
+        json.dumps(words, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
 
     new_hash = content_hash(words)
     manifest_path = out_dir / "manifest.json"
