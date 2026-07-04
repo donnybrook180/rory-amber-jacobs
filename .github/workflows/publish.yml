@@ -61,11 +61,16 @@ jobs:
           rm -rf _public && mkdir _public
           cp index.json _public/
           python - <<'PY'
-          import json, shutil
+          import json, os, shutil
           idx = json.load(open("index.json", encoding="utf-8"))
           for app in idx["apps"]:
               shutil.copytree(app["path"], f"_public/{app['path']}")
-          print("staged:", [a["path"] for a in idx["apps"]])
+          # Example shards live at repo root (examples/<code>/<pack>.json),
+          # lazy-fetched by the app — publish them too.
+          if os.path.isdir("examples"):
+              shutil.copytree("examples", "_public/examples")
+          print("staged:", [a["path"] for a in idx["apps"]],
+                "+examples" if os.path.isdir("examples") else "")
           PY
 
       - name: Upload Pages artifact
