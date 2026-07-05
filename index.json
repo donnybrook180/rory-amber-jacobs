@@ -4,10 +4,10 @@
       "targetLang": "en",
       "path": "english",
       "manifest": "english/manifest.json",
-      "version": 12,
+      "version": 13,
       "wordCount": 5000,
       "audioCount": 0,
-      "exampleCount": 2004,
+      "exampleCount": 4154,
       "nativeLangs": [
         "nl",
         "es",
