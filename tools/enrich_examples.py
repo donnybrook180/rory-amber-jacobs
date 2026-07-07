@@ -55,7 +55,9 @@ def main():
     wpath = matches[0]
     words = json.loads(wpath.read_text(encoding="utf-8"))
 
-    ex_by = _collect_examples(args.run_dirs, langs)
+    # Space-delimited script? (unspaced: zh/ja/th use a character floor.)
+    spaced = code not in {'zh', 'ja', 'th'}
+    ex_by = _collect_examples(args.run_dirs, langs, spaced=spaced)
     print(f"parsed examples for {len(ex_by)} distinct keys")
 
     ex_root = ROOT / "examples" / code
@@ -81,7 +83,9 @@ def main():
         if len(aligned) < len(senses):
             aligned += [None] * (len(senses) - len(aligned))
         touched = False
-        # Align by order: example i -> sense i; keep existing where uncovered.
+        # Align by order: sense i's example list -> aligned[i]; keep existing
+        # where this run didn't cover the sense. `examples[i]` is now a *list* of
+        # examples (multiple per sense).
         for i in range(len(senses)):
             if i < len(examples) and examples[i]:
                 aligned[i] = examples[i]
@@ -97,8 +101,9 @@ def main():
     if args.check:
         for pid in sorted(touched_packs):
             for k, al in shards[pid].items():
-                ex = next((e for e in al if e), None)
-                if ex:
+                entry = next((e for e in al if e), None)
+                if entry:
+                    ex = entry[0] if isinstance(entry, list) else entry
                     print(f"  e.g. pack {pid} {k}: {ex['text']}")
                     return
         return
@@ -108,12 +113,18 @@ def main():
             json.dumps(shards[pid], ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8")
 
-    # Recompute totals from every shard on disk (this run + prior).
+    # Recompute totals from every shard on disk (this run + prior). An entry is a
+    # list of examples (current) or a single example object (legacy).
+    def _count(entry):
+        if isinstance(entry, list):
+            return len(entry)
+        return 1 if entry else 0
+
     all_packs = sorted(int(p.stem) for p in ex_root.glob("*.json"))
     total = 0
     for p in all_packs:
         shard = _load_shard(ex_root / f"{p}.json")
-        total += sum(1 for al in shard.values() for e in al if e)
+        total += sum(_count(e) for al in shard.values() for e in al)
 
     mpath = wpath.parent / "manifest.json"
     manifest = json.loads(mpath.read_text(encoding="utf-8"))
