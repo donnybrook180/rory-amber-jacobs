@@ -5,7 +5,8 @@
       "targetLang": "en",
       "source": "resources/Top_5000_Engelse_Woorden_Meertalig_Master.xlsx",
       "out": "english",
-      "minAppVersion": "1.0.0"
+      "minAppVersion": "1.0.0",
+      "voice": "en-US-Neural2-C"
     },
     {
       "targetLang": "de",
