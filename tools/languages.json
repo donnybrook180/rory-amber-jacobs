@@ -13,6 +13,12 @@
       "source": "resources/Top_5000_Duitse_Woorden_Meertalig_Master.xlsx",
       "out": "german",
       "minAppVersion": "1.0.0"
+    },
+    {
+      "targetLang": "es",
+      "out": "spanish",
+      "minAppVersion": "1.0.0",
+      "voice": "es-US-Neural2-B"
     }
   ]
 }
