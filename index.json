@@ -4,9 +4,9 @@
       "targetLang": "en",
       "path": "english",
       "manifest": "english/manifest.json",
-      "version": 18,
+      "version": 19,
       "wordCount": 5000,
-      "audioCount": 0,
+      "audioCount": 5000,
       "exampleCount": 5791,
       "nativeLangs": [
         "nl",
@@ -148,9 +148,9 @@
       "targetLang": "es",
       "path": "spanish",
       "manifest": "spanish/manifest.json",
-      "version": 14,
+      "version": 16,
       "wordCount": 5000,
-      "audioCount": 0,
+      "audioCount": 5000,
       "exampleCount": 5823,
       "nativeLangs": [
         "ar",
