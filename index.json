@@ -64,7 +64,7 @@
       "targetLang": "de",
       "path": "german",
       "manifest": "german/manifest.json",
-      "version": 7,
+      "version": 8,
       "wordCount": 5000,
       "audioCount": 0,
       "exampleCount": 0,
