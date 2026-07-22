@@ -1,12 +1,22 @@
 name: Build & publish CDN
 
-# Regenerates normalized word data from the Excel masters and publishes it to
-# GitHub Pages (served from this repo's root). Triggers when the source spreadsheets
-# or tooling change.
+# Refreshes index.json and publishes the word data to GitHub Pages (served from
+# this repo's root). Triggers on the published content itself, not just on the
+# tooling: word data is generated out-of-band and committed directly, so a fix
+# to a <lang>/words.*.json is a publishable change on its own. Before this, such
+# a commit landed on main and never deployed, and the only way out was bumping a
+# dummy trigger comment in one of the watched paths.
+#
+# The `index.json` entry is safe against a self-trigger loop: the bot commit
+# below is tagged [skip ci].
 on:
   push:
     branches: [main]
     paths:
+      - "*/manifest.json"        # <lang>/manifest.json — `*` does not cross `/`
+      - "*/words.*.json"         # <lang>/words.<code>.json
+      - "examples/**"
+      - "index.json"
       - "resources/**"
       - "tools/**"
       - ".github/workflows/publish.yml"
@@ -88,4 +98,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
-# redeploy trigger: 1784700513
