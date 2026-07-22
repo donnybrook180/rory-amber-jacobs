@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "targetLang": "de",
   "nativeLangs": [
     "nl",
@@ -23,7 +23,7 @@
   "wordCount": 5000,
   "audioCount": 0,
   "exampleCount": 0,
-  "contentHash": "d106fb2d2d70",
+  "contentHash": "f10b6a50b60c",
   "minAppVersion": "1.0.0",
   "files": {
     "words": "words.de.json"
