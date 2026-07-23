@@ -1,16 +1,15 @@
 {
   "cdnRoot": ".",
+  "_note": "NO language has a `source` any more — the committed <lang>/words.*.json is the source of truth for every flavor, and build_all.py without a source is a no-op for content (it only refreshes index.json). Entries exist so gen_audio.py can find each `voice`. Do NOT add a `source` back: the de/es placeholder masters were quarantined to resources/_fake/, and the English master in resources/ is STALE (17 native langs vs the live 21, and no audio/examples) — re-importing it regressed the real English list on 2026-07-23. English is regenerated via gen_lang_content.py, not from Excel. See docs/word-quality-plan.md Phase 0.",
   "languages": [
     {
       "targetLang": "en",
-      "source": "resources/Top_5000_Engelse_Woorden_Meertalig_Master.xlsx",
       "out": "english",
       "minAppVersion": "1.0.0",
       "voice": "en-US-Neural2-C"
     },
     {
       "targetLang": "de",
-      "source": "resources/Top_5000_Duitse_Woorden_Meertalig_Master.xlsx",
       "out": "german",
       "minAppVersion": "1.0.0"
     },
