@@ -98,3 +98,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
+
+# redeploy trigger: 1784912702 (publish English v25 + Spanish v18)
