@@ -100,3 +100,5 @@ jobs:
         uses: actions/deploy-pages@v4
 
 # redeploy trigger: 1784912702 (publish English v25 + Spanish v18)
+
+# redeploy trigger: 1784973123 (English v27 de-jargon)
