@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "targetLang": "en",
   "nativeLangs": [
     "ar",
@@ -22,12 +22,13 @@
     "tr",
     "ur",
     "vi",
-    "zh"
+    "zh",
+    "uk"
   ],
   "wordCount": 5000,
   "audioCount": 5000,
   "exampleCount": 5705,
-  "contentHash": null,
+  "contentHash": "05407334bb50",
   "minAppVersion": "1.0.0",
   "files": {
     "words": "words.en.json"

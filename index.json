@@ -4,7 +4,7 @@
       "targetLang": "en",
       "path": "english",
       "manifest": "english/manifest.json",
-      "version": 27,
+      "version": 28,
       "wordCount": 5000,
       "audioCount": 5000,
       "exampleCount": 5705,
@@ -29,7 +29,8 @@
         "tr",
         "ur",
         "vi",
-        "zh"
+        "zh",
+        "uk"
       ]
     },
     {
@@ -148,7 +149,7 @@
       "targetLang": "es",
       "path": "spanish",
       "manifest": "spanish/manifest.json",
-      "version": 19,
+      "version": 20,
       "wordCount": 5000,
       "audioCount": 5000,
       "exampleCount": 5824,
@@ -173,7 +174,8 @@
         "tr",
         "pl",
         "el",
-        "bn"
+        "bn",
+        "uk"
       ]
     },
     {
