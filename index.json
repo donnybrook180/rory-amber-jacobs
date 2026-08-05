@@ -148,7 +148,7 @@
       "targetLang": "es",
       "path": "spanish",
       "manifest": "spanish/manifest.json",
-      "version": 18,
+      "version": 19,
       "wordCount": 5000,
       "audioCount": 5000,
       "exampleCount": 5824,
@@ -169,7 +169,11 @@
         "th",
         "ur",
         "vi",
-        "zh"
+        "zh",
+        "tr",
+        "pl",
+        "el",
+        "bn"
       ]
     },
     {
