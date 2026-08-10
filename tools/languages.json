@@ -18,6 +18,12 @@
       "out": "spanish",
       "minAppVersion": "1.0.0",
       "voice": "es-US-Neural2-B"
+    },
+    {
+      "targetLang": "fr",
+      "out": "french",
+      "minAppVersion": "1.0.0",
+      "voice": "fr-FR-Neural2-A"
     }
   ]
 }

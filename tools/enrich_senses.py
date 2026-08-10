@@ -24,15 +24,16 @@ from pathlib import Path
 # Reuse the tested parsers from the generator (main repo tools).
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT.parent / "tools"))
-from gen_lang_content import _collect_senses, _merge_glosses, _norm  # noqa: E402
+from gen_lang_content import (  # noqa: E402
+    NATIVE_POOL, _collect_senses, _merge_glosses, _norm, native_langs,
+)
 
-# Native languages a Spanish learner sees (target excluded); mirrors the app.
-NATIVE_POOL = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'id', 'it', 'ja', 'ko',
-               'nl', 'pt', 'ru', 'sw', 'th', 'ur', 'vi', 'zh']
-
-
-def native_langs(code):
-    return [l for l in NATIVE_POOL if l != code]
+# NATIVE_POOL / native_langs come from gen_lang_content — the same list the
+# emit side prompts with. This file used to keep its own copy, which silently
+# fell behind at 18 languages: the generated senses carried all 22 glosses but
+# the flat `translations` view rebuilt here dropped tr/pl/el/bn/uk, leaving the
+# manifest unable to offer them.
+assert len(NATIVE_POOL) >= 18, NATIVE_POOL
 
 
 def main():

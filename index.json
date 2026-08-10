@@ -37,7 +37,7 @@
       "targetLang": "fr",
       "path": "french",
       "manifest": "french/manifest.json",
-      "version": 3,
+      "version": 13,
       "wordCount": 5000,
       "audioCount": 0,
       "exampleCount": 0,
@@ -58,7 +58,12 @@
         "th",
         "ur",
         "vi",
-        "zh"
+        "zh",
+        "tr",
+        "pl",
+        "el",
+        "bn",
+        "uk"
       ]
     },
     {

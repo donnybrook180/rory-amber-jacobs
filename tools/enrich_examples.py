@@ -26,14 +26,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT.parent / "tools"))
-from gen_lang_content import _collect_examples, _norm  # noqa: E402
+from gen_lang_content import (  # noqa: E402
+    NATIVE_POOL, _collect_examples, _norm, native_langs,
+)
 
-NATIVE_POOL = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'id', 'it', 'ja', 'ko',
-               'nl', 'pt', 'ru', 'sw', 'th', 'ur', 'vi', 'zh']
-
-
-def native_langs(code):
-    return [l for l in NATIVE_POOL if l != code]
+# NATIVE_POOL / native_langs come from gen_lang_content — the same list the emit
+# side prompts with. This file used to keep its own copy, which fell behind at 18
+# languages: agents returned all 22 sentence translations and the merge silently
+# dropped tr/pl/el/bn/uk on the way into the shards.
+assert len(NATIVE_POOL) >= 18, NATIVE_POOL
 
 
 def _load_shard(path):
