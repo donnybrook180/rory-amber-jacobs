@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "targetLang": "vi",
   "nativeLangs": [
     "ar",
@@ -23,7 +23,7 @@
   "wordCount": 5000,
   "audioCount": 0,
   "exampleCount": 0,
-  "contentHash": null,
+  "contentHash": "6432e2d7c466",
   "minAppVersion": "1.0.0",
   "files": {
     "words.vi.json": "words.vi.json",

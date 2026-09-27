@@ -23603,60 +23603,211 @@
     },
     "translations": {
       "ar": [
-        "لقاء"
+        "لقاء",
+        "موعد غرامي"
       ],
       "de": [
-        "Treffen"
+        "Treffen",
+        "Date",
+        "Verabredung"
       ],
       "en": [
-        "meeting"
+        "meeting",
+        "date"
       ],
       "es": [
-        "encuentro"
+        "encuentro",
+        "cita"
       ],
       "fr": [
-        "rencontre"
+        "rencontre",
+        "rendez-vous"
       ],
       "hi": [
-        "मुलाक़ात"
+        "मुलाक़ात",
+        "डेट"
       ],
       "id": [
-        "pertemuan"
+        "pertemuan",
+        "kencan"
       ],
       "it": [
-        "incontro"
+        "incontro",
+        "appuntamento"
       ],
       "ja": [
-        "出会い"
+        "出会い",
+        "デート"
       ],
       "ko": [
-        "만남"
+        "만남",
+        "데이트"
       ],
       "nl": [
-        "ontmoeting"
+        "ontmoeting",
+        "afspraakje",
+        "date"
       ],
       "ru": [
-        "встреча"
+        "встреча",
+        "свидание"
       ],
       "sw": [
-        "mkutano"
+        "mkutano",
+        "miadi ya kimapenzi"
       ],
       "th": [
-        "การพบกัน"
+        "การพบกัน",
+        "เดท"
       ],
       "ur": [
         "ملاقات"
       ],
       "vi": [
-        "cuộc gặp"
+        "cuộc gặp",
+        "cuộc hẹn hò"
       ],
       "zh": [
-        "会面"
+        "会面",
+        "约会"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2163
+    "srcRank": 2163,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "لقاء"
+          ],
+          "de": [
+            "Treffen"
+          ],
+          "en": [
+            "meeting"
+          ],
+          "es": [
+            "encuentro"
+          ],
+          "fr": [
+            "rencontre"
+          ],
+          "hi": [
+            "मुलाक़ात"
+          ],
+          "id": [
+            "pertemuan"
+          ],
+          "it": [
+            "incontro"
+          ],
+          "ja": [
+            "出会い"
+          ],
+          "ko": [
+            "만남"
+          ],
+          "nl": [
+            "ontmoeting"
+          ],
+          "ru": [
+            "встреча"
+          ],
+          "sw": [
+            "mkutano"
+          ],
+          "th": [
+            "การพบกัน"
+          ],
+          "ur": [
+            "ملاقات"
+          ],
+          "vi": [
+            "cuộc gặp"
+          ],
+          "zh": [
+            "会面"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "موعد غرامي"
+          ],
+          "de": [
+            "Date",
+            "Verabredung"
+          ],
+          "en": [
+            "date"
+          ],
+          "es": [
+            "cita"
+          ],
+          "fr": [
+            "rendez-vous"
+          ],
+          "hi": [
+            "डेट"
+          ],
+          "id": [
+            "kencan"
+          ],
+          "it": [
+            "appuntamento"
+          ],
+          "ja": [
+            "デート"
+          ],
+          "ko": [
+            "데이트"
+          ],
+          "nl": [
+            "afspraakje",
+            "date"
+          ],
+          "ru": [
+            "свидание"
+          ],
+          "sw": [
+            "miadi ya kimapenzi"
+          ],
+          "th": [
+            "เดท"
+          ],
+          "ur": [
+            "ملاقات"
+          ],
+          "vi": [
+            "cuộc hẹn hò"
+          ],
+          "zh": [
+            "约会"
+          ]
+        },
+        "note": {
+          "ar": "لقاء رومانسي",
+          "de": "romantisches Treffen",
+          "en": "romantic meeting",
+          "es": "cita romántica",
+          "fr": "rendez-vous amoureux",
+          "hi": "रोमांटिक मुलाकात",
+          "id": "pertemuan romantis",
+          "it": "incontro romantico",
+          "ja": "恋人との約束",
+          "ko": "연인과의 만남",
+          "nl": "romantische afspraak",
+          "ru": "романтическая встреча",
+          "sw": "mkutano wa kimapenzi",
+          "th": "นัดแบบโรแมนติก",
+          "ur": "رومانوی ملاقات",
+          "vi": "hẹn hò lãng mạn",
+          "zh": "浪漫的约会"
+        }
+      }
+    ]
   },
   {
     "key": "pt_d3d357c16c68",
@@ -38857,60 +39008,207 @@
     },
     "translations": {
       "ar": [
-        "فصل"
+        "فصل",
+        "محطة"
       ],
       "de": [
-        "Jahreszeit"
+        "Jahreszeit",
+        "Bahnhof"
       ],
       "en": [
-        "season"
+        "season",
+        "station"
       ],
       "es": [
         "estación"
       ],
       "fr": [
-        "saison"
+        "saison",
+        "gare"
       ],
       "hi": [
-        "मौसम"
+        "मौसम",
+        "स्टेशन"
       ],
       "id": [
-        "musim"
+        "musim",
+        "stasiun"
       ],
       "it": [
-        "stagione"
+        "stagione",
+        "stazione"
       ],
       "ja": [
-        "季節"
+        "季節",
+        "駅"
       ],
       "ko": [
-        "계절"
+        "계절",
+        "역"
       ],
       "nl": [
-        "seizoen"
+        "seizoen",
+        "station"
       ],
       "ru": [
-        "время года"
+        "время года",
+        "вокзал"
       ],
       "sw": [
-        "majira"
+        "majira",
+        "kituo"
       ],
       "th": [
-        "ฤดูกาล"
+        "ฤดูกาล",
+        "สถานี"
       ],
       "ur": [
-        "موسم"
+        "موسم",
+        "اسٹیشن"
       ],
       "vi": [
-        "mùa"
+        "mùa",
+        "nhà ga"
       ],
       "zh": [
-        "季节"
+        "季节",
+        "车站"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 862
+    "srcRank": 862,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "فصل"
+          ],
+          "de": [
+            "Jahreszeit"
+          ],
+          "en": [
+            "season"
+          ],
+          "es": [
+            "estación"
+          ],
+          "fr": [
+            "saison"
+          ],
+          "hi": [
+            "मौसम"
+          ],
+          "id": [
+            "musim"
+          ],
+          "it": [
+            "stagione"
+          ],
+          "ja": [
+            "季節"
+          ],
+          "ko": [
+            "계절"
+          ],
+          "nl": [
+            "seizoen"
+          ],
+          "ru": [
+            "время года"
+          ],
+          "sw": [
+            "majira"
+          ],
+          "th": [
+            "ฤดูกาล"
+          ],
+          "ur": [
+            "موسم"
+          ],
+          "vi": [
+            "mùa"
+          ],
+          "zh": [
+            "季节"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "محطة"
+          ],
+          "de": [
+            "Bahnhof"
+          ],
+          "en": [
+            "station"
+          ],
+          "es": [
+            "estación"
+          ],
+          "fr": [
+            "gare"
+          ],
+          "hi": [
+            "स्टेशन"
+          ],
+          "id": [
+            "stasiun"
+          ],
+          "it": [
+            "stazione"
+          ],
+          "ja": [
+            "駅"
+          ],
+          "ko": [
+            "역"
+          ],
+          "nl": [
+            "station"
+          ],
+          "ru": [
+            "вокзал"
+          ],
+          "sw": [
+            "kituo"
+          ],
+          "th": [
+            "สถานี"
+          ],
+          "ur": [
+            "اسٹیشن"
+          ],
+          "vi": [
+            "nhà ga"
+          ],
+          "zh": [
+            "车站"
+          ]
+        },
+        "note": {
+          "ar": "محطة قطار أو حافلة",
+          "de": "Zug- oder Busbahnhof",
+          "en": "train or bus station",
+          "es": "de tren o autobús",
+          "fr": "train ou bus",
+          "hi": "ट्रेन या बस स्टेशन",
+          "id": "kereta atau bus",
+          "it": "treni o autobus",
+          "ja": "電車・バスの駅",
+          "ko": "기차·버스 역",
+          "nl": "trein of bus",
+          "ru": "ж/д или автобусный",
+          "sw": "treni au basi",
+          "th": "รถไฟหรือรถบัส",
+          "ur": "ریل یا بس",
+          "vi": "tàu hoặc xe buýt",
+          "zh": "火车或汽车站"
+        }
+      }
+    ]
   },
   {
     "key": "pt_d863b2e34e4a",
@@ -42153,60 +42451,209 @@
     },
     "translations": {
       "ar": [
-        "صندوق"
+        "صندوق",
+        "صندوق الدفع"
       ],
       "de": [
-        "Schachtel"
+        "Schachtel",
+        "Kasse"
       ],
       "en": [
-        "box"
+        "box",
+        "checkout",
+        "cash register"
       ],
       "es": [
         "caja"
       ],
       "fr": [
-        "boîte"
+        "boîte",
+        "caisse"
       ],
       "hi": [
-        "डिब्बा"
+        "डिब्बा",
+        "कैश काउंटर"
       ],
       "id": [
-        "kotak"
+        "kotak",
+        "kasir"
       ],
       "it": [
-        "scatola"
+        "scatola",
+        "cassa"
       ],
       "ja": [
-        "箱"
+        "箱",
+        "レジ"
       ],
       "ko": [
-        "상자"
+        "상자",
+        "계산대"
       ],
       "nl": [
-        "doos"
+        "doos",
+        "kassa"
       ],
       "ru": [
-        "коробка"
+        "коробка",
+        "касса"
       ],
       "sw": [
-        "sanduku"
+        "sanduku",
+        "mahali pa kulipia"
       ],
       "th": [
-        "กล่อง"
+        "กล่อง",
+        "แคชเชียร์"
       ],
       "ur": [
-        "ڈبہ"
+        "ڈبہ",
+        "کیش کاؤنٹر"
       ],
       "vi": [
-        "hộp"
+        "hộp",
+        "quầy thu ngân"
       ],
       "zh": [
-        "箱子"
+        "箱子",
+        "收银台"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 956
+    "srcRank": 956,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "صندوق"
+          ],
+          "de": [
+            "Schachtel"
+          ],
+          "en": [
+            "box"
+          ],
+          "es": [
+            "caja"
+          ],
+          "fr": [
+            "boîte"
+          ],
+          "hi": [
+            "डिब्बा"
+          ],
+          "id": [
+            "kotak"
+          ],
+          "it": [
+            "scatola"
+          ],
+          "ja": [
+            "箱"
+          ],
+          "ko": [
+            "상자"
+          ],
+          "nl": [
+            "doos"
+          ],
+          "ru": [
+            "коробка"
+          ],
+          "sw": [
+            "sanduku"
+          ],
+          "th": [
+            "กล่อง"
+          ],
+          "ur": [
+            "ڈبہ"
+          ],
+          "vi": [
+            "hộp"
+          ],
+          "zh": [
+            "箱子"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "صندوق الدفع"
+          ],
+          "de": [
+            "Kasse"
+          ],
+          "en": [
+            "checkout",
+            "cash register"
+          ],
+          "es": [
+            "caja"
+          ],
+          "fr": [
+            "caisse"
+          ],
+          "hi": [
+            "कैश काउंटर"
+          ],
+          "id": [
+            "kasir"
+          ],
+          "it": [
+            "cassa"
+          ],
+          "ja": [
+            "レジ"
+          ],
+          "ko": [
+            "계산대"
+          ],
+          "nl": [
+            "kassa"
+          ],
+          "ru": [
+            "касса"
+          ],
+          "sw": [
+            "mahali pa kulipia"
+          ],
+          "th": [
+            "แคชเชียร์"
+          ],
+          "ur": [
+            "کیش کاؤنٹر"
+          ],
+          "vi": [
+            "quầy thu ngân"
+          ],
+          "zh": [
+            "收银台"
+          ]
+        },
+        "note": {
+          "ar": "مكان الدفع بالمتجر",
+          "de": "wo man bezahlt",
+          "en": "where you pay",
+          "es": "donde se paga",
+          "fr": "où on paie",
+          "hi": "जहाँ भुगतान करते",
+          "id": "tempat membayar",
+          "it": "dove si paga",
+          "ja": "店で支払う所",
+          "ko": "돈 내는 곳",
+          "nl": "waar je betaalt",
+          "ru": "где платят",
+          "sw": "unapolipa dukani",
+          "th": "ที่จ่ายเงิน",
+          "ur": "جہاں ادائیگی ہو",
+          "vi": "nơi trả tiền",
+          "zh": "商店付款处"
+        }
+      }
+    ]
   },
   {
     "key": "pt_7835a00a51c1",
@@ -50494,60 +50941,221 @@
     },
     "translations": {
       "ar": [
-        "ممر"
+        "ممر",
+        "تذكرة"
       ],
       "de": [
-        "Durchgang"
+        "Durchgang",
+        "Fahrkarte",
+        "Ticket"
       ],
       "en": [
-        "passage"
+        "passage",
+        "ticket",
+        "fare"
       ],
       "es": [
-        "pasaje"
+        "pasaje",
+        "billete"
       ],
       "fr": [
-        "passage"
+        "passage",
+        "billet"
       ],
       "hi": [
-        "रास्ता"
+        "रास्ता",
+        "टिकट"
       ],
       "id": [
-        "jalan lintas"
+        "jalan lintas",
+        "tiket"
       ],
       "it": [
-        "passaggio"
+        "passaggio",
+        "biglietto"
       ],
       "ja": [
-        "通路"
+        "通路",
+        "切符",
+        "航空券"
       ],
       "ko": [
-        "통로"
+        "통로",
+        "표",
+        "항공권"
       ],
       "nl": [
-        "doorgang"
+        "doorgang",
+        "kaartje",
+        "ticket"
       ],
       "ru": [
-        "проход"
+        "проход",
+        "билет"
       ],
       "sw": [
-        "njia ya kupita"
+        "njia ya kupita",
+        "tiketi"
       ],
       "th": [
-        "ทางผ่าน"
+        "ทางผ่าน",
+        "ตั๋ว"
       ],
       "ur": [
-        "گزرگاہ"
+        "گزرگاہ",
+        "ٹکٹ"
       ],
       "vi": [
-        "lối đi"
+        "lối đi",
+        "vé"
       ],
       "zh": [
-        "通道"
+        "通道",
+        "票",
+        "车票"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2756
+    "srcRank": 2756,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "ممر"
+          ],
+          "de": [
+            "Durchgang"
+          ],
+          "en": [
+            "passage"
+          ],
+          "es": [
+            "pasaje"
+          ],
+          "fr": [
+            "passage"
+          ],
+          "hi": [
+            "रास्ता"
+          ],
+          "id": [
+            "jalan lintas"
+          ],
+          "it": [
+            "passaggio"
+          ],
+          "ja": [
+            "通路"
+          ],
+          "ko": [
+            "통로"
+          ],
+          "nl": [
+            "doorgang"
+          ],
+          "ru": [
+            "проход"
+          ],
+          "sw": [
+            "njia ya kupita"
+          ],
+          "th": [
+            "ทางผ่าน"
+          ],
+          "ur": [
+            "گزرگاہ"
+          ],
+          "vi": [
+            "lối đi"
+          ],
+          "zh": [
+            "通道"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "تذكرة"
+          ],
+          "de": [
+            "Fahrkarte",
+            "Ticket"
+          ],
+          "en": [
+            "ticket",
+            "fare"
+          ],
+          "es": [
+            "billete",
+            "pasaje"
+          ],
+          "fr": [
+            "billet"
+          ],
+          "hi": [
+            "टिकट"
+          ],
+          "id": [
+            "tiket"
+          ],
+          "it": [
+            "biglietto"
+          ],
+          "ja": [
+            "切符",
+            "航空券"
+          ],
+          "ko": [
+            "표",
+            "항공권"
+          ],
+          "nl": [
+            "kaartje",
+            "ticket"
+          ],
+          "ru": [
+            "билет"
+          ],
+          "sw": [
+            "tiketi"
+          ],
+          "th": [
+            "ตั๋ว"
+          ],
+          "ur": [
+            "ٹکٹ"
+          ],
+          "vi": [
+            "vé"
+          ],
+          "zh": [
+            "票",
+            "车票"
+          ]
+        },
+        "note": {
+          "ar": "تذكرة سفر",
+          "de": "für Bus, Flugzeug",
+          "en": "travel ticket",
+          "es": "billete de viaje",
+          "fr": "billet de voyage",
+          "hi": "यात्रा टिकट",
+          "id": "tiket perjalanan",
+          "it": "biglietto di viaggio",
+          "ja": "乗り物の券",
+          "ko": "여행용 표",
+          "nl": "reisbiljet",
+          "ru": "проездной билет",
+          "sw": "tiketi ya safari",
+          "th": "ตั๋วเดินทาง",
+          "ur": "سفر کا ٹکٹ",
+          "vi": "vé đi lại",
+          "zh": "旅行票"
+        }
+      }
+    ]
   },
   {
     "key": "pt_58668d3734d4",
@@ -77343,60 +77951,225 @@
     },
     "translations": {
       "ar": [
-        "رواية"
+        "رواية",
+        "علاقة حب"
       ],
       "de": [
-        "Roman"
+        "Roman",
+        "Romanze",
+        "Affäre"
       ],
       "en": [
-        "novel"
+        "novel",
+        "romance",
+        "love affair"
       ],
       "es": [
-        "novela"
+        "novela",
+        "romance",
+        "amorío"
       ],
       "fr": [
-        "roman"
+        "roman",
+        "idylle",
+        "liaison"
       ],
       "hi": [
-        "उपन्यास"
+        "उपन्यास",
+        "प्रेम संबंध"
       ],
       "id": [
-        "novel"
+        "novel",
+        "asmara",
+        "percintaan"
       ],
       "it": [
-        "romanzo"
+        "romanzo",
+        "storia d'amore"
       ],
       "ja": [
-        "小説"
+        "小説",
+        "恋愛",
+        "ロマンス"
       ],
       "ko": [
-        "소설"
+        "소설",
+        "연애",
+        "로맨스"
       ],
       "nl": [
-        "roman"
+        "roman",
+        "romance",
+        "affaire"
       ],
       "ru": [
         "роман"
       ],
       "sw": [
-        "riwaya"
+        "riwaya",
+        "mapenzi"
       ],
       "th": [
-        "นวนิยาย"
+        "นวนิยาย",
+        "ความรัก"
       ],
       "ur": [
-        "ناول"
+        "ناول",
+        "عشق",
+        "رومانس"
       ],
       "vi": [
-        "tiểu thuyết"
+        "tiểu thuyết",
+        "mối tình"
       ],
       "zh": [
-        "小说"
+        "小说",
+        "恋情"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2487
+    "srcRank": 2487,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "رواية"
+          ],
+          "de": [
+            "Roman"
+          ],
+          "en": [
+            "novel"
+          ],
+          "es": [
+            "novela"
+          ],
+          "fr": [
+            "roman"
+          ],
+          "hi": [
+            "उपन्यास"
+          ],
+          "id": [
+            "novel"
+          ],
+          "it": [
+            "romanzo"
+          ],
+          "ja": [
+            "小説"
+          ],
+          "ko": [
+            "소설"
+          ],
+          "nl": [
+            "roman"
+          ],
+          "ru": [
+            "роман"
+          ],
+          "sw": [
+            "riwaya"
+          ],
+          "th": [
+            "นวนิยาย"
+          ],
+          "ur": [
+            "ناول"
+          ],
+          "vi": [
+            "tiểu thuyết"
+          ],
+          "zh": [
+            "小说"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "علاقة حب"
+          ],
+          "de": [
+            "Romanze",
+            "Affäre"
+          ],
+          "en": [
+            "romance",
+            "love affair"
+          ],
+          "es": [
+            "romance",
+            "amorío"
+          ],
+          "fr": [
+            "idylle",
+            "liaison"
+          ],
+          "hi": [
+            "प्रेम संबंध"
+          ],
+          "id": [
+            "asmara",
+            "percintaan"
+          ],
+          "it": [
+            "storia d'amore"
+          ],
+          "ja": [
+            "恋愛",
+            "ロマンス"
+          ],
+          "ko": [
+            "연애",
+            "로맨스"
+          ],
+          "nl": [
+            "romance",
+            "affaire"
+          ],
+          "ru": [
+            "роман"
+          ],
+          "sw": [
+            "mapenzi"
+          ],
+          "th": [
+            "ความรัก"
+          ],
+          "ur": [
+            "عشق",
+            "رومانس"
+          ],
+          "vi": [
+            "mối tình"
+          ],
+          "zh": [
+            "恋情"
+          ]
+        },
+        "note": {
+          "ar": "علاقة رومانسية",
+          "de": "romantische Beziehung",
+          "en": "romantic relationship",
+          "es": "relación amorosa",
+          "fr": "relation amoureuse",
+          "hi": "रोमांटिक रिश्ता",
+          "id": "hubungan romantis",
+          "it": "relazione amorosa",
+          "ja": "恋愛関係",
+          "ko": "연인 관계",
+          "nl": "romantische relatie",
+          "ru": "любовные отношения",
+          "sw": "uhusiano wa kimapenzi",
+          "th": "ความสัมพันธ์รัก",
+          "ur": "محبت کا رشتہ",
+          "vi": "quan hệ yêu đương",
+          "zh": "恋爱关系"
+        }
+      }
+    ]
   },
   {
     "key": "pt_974e26622878",
@@ -132409,11 +133182,13 @@
       ],
       "de": [
         "Erinnerung",
-        "Andenken"
+        "Andenken",
+        "Souvenir"
       ],
       "en": [
         "memory",
-        "keepsake"
+        "keepsake",
+        "souvenir"
       ],
       "es": [
         "recuerdo"
@@ -132423,18 +133198,22 @@
       ],
       "hi": [
         "याद",
-        "स्मृति"
+        "स्मृति",
+        "स्मृति-चिह्न"
       ],
       "id": [
         "kenangan",
-        "oleh-oleh"
+        "oleh-oleh",
+        "suvenir"
       ],
       "it": [
-        "ricordo"
+        "ricordo",
+        "souvenir"
       ],
       "ja": [
         "思い出",
-        "記念品"
+        "記念品",
+        "お土産"
       ],
       "ko": [
         "추억",
@@ -132442,14 +133221,16 @@
       ],
       "nl": [
         "herinnering",
-        "aandenken"
+        "aandenken",
+        "souvenir"
       ],
       "ru": [
         "воспоминание",
         "сувенир"
       ],
       "sw": [
-        "kumbukumbu"
+        "kumbukumbu",
+        "zawadi ya ukumbusho"
       ],
       "th": [
         "ความทรงจำ",
@@ -132457,7 +133238,8 @@
       ],
       "ur": [
         "یاد",
-        "یادگار"
+        "یادگار",
+        "یادگار تحفہ"
       ],
       "vi": [
         "kỷ niệm",
@@ -132470,7 +133252,154 @@
     },
     "audio": null,
     "examples": [],
-    "srcRank": 1672
+    "srcRank": 1672,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "ذكرى",
+            "تذكار"
+          ],
+          "de": [
+            "Erinnerung",
+            "Andenken"
+          ],
+          "en": [
+            "memory",
+            "keepsake"
+          ],
+          "es": [
+            "recuerdo"
+          ],
+          "fr": [
+            "souvenir"
+          ],
+          "hi": [
+            "याद",
+            "स्मृति"
+          ],
+          "id": [
+            "kenangan",
+            "oleh-oleh"
+          ],
+          "it": [
+            "ricordo"
+          ],
+          "ja": [
+            "思い出",
+            "記念品"
+          ],
+          "ko": [
+            "추억",
+            "기념품"
+          ],
+          "nl": [
+            "herinnering",
+            "aandenken"
+          ],
+          "ru": [
+            "воспоминание",
+            "сувенир"
+          ],
+          "sw": [
+            "kumbukumbu"
+          ],
+          "th": [
+            "ความทรงจำ",
+            "ของที่ระลึก"
+          ],
+          "ur": [
+            "یاد",
+            "یادگار"
+          ],
+          "vi": [
+            "kỷ niệm",
+            "quà lưu niệm"
+          ],
+          "zh": [
+            "回忆",
+            "纪念品"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "تذكار"
+          ],
+          "de": [
+            "Souvenir",
+            "Andenken"
+          ],
+          "en": [
+            "souvenir"
+          ],
+          "es": [
+            "recuerdo"
+          ],
+          "fr": [
+            "souvenir"
+          ],
+          "hi": [
+            "स्मृति-चिह्न"
+          ],
+          "id": [
+            "oleh-oleh",
+            "suvenir"
+          ],
+          "it": [
+            "souvenir",
+            "ricordo"
+          ],
+          "ja": [
+            "お土産"
+          ],
+          "ko": [
+            "기념품"
+          ],
+          "nl": [
+            "souvenir"
+          ],
+          "ru": [
+            "сувенир"
+          ],
+          "sw": [
+            "zawadi ya ukumbusho"
+          ],
+          "th": [
+            "ของที่ระลึก"
+          ],
+          "ur": [
+            "یادگار تحفہ"
+          ],
+          "vi": [
+            "quà lưu niệm"
+          ],
+          "zh": [
+            "纪念品"
+          ]
+        },
+        "note": {
+          "ar": "هدية من رحلة",
+          "de": "Mitbringsel von Reise",
+          "en": "gift from a trip",
+          "es": "regalo de viaje",
+          "fr": "cadeau de voyage",
+          "hi": "यात्रा से उपहार",
+          "id": "hadiah dari perjalanan",
+          "it": "regalo di viaggio",
+          "ja": "旅行の贈り物",
+          "ko": "여행 선물",
+          "nl": "cadeautje van reis",
+          "ru": "подарок из поездки",
+          "sw": "zawadi ya safari",
+          "th": "ของฝากจากทริป",
+          "ur": "سفر کا تحفہ",
+          "vi": "quà từ chuyến đi",
+          "zh": "旅行带回的礼物"
+        }
+      }
+    ]
   },
   {
     "key": "pt_24c12f93da20",
@@ -141023,71 +141952,234 @@
     "translations": {
       "ar": [
         "يجمع",
-        "يدمج"
+        "يدمج",
+        "يتناسب"
       ],
       "de": [
         "kombinieren",
-        "vereinbaren"
+        "vereinbaren",
+        "passen zu"
       ],
       "en": [
-        "combine"
+        "combine",
+        "to match",
+        "to go with"
       ],
       "es": [
-        "combinar"
+        "combinar",
+        "pegar"
       ],
       "fr": [
-        "combiner"
+        "combiner",
+        "aller avec"
       ],
       "hi": [
         "मिलाना",
-        "जोड़ना"
+        "जोड़ना",
+        "मेल खाना"
       ],
       "id": [
         "menggabungkan",
-        "mengombinasikan"
+        "mengombinasikan",
+        "cocok"
       ],
       "it": [
-        "combinare"
+        "combinare",
+        "abbinarsi"
       ],
       "ja": [
         "組み合わせる",
-        "結合する"
+        "結合する",
+        "合う"
       ],
       "ko": [
         "결합하다",
-        "조합하다"
+        "조합하다",
+        "어울리다"
       ],
       "nl": [
         "combineren",
-        "afspreken"
+        "afspreken",
+        "passen bij"
       ],
       "ru": [
         "сочетать",
-        "комбинировать"
+        "комбинировать",
+        "сочетаться"
       ],
       "sw": [
         "kuchanganya",
-        "kuunganisha"
+        "kuunganisha",
+        "kuendana"
       ],
       "th": [
         "รวม",
-        "ผสม"
+        "ผสม",
+        "เข้ากัน"
       ],
       "ur": [
         "ملانا",
-        "جوڑنا"
+        "جوڑنا",
+        "میل کھانا"
       ],
       "vi": [
-        "kết hợp"
+        "kết hợp",
+        "hợp với"
       ],
       "zh": [
         "结合",
-        "组合"
+        "组合",
+        "搭配"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 988
+    "srcRank": 988,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "يجمع",
+            "يدمج"
+          ],
+          "de": [
+            "kombinieren",
+            "vereinbaren"
+          ],
+          "en": [
+            "combine"
+          ],
+          "es": [
+            "combinar"
+          ],
+          "fr": [
+            "combiner"
+          ],
+          "hi": [
+            "मिलाना",
+            "जोड़ना"
+          ],
+          "id": [
+            "menggabungkan",
+            "mengombinasikan"
+          ],
+          "it": [
+            "combinare"
+          ],
+          "ja": [
+            "組み合わせる",
+            "結合する"
+          ],
+          "ko": [
+            "결합하다",
+            "조합하다"
+          ],
+          "nl": [
+            "combineren",
+            "afspreken"
+          ],
+          "ru": [
+            "сочетать",
+            "комбинировать"
+          ],
+          "sw": [
+            "kuchanganya",
+            "kuunganisha"
+          ],
+          "th": [
+            "รวม",
+            "ผสม"
+          ],
+          "ur": [
+            "ملانا",
+            "جوڑنا"
+          ],
+          "vi": [
+            "kết hợp"
+          ],
+          "zh": [
+            "结合",
+            "组合"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "يتناسب"
+          ],
+          "de": [
+            "passen zu"
+          ],
+          "en": [
+            "to match",
+            "to go with"
+          ],
+          "es": [
+            "combinar",
+            "pegar"
+          ],
+          "fr": [
+            "aller avec"
+          ],
+          "hi": [
+            "मेल खाना"
+          ],
+          "id": [
+            "cocok"
+          ],
+          "it": [
+            "abbinarsi"
+          ],
+          "ja": [
+            "合う"
+          ],
+          "ko": [
+            "어울리다"
+          ],
+          "nl": [
+            "passen bij"
+          ],
+          "ru": [
+            "сочетаться"
+          ],
+          "sw": [
+            "kuendana"
+          ],
+          "th": [
+            "เข้ากัน"
+          ],
+          "ur": [
+            "میل کھانا"
+          ],
+          "vi": [
+            "hợp với"
+          ],
+          "zh": [
+            "搭配"
+          ]
+        },
+        "note": {
+          "ar": "ملابس متناسقة",
+          "de": "Kleidung passt zusammen",
+          "en": "clothes going together",
+          "es": "ropa que combina",
+          "fr": "vêtements assortis",
+          "hi": "कपड़े मेल खाते",
+          "id": "pakaian serasi",
+          "it": "vestiti abbinati",
+          "ja": "服が合う",
+          "ko": "옷이 어울림",
+          "nl": "kleding past samen",
+          "ru": "одежда сочетается",
+          "sw": "nguo zinaendana",
+          "th": "เสื้อผ้าเข้ากัน",
+          "ur": "کپڑوں کا میل",
+          "vi": "quần áo hợp nhau",
+          "zh": "衣服相配"
+        }
+      }
+    ]
   },
   {
     "key": "pt_5e5830495566",
@@ -149454,13 +150546,16 @@
     },
     "translations": {
       "ar": [
-        "معاش"
+        "معاش",
+        "نُزُل"
       ],
       "de": [
-        "Rente"
+        "Rente",
+        "Pension"
       ],
       "en": [
-        "pension"
+        "pension",
+        "guesthouse"
       ],
       "es": [
         "pensión"
@@ -149469,45 +150564,187 @@
         "pension"
       ],
       "hi": [
-        "पेंशन"
+        "पेंशन",
+        "गेस्टहाउस"
       ],
       "id": [
-        "pensiun"
+        "pensiun",
+        "losmen"
       ],
       "it": [
         "pensione"
       ],
       "ja": [
-        "年金"
+        "年金",
+        "民宿"
       ],
       "ko": [
-        "연금"
+        "연금",
+        "민박"
       ],
       "nl": [
-        "pensioen"
+        "pensioen",
+        "pension"
       ],
       "ru": [
-        "пенсия"
+        "пенсия",
+        "пансион"
       ],
       "sw": [
-        "pensheni"
+        "pensheni",
+        "nyumba ya wageni"
       ],
       "th": [
-        "เงินบำนาญ"
+        "เงินบำนาญ",
+        "เกสต์เฮาส์"
       ],
       "ur": [
-        "پنشن"
+        "پنشن",
+        "مہمان خانہ"
       ],
       "vi": [
-        "lương hưu"
+        "lương hưu",
+        "nhà trọ"
       ],
       "zh": [
-        "养老金"
+        "养老金",
+        "家庭旅馆"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 3253
+    "srcRank": 3253,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "معاش"
+          ],
+          "de": [
+            "Rente"
+          ],
+          "en": [
+            "pension"
+          ],
+          "es": [
+            "pensión"
+          ],
+          "fr": [
+            "pension"
+          ],
+          "hi": [
+            "पेंशन"
+          ],
+          "id": [
+            "pensiun"
+          ],
+          "it": [
+            "pensione"
+          ],
+          "ja": [
+            "年金"
+          ],
+          "ko": [
+            "연금"
+          ],
+          "nl": [
+            "pensioen"
+          ],
+          "ru": [
+            "пенсия"
+          ],
+          "sw": [
+            "pensheni"
+          ],
+          "th": [
+            "เงินบำนาญ"
+          ],
+          "ur": [
+            "پنشن"
+          ],
+          "vi": [
+            "lương hưu"
+          ],
+          "zh": [
+            "养老金"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "نُزُل"
+          ],
+          "de": [
+            "Pension"
+          ],
+          "en": [
+            "guesthouse"
+          ],
+          "es": [
+            "pensión"
+          ],
+          "fr": [
+            "pension"
+          ],
+          "hi": [
+            "गेस्टहाउस"
+          ],
+          "id": [
+            "losmen"
+          ],
+          "it": [
+            "pensione"
+          ],
+          "ja": [
+            "民宿"
+          ],
+          "ko": [
+            "민박"
+          ],
+          "nl": [
+            "pension"
+          ],
+          "ru": [
+            "пансион"
+          ],
+          "sw": [
+            "nyumba ya wageni"
+          ],
+          "th": [
+            "เกสต์เฮาส์"
+          ],
+          "ur": [
+            "مہمان خانہ"
+          ],
+          "vi": [
+            "nhà trọ"
+          ],
+          "zh": [
+            "家庭旅馆"
+          ]
+        },
+        "note": {
+          "ar": "سكن رخيص مع وجبات",
+          "de": "günstige Unterkunft, Verpflegung",
+          "en": "budget lodging, meals",
+          "es": "alojamiento barato, comidas",
+          "fr": "logement modeste, repas",
+          "hi": "सस्ता ठहराव, भोजन",
+          "id": "penginapan murah, makan",
+          "it": "alloggio economico, pasti",
+          "ja": "安い宿・食事付き",
+          "ko": "저렴한 숙소, 식사",
+          "nl": "goedkoop logies, maaltijden",
+          "ru": "дешёвое жильё, питание",
+          "sw": "malazi nafuu, milo",
+          "th": "ที่พักราคาถูก มีอาหาร",
+          "ur": "سستی رہائش، کھانا",
+          "vi": "chỗ trọ rẻ, bữa ăn",
+          "zh": "廉价住宿含餐"
+        }
+      }
+    ]
   },
   {
     "key": "pt_c86975e17b5e",
@@ -217952,61 +219189,222 @@
     },
     "translations": {
       "ar": [
-        "يستضيف"
+        "يستضيف",
+        "يقيم"
       ],
       "de": [
-        "beherbergen"
+        "beherbergen",
+        "übernachten"
       ],
       "en": [
-        "host"
+        "host",
+        "to stay",
+        "to lodge"
       ],
       "es": [
-        "hospedar"
+        "hospedar",
+        "hospedarse",
+        "alojarse"
       ],
       "fr": [
-        "héberger"
+        "héberger",
+        "loger",
+        "séjourner"
       ],
       "hi": [
-        "मेज़बानी करना"
+        "मेज़बानी करना",
+        "ठहरना"
       ],
       "id": [
         "menampung",
-        "menjadi tuan rumah"
+        "menjadi tuan rumah",
+        "menginap"
       ],
       "it": [
-        "ospitare"
+        "ospitare",
+        "alloggiare"
       ],
       "ja": [
-        "泊める"
+        "泊める",
+        "泊まる"
       ],
       "ko": [
-        "숙박시키다"
+        "숙박시키다",
+        "묵다"
       ],
       "nl": [
-        "huisvesten"
+        "huisvesten",
+        "logeren",
+        "verblijven"
       ],
       "ru": [
-        "размещать"
+        "размещать",
+        "остановиться"
       ],
       "sw": [
-        "kukaribisha"
+        "kukaribisha",
+        "kulala",
+        "kukaa"
       ],
       "th": [
-        "ให้ที่พัก"
+        "ให้ที่พัก",
+        "พัก"
       ],
       "ur": [
-        "مہمان نوازی کرنا"
+        "مہمان نوازی کرنا",
+        "ٹھہرنا"
       ],
       "vi": [
-        "tiếp đón"
+        "tiếp đón",
+        "trọ",
+        "ở lại"
       ],
       "zh": [
-        "留宿"
+        "留宿",
+        "住宿"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 1203
+    "srcRank": 1203,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "يستضيف"
+          ],
+          "de": [
+            "beherbergen"
+          ],
+          "en": [
+            "host"
+          ],
+          "es": [
+            "hospedar"
+          ],
+          "fr": [
+            "héberger"
+          ],
+          "hi": [
+            "मेज़बानी करना"
+          ],
+          "id": [
+            "menampung",
+            "menjadi tuan rumah"
+          ],
+          "it": [
+            "ospitare"
+          ],
+          "ja": [
+            "泊める"
+          ],
+          "ko": [
+            "숙박시키다"
+          ],
+          "nl": [
+            "huisvesten"
+          ],
+          "ru": [
+            "размещать"
+          ],
+          "sw": [
+            "kukaribisha"
+          ],
+          "th": [
+            "ให้ที่พัก"
+          ],
+          "ur": [
+            "مہمان نوازی کرنا"
+          ],
+          "vi": [
+            "tiếp đón"
+          ],
+          "zh": [
+            "留宿"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "يقيم"
+          ],
+          "de": [
+            "übernachten"
+          ],
+          "en": [
+            "to stay",
+            "to lodge"
+          ],
+          "es": [
+            "hospedarse",
+            "alojarse"
+          ],
+          "fr": [
+            "loger",
+            "séjourner"
+          ],
+          "hi": [
+            "ठहरना"
+          ],
+          "id": [
+            "menginap"
+          ],
+          "it": [
+            "alloggiare"
+          ],
+          "ja": [
+            "泊まる"
+          ],
+          "ko": [
+            "묵다"
+          ],
+          "nl": [
+            "logeren",
+            "verblijven"
+          ],
+          "ru": [
+            "остановиться"
+          ],
+          "sw": [
+            "kulala",
+            "kukaa"
+          ],
+          "th": [
+            "พัก"
+          ],
+          "ur": [
+            "ٹھہرنا"
+          ],
+          "vi": [
+            "trọ",
+            "ở lại"
+          ],
+          "zh": [
+            "住宿"
+          ]
+        },
+        "note": {
+          "ar": "الإقامة في فندق",
+          "de": "im Hotel wohnen",
+          "en": "stay at a hotel",
+          "es": "quedarse en hotel",
+          "fr": "rester à l'hôtel",
+          "hi": "होटल में रुकना",
+          "id": "tinggal di hotel",
+          "it": "stare in albergo",
+          "ja": "ホテルに泊まる",
+          "ko": "호텔에 묵다",
+          "nl": "in hotel verblijven",
+          "ru": "жить в отеле",
+          "sw": "kukaa hotelini",
+          "th": "พักที่โรงแรม",
+          "ur": "ہوٹل میں ٹھہرنا",
+          "vi": "ở khách sạn",
+          "zh": "住在酒店"
+        }
+      }
+    ]
   },
   {
     "key": "pt_c6ef57df77a8",
@@ -236279,11 +237677,13 @@
       ],
       "de": [
         "Erinnerung",
-        "Andenken"
+        "Andenken",
+        "Souvenir"
       ],
       "en": [
         "memory",
-        "keepsake"
+        "keepsake",
+        "souvenir"
       ],
       "es": [
         "recuerdo"
@@ -236293,33 +237693,42 @@
       ],
       "hi": [
         "स्मृति",
-        "याद"
+        "याद",
+        "स्मृति-चिह्न"
       ],
       "id": [
         "kenangan",
-        "kenang-kenangan"
+        "kenang-kenangan",
+        "oleh-oleh",
+        "suvenir"
       ],
       "it": [
-        "ricordo"
+        "ricordo",
+        "souvenir"
       ],
       "ja": [
         "思い出",
-        "記念"
+        "記念",
+        "お土産"
       ],
       "ko": [
         "추억",
-        "기념물"
+        "기념물",
+        "기념품"
       ],
       "nl": [
         "herinnering",
-        "aandenken"
+        "aandenken",
+        "souvenir"
       ],
       "ru": [
         "воспоминание",
-        "память"
+        "память",
+        "сувенир"
       ],
       "sw": [
-        "kumbukumbu"
+        "kumbukumbu",
+        "zawadi ya ukumbusho"
       ],
       "th": [
         "ความทรงจำ",
@@ -236327,19 +237736,168 @@
       ],
       "ur": [
         "یاد",
-        "یادگار"
+        "یادگار",
+        "یادگار تحفہ"
       ],
       "vi": [
-        "kỷ niệm"
+        "kỷ niệm",
+        "quà lưu niệm"
       ],
       "zh": [
         "回忆",
-        "纪念物"
+        "纪念物",
+        "纪念品"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 4368
+    "srcRank": 4368,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "ذكرى",
+            "تذكار"
+          ],
+          "de": [
+            "Erinnerung",
+            "Andenken"
+          ],
+          "en": [
+            "memory",
+            "keepsake"
+          ],
+          "es": [
+            "recuerdo"
+          ],
+          "fr": [
+            "souvenir"
+          ],
+          "hi": [
+            "स्मृति",
+            "याद"
+          ],
+          "id": [
+            "kenangan",
+            "kenang-kenangan"
+          ],
+          "it": [
+            "ricordo"
+          ],
+          "ja": [
+            "思い出",
+            "記念"
+          ],
+          "ko": [
+            "추억",
+            "기념물"
+          ],
+          "nl": [
+            "herinnering",
+            "aandenken"
+          ],
+          "ru": [
+            "воспоминание",
+            "память"
+          ],
+          "sw": [
+            "kumbukumbu"
+          ],
+          "th": [
+            "ความทรงจำ",
+            "ของที่ระลึก"
+          ],
+          "ur": [
+            "یاد",
+            "یادگار"
+          ],
+          "vi": [
+            "kỷ niệm"
+          ],
+          "zh": [
+            "回忆",
+            "纪念物"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "تذكار"
+          ],
+          "de": [
+            "Souvenir",
+            "Andenken"
+          ],
+          "en": [
+            "souvenir"
+          ],
+          "es": [
+            "recuerdo"
+          ],
+          "fr": [
+            "souvenir"
+          ],
+          "hi": [
+            "स्मृति-चिह्न"
+          ],
+          "id": [
+            "oleh-oleh",
+            "suvenir"
+          ],
+          "it": [
+            "souvenir",
+            "ricordo"
+          ],
+          "ja": [
+            "お土産"
+          ],
+          "ko": [
+            "기념품"
+          ],
+          "nl": [
+            "souvenir"
+          ],
+          "ru": [
+            "сувенир"
+          ],
+          "sw": [
+            "zawadi ya ukumbusho"
+          ],
+          "th": [
+            "ของที่ระลึก"
+          ],
+          "ur": [
+            "یادگار تحفہ"
+          ],
+          "vi": [
+            "quà lưu niệm"
+          ],
+          "zh": [
+            "纪念品"
+          ]
+        },
+        "note": {
+          "ar": "هدية من رحلة",
+          "de": "Mitbringsel von Reise",
+          "en": "gift from a trip",
+          "es": "regalo de viaje",
+          "fr": "cadeau de voyage",
+          "hi": "यात्रा से उपहार",
+          "id": "hadiah dari perjalanan",
+          "it": "regalo di viaggio",
+          "ja": "旅行の贈り物",
+          "ko": "여행 선물",
+          "nl": "cadeautje van reis",
+          "ru": "подарок из поездки",
+          "sw": "zawadi ya safari",
+          "th": "ของฝากจากทริป",
+          "ur": "سفر کا تحفہ",
+          "vi": "quà từ chuyến đi",
+          "zh": "旅行带回的礼物"
+        }
+      }
+    ]
   },
   {
     "key": "pt_b873478aa5c7",

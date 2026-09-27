@@ -38926,15 +38926,19 @@
     "translations": {
       "ar": [
         "ينقطع",
-        "يقطع"
+        "يقطع",
+        "ينفصل"
       ],
       "de": [
         "abbrechen",
-        "trennen"
+        "trennen",
+        "sich trennen",
+        "Schluss machen"
       ],
       "en": [
         "break",
-        "sever"
+        "sever",
+        "to break up"
       ],
       "es": [
         "romper",
@@ -38946,56 +38950,218 @@
       ],
       "hi": [
         "टूटना",
-        "तोड़ना"
+        "तोड़ना",
+        "रिश्ता तोड़ना"
       ],
       "it": [
         "rompere",
-        "spezzare"
+        "spezzare",
+        "lasciarsi"
       ],
       "ja": [
         "切れる",
-        "断つ"
+        "断つ",
+        "別れる"
       ],
       "ko": [
         "끊다",
-        "끊어지다"
+        "끊어지다",
+        "헤어지다"
       ],
       "nl": [
         "breken",
-        "verbreken"
+        "verbreken",
+        "uitmaken"
       ],
       "pt": [
         "romper",
-        "quebrar"
+        "quebrar",
+        "terminar"
       ],
       "ru": [
         "разрывать",
-        "обрывать"
+        "обрывать",
+        "расстаться"
       ],
       "sw": [
         "katika",
-        "vunja"
+        "vunja",
+        "kuachana"
       ],
       "th": [
         "ขาด",
-        "ตัดขาด"
+        "ตัดขาด",
+        "เลิกกัน"
       ],
       "ur": [
         "ٹوٹنا",
-        "منقطع کرنا"
+        "منقطع کرنا",
+        "رشتہ توڑنا"
       ],
       "vi": [
         "đứt",
-        "cắt đứt"
+        "cắt đứt",
+        "chia tay"
       ],
       "zh": [
         "断",
-        "断绝"
+        "断绝",
+        "分手"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 670
+    "srcRank": 670,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "ينقطع",
+            "يقطع"
+          ],
+          "de": [
+            "abbrechen",
+            "trennen"
+          ],
+          "en": [
+            "break",
+            "sever"
+          ],
+          "es": [
+            "romper",
+            "cortar"
+          ],
+          "fr": [
+            "rompre",
+            "couper"
+          ],
+          "hi": [
+            "टूटना",
+            "तोड़ना"
+          ],
+          "it": [
+            "rompere",
+            "spezzare"
+          ],
+          "ja": [
+            "切れる",
+            "断つ"
+          ],
+          "ko": [
+            "끊다",
+            "끊어지다"
+          ],
+          "nl": [
+            "breken",
+            "verbreken"
+          ],
+          "pt": [
+            "romper",
+            "quebrar"
+          ],
+          "ru": [
+            "разрывать",
+            "обрывать"
+          ],
+          "sw": [
+            "katika",
+            "vunja"
+          ],
+          "th": [
+            "ขาด",
+            "ตัดขาด"
+          ],
+          "ur": [
+            "ٹوٹنا",
+            "منقطع کرنا"
+          ],
+          "vi": [
+            "đứt",
+            "cắt đứt"
+          ],
+          "zh": [
+            "断",
+            "断绝"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "ينفصل"
+          ],
+          "de": [
+            "sich trennen",
+            "Schluss machen"
+          ],
+          "en": [
+            "to break up"
+          ],
+          "es": [
+            "romper",
+            "cortar"
+          ],
+          "fr": [
+            "rompre"
+          ],
+          "hi": [
+            "रिश्ता तोड़ना"
+          ],
+          "it": [
+            "lasciarsi"
+          ],
+          "ja": [
+            "別れる"
+          ],
+          "ko": [
+            "헤어지다"
+          ],
+          "nl": [
+            "uitmaken"
+          ],
+          "pt": [
+            "terminar"
+          ],
+          "ru": [
+            "расстаться"
+          ],
+          "sw": [
+            "kuachana"
+          ],
+          "th": [
+            "เลิกกัน"
+          ],
+          "ur": [
+            "رشتہ توڑنا"
+          ],
+          "vi": [
+            "chia tay"
+          ],
+          "zh": [
+            "分手"
+          ]
+        },
+        "note": {
+          "ar": "إنهاء علاقة",
+          "de": "Beziehung beenden",
+          "en": "end a relationship",
+          "es": "terminar una relación",
+          "fr": "mettre fin à une relation",
+          "hi": "रिश्ता खत्म करना",
+          "it": "finire una relazione",
+          "ja": "恋愛関係を終える",
+          "ko": "관계를 끝내다",
+          "nl": "relatie beëindigen",
+          "pt": "terminar um relacionamento",
+          "ru": "прекратить отношения",
+          "sw": "kumaliza uhusiano",
+          "th": "จบความสัมพันธ์",
+          "ur": "تعلق ختم کرنا",
+          "vi": "kết thúc mối quan hệ",
+          "zh": "结束恋爱关系"
+        }
+      }
+    ]
   },
   {
     "key": "id_05f69ac2639f",
@@ -162568,53 +162734,71 @@
     },
     "translations": {
       "ar": [
-        "يطلب"
+        "يطلب",
+        "يحجز"
       ],
       "de": [
-        "bestellen"
+        "bestellen",
+        "buchen",
+        "reservieren"
       ],
       "en": [
-        "to order"
+        "to order",
+        "to book",
+        "to reserve"
       ],
       "es": [
         "pedir",
-        "ordenar"
+        "ordenar",
+        "reservar"
       ],
       "fr": [
-        "commander"
+        "commander",
+        "réserver"
       ],
       "hi": [
         "ऑर्डर करना",
-        "मंगवाना"
+        "मंगवाना",
+        "बुक करना"
       ],
       "it": [
-        "ordinare"
+        "ordinare",
+        "prenotare"
       ],
       "ja": [
-        "注文する"
+        "注文する",
+        "予約する"
       ],
       "ko": [
-        "주문하다"
+        "주문하다",
+        "예약하다"
       ],
       "nl": [
-        "bestellen"
+        "bestellen",
+        "boeken",
+        "reserveren"
       ],
       "pt": [
         "pedir",
-        "encomendar"
+        "encomendar",
+        "reservar"
       ],
       "ru": [
-        "заказывать"
+        "заказывать",
+        "бронировать"
       ],
       "sw": [
-        "kuagiza"
+        "kuagiza",
+        "kuhifadhi"
       ],
       "th": [
-        "สั่ง"
+        "สั่ง",
+        "จอง"
       ],
       "ur": [
         "آرڈر کرنا",
-        "منگوانا"
+        "منگوانا",
+        "بک کرنا"
       ],
       "vi": [
         "đặt",
@@ -162622,12 +162806,153 @@
       ],
       "zh": [
         "点",
-        "订购"
+        "订购",
+        "预订"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2720
+    "srcRank": 2720,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "يطلب"
+          ],
+          "de": [
+            "bestellen"
+          ],
+          "en": [
+            "to order"
+          ],
+          "es": [
+            "pedir",
+            "ordenar"
+          ],
+          "fr": [
+            "commander"
+          ],
+          "hi": [
+            "ऑर्डर करना",
+            "मंगवाना"
+          ],
+          "it": [
+            "ordinare"
+          ],
+          "ja": [
+            "注文する"
+          ],
+          "ko": [
+            "주문하다"
+          ],
+          "nl": [
+            "bestellen"
+          ],
+          "pt": [
+            "pedir",
+            "encomendar"
+          ],
+          "ru": [
+            "заказывать"
+          ],
+          "sw": [
+            "kuagiza"
+          ],
+          "th": [
+            "สั่ง"
+          ],
+          "ur": [
+            "آرڈر کرنا",
+            "منگوانا"
+          ],
+          "vi": [
+            "đặt",
+            "gọi món"
+          ],
+          "zh": [
+            "点",
+            "订购"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "يحجز"
+          ],
+          "de": [
+            "buchen",
+            "reservieren"
+          ],
+          "en": [
+            "to book",
+            "to reserve"
+          ],
+          "es": [
+            "reservar"
+          ],
+          "fr": [
+            "réserver"
+          ],
+          "hi": [
+            "बुक करना"
+          ],
+          "it": [
+            "prenotare"
+          ],
+          "ja": [
+            "予約する"
+          ],
+          "ko": [
+            "예약하다"
+          ],
+          "nl": [
+            "boeken",
+            "reserveren"
+          ],
+          "pt": [
+            "reservar"
+          ],
+          "ru": [
+            "бронировать"
+          ],
+          "sw": [
+            "kuhifadhi"
+          ],
+          "th": [
+            "จอง"
+          ],
+          "ur": [
+            "بک کرنا"
+          ],
+          "vi": [
+            "đặt"
+          ],
+          "zh": [
+            "预订"
+          ]
+        },
+        "note": {
+          "ar": "حجز غرفة",
+          "de": "ein Zimmer buchen",
+          "en": "book a room",
+          "es": "reservar una habitación",
+          "fr": "réserver une chambre",
+          "hi": "कमरा बुक करना",
+          "it": "prenotare una camera",
+          "ja": "部屋を予約",
+          "ko": "방 예약",
+          "nl": "kamer boeken",
+          "pt": "reservar um quarto",
+          "ru": "забронировать номер",
+          "sw": "kuhifadhi chumba",
+          "th": "จองห้อง",
+          "ur": "کمرہ بک کرنا",
+          "vi": "đặt phòng",
+          "zh": "预订房间"
+        }
+      }
+    ]
   },
   {
     "key": "id_129872deb787",
@@ -174567,60 +174892,214 @@
     },
     "translations": {
       "ar": [
-        "يطلب"
+        "يطلب",
+        "يحجز"
       ],
       "de": [
-        "bestellen"
+        "bestellen",
+        "reservieren",
+        "buchen"
       ],
       "en": [
-        "to order"
+        "to order",
+        "to book",
+        "to reserve"
       ],
       "es": [
-        "pedir"
+        "pedir",
+        "reservar"
       ],
       "fr": [
-        "commander"
+        "commander",
+        "réserver"
       ],
       "hi": [
-        "ऑर्डर करना"
+        "ऑर्डर करना",
+        "आरक्षित करना"
       ],
       "it": [
-        "ordinare"
+        "ordinare",
+        "prenotare"
       ],
       "ja": [
-        "注文する"
+        "注文する",
+        "予約する"
       ],
       "ko": [
-        "주문하다"
+        "주문하다",
+        "예약하다"
       ],
       "nl": [
-        "bestellen"
+        "bestellen",
+        "reserveren",
+        "boeken"
       ],
       "pt": [
-        "pedir"
+        "pedir",
+        "reservar"
       ],
       "ru": [
-        "заказывать"
+        "заказывать",
+        "бронировать"
       ],
       "sw": [
-        "kuagiza"
+        "kuagiza",
+        "kuhifadhi"
       ],
       "th": [
-        "สั่ง"
+        "สั่ง",
+        "จอง"
       ],
       "ur": [
-        "آرڈر کرنا"
+        "آرڈر کرنا",
+        "ریزرو کرنا"
       ],
       "vi": [
-        "đặt"
+        "đặt",
+        "đặt trước"
       ],
       "zh": [
-        "点餐"
+        "点餐",
+        "预订"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2633
+    "srcRank": 2633,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "يطلب"
+          ],
+          "de": [
+            "bestellen"
+          ],
+          "en": [
+            "to order"
+          ],
+          "es": [
+            "pedir"
+          ],
+          "fr": [
+            "commander"
+          ],
+          "hi": [
+            "ऑर्डर करना"
+          ],
+          "it": [
+            "ordinare"
+          ],
+          "ja": [
+            "注文する"
+          ],
+          "ko": [
+            "주문하다"
+          ],
+          "nl": [
+            "bestellen"
+          ],
+          "pt": [
+            "pedir"
+          ],
+          "ru": [
+            "заказывать"
+          ],
+          "sw": [
+            "kuagiza"
+          ],
+          "th": [
+            "สั่ง"
+          ],
+          "ur": [
+            "آرڈر کرنا"
+          ],
+          "vi": [
+            "đặt"
+          ],
+          "zh": [
+            "点餐"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "يحجز"
+          ],
+          "de": [
+            "reservieren",
+            "buchen"
+          ],
+          "en": [
+            "to book",
+            "to reserve"
+          ],
+          "es": [
+            "reservar"
+          ],
+          "fr": [
+            "réserver"
+          ],
+          "hi": [
+            "आरक्षित करना"
+          ],
+          "it": [
+            "prenotare"
+          ],
+          "ja": [
+            "予約する"
+          ],
+          "ko": [
+            "예약하다"
+          ],
+          "nl": [
+            "reserveren",
+            "boeken"
+          ],
+          "pt": [
+            "reservar"
+          ],
+          "ru": [
+            "бронировать"
+          ],
+          "sw": [
+            "kuhifadhi"
+          ],
+          "th": [
+            "จอง"
+          ],
+          "ur": [
+            "ریزرو کرنا"
+          ],
+          "vi": [
+            "đặt trước"
+          ],
+          "zh": [
+            "预订"
+          ]
+        },
+        "note": {
+          "ar": "إجراء حجز",
+          "de": "Reservierung machen",
+          "en": "make a reservation",
+          "es": "hacer una reserva",
+          "fr": "faire une réservation",
+          "hi": "आरक्षण करना",
+          "it": "fare una prenotazione",
+          "ja": "予約をする",
+          "ko": "예약을 하다",
+          "nl": "reservering maken",
+          "pt": "fazer uma reserva",
+          "ru": "сделать бронь",
+          "sw": "kufanya uhifadhi",
+          "th": "ทำการจอง",
+          "ur": "بکنگ کرنا",
+          "vi": "đặt chỗ trước",
+          "zh": "进行预订"
+        }
+      }
+    ]
   },
   {
     "key": "id_2eb9d691219d",

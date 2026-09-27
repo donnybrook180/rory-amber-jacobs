@@ -194116,75 +194116,271 @@
     "translations": {
       "ar": [
         "دائخ",
-        "مصاب بدوار"
+        "مصاب بدوار",
+        "مذهول",
+        "مصدوم"
       ],
       "de": [
         "schwindlig",
-        "benommen"
+        "benommen",
+        "fassungslos",
+        "geschockt"
       ],
       "en": [
         "dizzy",
-        "giddy"
+        "giddy",
+        "stunned",
+        "shocked"
       ],
       "es": [
         "mareado",
-        "aturdido"
+        "aturdido",
+        "atónito",
+        "conmocionado"
       ],
       "fr": [
         "étourdi",
-        "pris de vertige"
+        "pris de vertige",
+        "sidéré",
+        "abasourdi"
       ],
       "hi": [
         "चक्कर आना",
-        "सिर घूमना"
+        "सिर घूमना",
+        "स्तब्ध",
+        "हक्का-बक्का"
       ],
       "id": [
         "pusing",
-        "limbung"
+        "limbung",
+        "tercengang",
+        "syok"
       ],
       "it": [
         "stordito",
-        "con le vertigini"
+        "con le vertigini",
+        "sbalordito",
+        "scioccato"
       ],
       "ja": [
         "めまいがする",
-        "ふらふらする"
+        "ふらふらする",
+        "呆然とした",
+        "ショックを受けた"
       ],
       "ko": [
         "어지러운",
-        "아찔한"
+        "아찔한",
+        "충격받은",
+        "망연자실한"
       ],
       "nl": [
         "duizelig",
-        "draaierig"
+        "draaierig",
+        "verbijsterd",
+        "geschokt"
       ],
       "pt": [
         "tonto",
-        "atordoado"
+        "atordoado",
+        "chocado"
       ],
       "ru": [
         "головокружительный",
-        "ошеломлённый"
+        "ошеломлённый",
+        "потрясённый"
       ],
       "sw": [
-        "mwenye kizunguzungu"
+        "mwenye kizunguzungu",
+        "kushtuka",
+        "kupigwa na butwaa"
       ],
       "th": [
         "มึนงง",
-        "วิงเวียน"
+        "วิงเวียน",
+        "ตกตะลึง",
+        "ช็อก"
       ],
       "ur": [
         "چکر آنا",
-        "سر گھومنا"
+        "سر گھومنا",
+        "ششدر",
+        "صدمہ زدہ"
       ],
       "zh": [
         "头晕",
-        "眩晕"
+        "眩晕",
+        "震惊",
+        "惊呆"
       ]
     },
     "audio": null,
     "examples": [],
-    "srcRank": 2515
+    "srcRank": 2515,
+    "senses": [
+      {
+        "gloss": {
+          "ar": [
+            "دائخ",
+            "مصاب بدوار"
+          ],
+          "de": [
+            "schwindlig",
+            "benommen"
+          ],
+          "en": [
+            "dizzy",
+            "giddy"
+          ],
+          "es": [
+            "mareado",
+            "aturdido"
+          ],
+          "fr": [
+            "étourdi",
+            "pris de vertige"
+          ],
+          "hi": [
+            "चक्कर आना",
+            "सिर घूमना"
+          ],
+          "id": [
+            "pusing",
+            "limbung"
+          ],
+          "it": [
+            "stordito",
+            "con le vertigini"
+          ],
+          "ja": [
+            "めまいがする",
+            "ふらふらする"
+          ],
+          "ko": [
+            "어지러운",
+            "아찔한"
+          ],
+          "nl": [
+            "duizelig",
+            "draaierig"
+          ],
+          "pt": [
+            "tonto",
+            "atordoado"
+          ],
+          "ru": [
+            "головокружительный",
+            "ошеломлённый"
+          ],
+          "sw": [
+            "mwenye kizunguzungu"
+          ],
+          "th": [
+            "มึนงง",
+            "วิงเวียน"
+          ],
+          "ur": [
+            "چکر آنا",
+            "سر گھومنا"
+          ],
+          "zh": [
+            "头晕",
+            "眩晕"
+          ]
+        }
+      },
+      {
+        "gloss": {
+          "ar": [
+            "مذهول",
+            "مصدوم"
+          ],
+          "de": [
+            "fassungslos",
+            "geschockt"
+          ],
+          "en": [
+            "stunned",
+            "shocked"
+          ],
+          "es": [
+            "atónito",
+            "conmocionado"
+          ],
+          "fr": [
+            "sidéré",
+            "abasourdi"
+          ],
+          "hi": [
+            "स्तब्ध",
+            "हक्का-बक्का"
+          ],
+          "id": [
+            "tercengang",
+            "syok"
+          ],
+          "it": [
+            "sbalordito",
+            "scioccato"
+          ],
+          "ja": [
+            "呆然とした",
+            "ショックを受けた"
+          ],
+          "ko": [
+            "충격받은",
+            "망연자실한"
+          ],
+          "nl": [
+            "verbijsterd",
+            "geschokt"
+          ],
+          "pt": [
+            "atordoado",
+            "chocado"
+          ],
+          "ru": [
+            "ошеломлённый",
+            "потрясённый"
+          ],
+          "sw": [
+            "kushtuka",
+            "kupigwa na butwaa"
+          ],
+          "th": [
+            "ตกตะลึง",
+            "ช็อก"
+          ],
+          "ur": [
+            "ششدر",
+            "صدمہ زدہ"
+          ],
+          "zh": [
+            "震惊",
+            "惊呆"
+          ]
+        },
+        "note": {
+          "ar": "من خبر صادم",
+          "de": "durch schockierende Nachricht",
+          "en": "by shocking news",
+          "es": "por noticia impactante",
+          "fr": "par une nouvelle choquante",
+          "hi": "चौंकाने वाली खबर से",
+          "id": "karena berita mengejutkan",
+          "it": "per notizia scioccante",
+          "ja": "衝撃的な知らせで",
+          "ko": "충격적인 소식에",
+          "nl": "door schokkend nieuws",
+          "pt": "por notícia chocante",
+          "ru": "от шокирующей новости",
+          "sw": "kwa habari za kushtua",
+          "th": "เพราะข่าวร้าย",
+          "ur": "چونکا دینے والی خبر سے",
+          "zh": "因惊人消息"
+        }
+      }
+    ]
   },
   {
     "key": "vi_b4b3af3e7527",
