@@ -39,8 +39,8 @@
       "manifest": "french/manifest.json",
       "version": 16,
       "wordCount": 5000,
-      "audioCount": 0,
-      "exampleCount": 0,
+      "audioCount": 5000,
+      "exampleCount": 15514,
       "nativeLangs": [
         "ar",
         "de",
