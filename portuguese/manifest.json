@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targetLang": "pt",
   "nativeLangs": [
     "ar",
@@ -26,6 +26,7 @@
   "contentHash": null,
   "minAppVersion": "1.0.0",
   "files": {
-    "words.pt.json": "words.pt.json"
+    "words.pt.json": "words.pt.json",
+    "topics": "topics.pt.json"
   }
 }

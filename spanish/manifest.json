@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "targetLang": "es",
   "nativeLangs": [
     "ar",
@@ -31,7 +31,8 @@
   "contentHash": "25b7b2e4ec8d",
   "minAppVersion": "1.0.0",
   "files": {
-    "words.es.json": "words.es.json"
+    "words.es.json": "words.es.json",
+    "topics": "topics.es.json"
   },
   "exampleShards": true,
   "examplePacks": [
