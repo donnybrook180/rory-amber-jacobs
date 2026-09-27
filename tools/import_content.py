@@ -275,10 +275,12 @@ def write_output(out_dir: Path, target_lang: str, words: list[dict],
     new_hash = content_hash(words)
     manifest_path = out_dir / "manifest.json"
     prev_version = 0
+    prev_files: dict = {}
     if manifest_path.exists():
         try:
             prev = json.loads(manifest_path.read_text(encoding="utf-8"))
             prev_version = prev.get("version", 0)
+            prev_files = prev.get("files", {})
             if prev.get("contentHash") == new_hash:
                 # No content change -> keep version, still rewrite words file is fine.
                 print(f"  content unchanged (hash {new_hash}); version stays {prev_version}")
@@ -295,7 +297,8 @@ def write_output(out_dir: Path, target_lang: str, words: list[dict],
         "exampleCount": sum(1 for w in words if w["examples"]),
         "contentHash": new_hash,
         "minAppVersion": min_app_version,
-        "files": {"words": words_path.name},
+        # Carry optional side files (e.g. topics from gen_topics.py) forward.
+        "files": {**prev_files, "words": words_path.name},
     }
     manifest_path.write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
