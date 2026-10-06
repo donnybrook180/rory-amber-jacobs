@@ -626,7 +626,7 @@
       ],
       "en": [
         "there is",
-        "exist"
+        "to exist"
       ],
       "es": [
         "haber"
@@ -2036,7 +2036,7 @@
         "werden"
       ],
       "en": [
-        "become"
+        "to become"
       ],
       "es": [
         "volverse"
@@ -2841,7 +2841,7 @@
         "werden"
       ],
       "en": [
-        "become"
+        "to become"
       ],
       "es": [
         "convertirse",
@@ -3395,7 +3395,7 @@
       ],
       "en": [
         "can",
-        "be able to"
+        "to be able to"
       ],
       "es": [
         "poder"
@@ -3742,7 +3742,7 @@
         "machen"
       ],
       "en": [
-        "make"
+        "to make"
       ],
       "es": [
         "hacer"
@@ -3809,7 +3809,7 @@
         "wollen"
       ],
       "en": [
-        "want",
+        "to want",
         "will"
       ],
       "es": [
@@ -4021,8 +4021,8 @@
         "wollen"
       ],
       "en": [
-        "want",
-        "wish"
+        "to want",
+        "to wish"
       ],
       "es": [
         "querer"
@@ -4233,8 +4233,8 @@
         "durchführen"
       ],
       "en": [
-        "do",
-        "perform"
+        "to do",
+        "to perform"
       ],
       "es": [
         "hacer",
@@ -4655,8 +4655,8 @@
         "zurückkehren"
       ],
       "en": [
-        "return",
-        "go back"
+        "to return",
+        "to go back"
       ],
       "es": [
         "regresar",
@@ -5275,7 +5275,7 @@
         "brauchen"
       ],
       "en": [
-        "need"
+        "to need"
       ],
       "es": [
         "necesitar"
@@ -5489,8 +5489,8 @@
         "hineingehen"
       ],
       "en": [
-        "enter",
-        "go in"
+        "to enter",
+        "to go in"
       ],
       "es": [
         "entrar"
@@ -5636,8 +5636,8 @@
         "sehen"
       ],
       "en": [
-        "see",
-        "look"
+        "to see",
+        "to look"
       ],
       "es": [
         "ver"
@@ -6422,7 +6422,7 @@
         "verwenden"
       ],
       "en": [
-        "use"
+        "to use"
       ],
       "es": [
         "usar"
@@ -6492,7 +6492,7 @@
         "essen"
       ],
       "en": [
-        "eat"
+        "to eat"
       ],
       "es": [
         "comer"
@@ -6626,7 +6626,7 @@
         "kommen"
       ],
       "en": [
-        "come"
+        "to come"
       ],
       "es": [
         "venir"
@@ -7247,8 +7247,8 @@
         "sagen"
       ],
       "en": [
-        "say",
-        "tell"
+        "to say",
+        "to tell"
       ],
       "es": [
         "decir"
@@ -7518,7 +7518,7 @@
         "schlafen"
       ],
       "en": [
-        "sleep"
+        "to sleep"
       ],
       "es": [
         "dormir"
@@ -7858,7 +7858,7 @@
         "gehen"
       ],
       "en": [
-        "go"
+        "to go"
       ],
       "es": [
         "ir"
@@ -7926,8 +7926,8 @@
         "verlassen"
       ],
       "en": [
-        "exit",
-        "go out"
+        "to exit",
+        "to go out"
       ],
       "es": [
         "salir"
@@ -8686,7 +8686,7 @@
         "lernen"
       ],
       "en": [
-        "study"
+        "to study"
       ],
       "es": [
         "estudiar"
@@ -8754,8 +8754,8 @@
         "erhalten"
       ],
       "en": [
-        "get",
-        "obtain"
+        "to get",
+        "to obtain"
       ],
       "es": [
         "obtener",
@@ -8895,7 +8895,7 @@
         "geben"
       ],
       "en": [
-        "give"
+        "to give"
       ],
       "es": [
         "dar"
@@ -9235,7 +9235,7 @@
         "wissen"
       ],
       "en": [
-        "know"
+        "to know"
       ],
       "es": [
         "saber"
@@ -9369,8 +9369,8 @@
         "anfangen"
       ],
       "en": [
-        "start",
-        "begin"
+        "to start",
+        "to begin"
       ],
       "es": [
         "empezar"
@@ -9504,7 +9504,7 @@
         "mögen"
       ],
       "en": [
-        "like"
+        "to like"
       ],
       "es": [
         "gustar"
@@ -9638,7 +9638,7 @@
         "heimgehen"
       ],
       "en": [
-        "go home"
+        "to go home"
       ],
       "es": [
         "volver a casa"
@@ -9839,7 +9839,7 @@
         "gehen"
       ],
       "en": [
-        "walk"
+        "to walk"
       ],
       "es": [
         "caminar"
@@ -9973,7 +9973,7 @@
         "folgen"
       ],
       "en": [
-        "follow"
+        "to follow"
       ],
       "es": [
         "seguir"
@@ -10579,7 +10579,7 @@
         "trinken"
       ],
       "en": [
-        "drink"
+        "to drink"
       ],
       "es": [
         "beber"
@@ -10981,7 +10981,7 @@
         "sitzen"
       ],
       "en": [
-        "sit"
+        "to sit"
       ],
       "es": [
         "sentarse"
@@ -11048,7 +11048,7 @@
         "glauben"
       ],
       "en": [
-        "believe"
+        "to believe"
       ],
       "es": [
         "creer"
@@ -11252,7 +11252,7 @@
         "stehen"
       ],
       "en": [
-        "stand"
+        "to stand"
       ],
       "es": [
         "estar de pie"
@@ -11453,8 +11453,8 @@
         "erhalten"
       ],
       "en": [
-        "receive",
-        "accept"
+        "to receive",
+        "to accept"
       ],
       "es": [
         "recibir"
@@ -11655,7 +11655,7 @@
         "machen"
       ],
       "en": [
-        "make"
+        "to make"
       ],
       "es": [
         "hacer"
@@ -12325,7 +12325,7 @@
         "lesen"
       ],
       "en": [
-        "read"
+        "to read"
       ],
       "es": [
         "leer"
@@ -12794,7 +12794,7 @@
         "sprechen"
       ],
       "en": [
-        "speak"
+        "to speak"
       ],
       "es": [
         "hablar"
@@ -12861,7 +12861,7 @@
         "versuchen"
       ],
       "en": [
-        "try"
+        "to try"
       ],
       "es": [
         "intentar"
@@ -13464,8 +13464,8 @@
         "suchen"
       ],
       "en": [
-        "search",
-        "look for"
+        "to search",
+        "to look for"
       ],
       "es": [
         "buscar"
@@ -13867,7 +13867,7 @@
         "vergessen"
       ],
       "en": [
-        "forget"
+        "to forget"
       ],
       "es": [
         "olvidar"
@@ -13934,7 +13934,7 @@
         "erinnern"
       ],
       "en": [
-        "remember"
+        "to remember"
       ],
       "es": [
         "recordar"
@@ -14337,7 +14337,7 @@
         "beenden"
       ],
       "en": [
-        "finish"
+        "to finish"
       ],
       "es": [
         "terminar"
@@ -14744,7 +14744,7 @@
         "aufhören"
       ],
       "en": [
-        "stop"
+        "to stop"
       ],
       "es": [
         "parar"
@@ -14947,7 +14947,7 @@
         "warten"
       ],
       "en": [
-        "wait"
+        "to wait"
       ],
       "es": [
         "esperar"
@@ -15014,7 +15014,7 @@
         "hören"
       ],
       "en": [
-        "hear"
+        "to hear"
       ],
       "es": [
         "oír"
@@ -15148,7 +15148,7 @@
         "antworten"
       ],
       "en": [
-        "answer"
+        "to answer"
       ],
       "es": [
         "responder"
@@ -15215,7 +15215,7 @@
         "ankommen"
       ],
       "en": [
-        "arrive"
+        "to arrive"
       ],
       "es": [
         "llegar"
@@ -15483,7 +15483,7 @@
         "öffnen"
       ],
       "en": [
-        "open"
+        "to open"
       ],
       "es": [
         "abrir"
@@ -15617,7 +15617,7 @@
         "kennen"
       ],
       "en": [
-        "know"
+        "to know"
       ],
       "es": [
         "conocer"
@@ -15751,7 +15751,7 @@
         "spielen"
       ],
       "en": [
-        "play"
+        "to play"
       ],
       "es": [
         "jugar"
@@ -15952,8 +15952,8 @@
         "benutzen"
       ],
       "en": [
-        "use",
-        "wear"
+        "to use",
+        "to wear"
       ],
       "es": [
         "usar"
@@ -16020,7 +16020,7 @@
         "kaufen"
       ],
       "en": [
-        "buy"
+        "to buy"
       ],
       "es": [
         "comprar"
@@ -16356,8 +16356,8 @@
         "bringen"
       ],
       "en": [
-        "bring",
-        "carry"
+        "to bring",
+        "to carry"
       ],
       "es": [
         "llevar"
@@ -16558,7 +16558,7 @@
         "verkaufen"
       ],
       "en": [
-        "sell"
+        "to sell"
       ],
       "es": [
         "vender"
@@ -16692,7 +16692,7 @@
         "nehmen"
       ],
       "en": [
-        "take"
+        "to take"
       ],
       "es": [
         "tomar"
@@ -16827,7 +16827,7 @@
         "unterrichten"
       ],
       "en": [
-        "teach"
+        "to teach"
       ],
       "es": [
         "enseñar"
@@ -16894,7 +16894,7 @@
         "steigen"
       ],
       "en": [
-        "go up"
+        "to go up"
       ],
       "es": [
         "subir"
@@ -17028,7 +17028,7 @@
         "spielen"
       ],
       "en": [
-        "play"
+        "to play"
       ],
       "es": [
         "jugar"
@@ -17162,7 +17162,7 @@
         "schreiben"
       ],
       "en": [
-        "write"
+        "to write"
       ],
       "es": [
         "escribir"
@@ -17229,7 +17229,7 @@
         "helfen"
       ],
       "en": [
-        "help"
+        "to help"
       ],
       "es": [
         "ayudar"
@@ -17296,7 +17296,7 @@
         "fallen"
       ],
       "en": [
-        "fall"
+        "to fall"
       ],
       "es": [
         "caer"
@@ -17564,7 +17564,7 @@
         "fragen"
       ],
       "en": [
-        "ask"
+        "to ask"
       ],
       "es": [
         "preguntar"
@@ -17832,8 +17832,8 @@
         "helfen"
       ],
       "en": [
-        "help",
-        "assist"
+        "to help",
+        "to assist"
       ],
       "es": [
         "ayudar"
@@ -18235,7 +18235,7 @@
         "verstehen"
       ],
       "en": [
-        "understand"
+        "to understand"
       ],
       "es": [
         "entender"
@@ -18570,7 +18570,7 @@
         "denken"
       ],
       "en": [
-        "think"
+        "to think"
       ],
       "es": [
         "pensar"
@@ -18637,7 +18637,7 @@
         "rennen"
       ],
       "en": [
-        "run"
+        "to run"
       ],
       "es": [
         "correr"
@@ -18838,7 +18838,7 @@
         "hassen"
       ],
       "en": [
-        "hate"
+        "to hate"
       ],
       "es": [
         "odiar"
@@ -18905,7 +18905,7 @@
         "hinuntergehen"
       ],
       "en": [
-        "go down"
+        "to go down"
       ],
       "es": [
         "bajar"
@@ -19106,7 +19106,7 @@
         "gelingen"
       ],
       "en": [
-        "succeed"
+        "to succeed"
       ],
       "es": [
         "tener éxito"
@@ -20447,7 +20447,7 @@
         "schreiben"
       ],
       "en": [
-        "write"
+        "to write"
       ],
       "es": [
         "escribir"
@@ -20514,7 +20514,7 @@
         "bezahlen"
       ],
       "en": [
-        "pay"
+        "to pay"
       ],
       "es": [
         "pagar"
@@ -20648,7 +20648,7 @@
         "hoffen"
       ],
       "en": [
-        "hope"
+        "to hope"
       ],
       "es": [
         "esperar"
@@ -20916,7 +20916,7 @@
         "senden"
       ],
       "en": [
-        "send"
+        "to send"
       ],
       "es": [
         "enviar"
@@ -20983,7 +20983,7 @@
         "verstehen"
       ],
       "en": [
-        "understand"
+        "to understand"
       ],
       "es": [
         "entender"
@@ -21184,7 +21184,7 @@
         "schließen"
       ],
       "en": [
-        "close"
+        "to close"
       ],
       "es": [
         "cerrar"
@@ -21385,7 +21385,7 @@
         "versuchen"
       ],
       "en": [
-        "try"
+        "to try"
       ],
       "es": [
         "intentar"
@@ -22055,7 +22055,7 @@
         "sich bemühen"
       ],
       "en": [
-        "strive"
+        "to strive"
       ],
       "es": [
         "esforzarse"
@@ -22189,7 +22189,7 @@
         "gewinnen"
       ],
       "en": [
-        "win"
+        "to win"
       ],
       "es": [
         "ganar"
@@ -22390,7 +22390,7 @@
         "lesen"
       ],
       "en": [
-        "read"
+        "to read"
       ],
       "es": [
         "leer"
@@ -22926,7 +22926,7 @@
         "rufen"
       ],
       "en": [
-        "call"
+        "to call"
       ],
       "es": [
         "llamar"
@@ -23395,7 +23395,7 @@
         "treffen"
       ],
       "en": [
-        "meet"
+        "to meet"
       ],
       "es": [
         "encontrarse"
@@ -23864,7 +23864,7 @@
         "verlieren"
       ],
       "en": [
-        "lose"
+        "to lose"
       ],
       "es": [
         "perder"
@@ -24668,7 +24668,7 @@
         "heben"
       ],
       "en": [
-        "lift"
+        "to lift"
       ],
       "es": [
         "levantar"
@@ -25070,7 +25070,7 @@
         "scheitern"
       ],
       "en": [
-        "fail"
+        "to fail"
       ],
       "es": [
         "fracasar"
@@ -25405,7 +25405,7 @@
         "ziehen"
       ],
       "en": [
-        "pull"
+        "to pull"
       ],
       "es": [
         "tirar"
@@ -25472,7 +25472,7 @@
         "zweifeln"
       ],
       "en": [
-        "doubt"
+        "to doubt"
       ],
       "es": [
         "dudar"
@@ -26075,7 +26075,7 @@
         "tanzen"
       ],
       "en": [
-        "dance"
+        "to dance"
       ],
       "es": [
         "bailar"
@@ -26276,7 +26276,7 @@
         "weinen"
       ],
       "en": [
-        "cry"
+        "to cry"
       ],
       "es": [
         "llorar"
@@ -26946,7 +26946,7 @@
         "schneiden"
       ],
       "en": [
-        "cut"
+        "to cut"
       ],
       "es": [
         "cortar"
@@ -27482,7 +27482,7 @@
         "kochen"
       ],
       "en": [
-        "cook"
+        "to cook"
       ],
       "es": [
         "cocinar"
@@ -27750,7 +27750,7 @@
         "lachen"
       ],
       "en": [
-        "laugh"
+        "to laugh"
       ],
       "es": [
         "reír"
@@ -28487,7 +28487,7 @@
         "waschen"
       ],
       "en": [
-        "wash"
+        "to wash"
       ],
       "es": [
         "lavar"
@@ -28688,7 +28688,7 @@
         "rechnen"
       ],
       "en": [
-        "count"
+        "to count"
       ],
       "es": [
         "contar"
@@ -28889,7 +28889,7 @@
         "lächeln"
       ],
       "en": [
-        "smile"
+        "to smile"
       ],
       "es": [
         "sonreír"
@@ -28956,7 +28956,7 @@
         "genesen"
       ],
       "en": [
-        "recover"
+        "to recover"
       ],
       "es": [
         "sanar"
@@ -29023,7 +29023,7 @@
         "beten"
       ],
       "en": [
-        "pray"
+        "to pray"
       ],
       "es": [
         "rezar"
@@ -30028,7 +30028,7 @@
         "wiederholen"
       ],
       "en": [
-        "repeat"
+        "to repeat"
       ],
       "es": [
         "repetir"
@@ -30564,7 +30564,7 @@
         "erwähnen"
       ],
       "en": [
-        "mention"
+        "to mention"
       ],
       "es": [
         "mencionar"
@@ -31169,7 +31169,7 @@
         "tanzen"
       ],
       "en": [
-        "dance"
+        "to dance"
       ],
       "es": [
         "bailar"
@@ -31638,7 +31638,7 @@
         "treffen"
       ],
       "en": [
-        "meet"
+        "to meet"
       ],
       "es": [
         "encontrar"
@@ -31840,7 +31840,7 @@
         "singen"
       ],
       "en": [
-        "sing"
+        "to sing"
       ],
       "es": [
         "cantar"
@@ -31907,7 +31907,7 @@
         "schieben"
       ],
       "en": [
-        "push"
+        "to push"
       ],
       "es": [
         "empujar"
@@ -32108,7 +32108,7 @@
         "sich versammeln"
       ],
       "en": [
-        "gather"
+        "to gather"
       ],
       "es": [
         "reunirse"
@@ -32510,7 +32510,7 @@
         "wegwerfen"
       ],
       "en": [
-        "throw away"
+        "to throw away"
       ],
       "es": [
         "tirar"
@@ -32711,7 +32711,7 @@
         "einladen"
       ],
       "en": [
-        "invite"
+        "to invite"
       ],
       "es": [
         "invitar"
@@ -32778,7 +32778,7 @@
         "fortsetzen"
       ],
       "en": [
-        "continue"
+        "to continue"
       ],
       "es": [
         "continuar"
@@ -32912,7 +32912,7 @@
         "legen"
       ],
       "en": [
-        "put"
+        "to put"
       ],
       "es": [
         "poner"
@@ -33046,7 +33046,7 @@
         "zeichnen"
       ],
       "en": [
-        "draw"
+        "to draw"
       ],
       "es": [
         "dibujar"
@@ -33180,7 +33180,7 @@
         "feiern"
       ],
       "en": [
-        "celebrate"
+        "to celebrate"
       ],
       "es": [
         "celebrar"
@@ -33650,7 +33650,7 @@
         "sich trennen"
       ],
       "en": [
-        "part"
+        "to part"
       ],
       "es": [
         "separarse"
@@ -33918,8 +33918,8 @@
         "verbrennen"
       ],
       "en": [
-        "burn",
-        "grill"
+        "to burn",
+        "to grill"
       ],
       "es": [
         "quemar"
@@ -34187,7 +34187,7 @@
         "singen"
       ],
       "en": [
-        "sing"
+        "to sing"
       ],
       "es": [
         "cantar"
@@ -34254,8 +34254,8 @@
         "schlagen"
       ],
       "en": [
-        "hit",
-        "strike"
+        "to hit",
+        "to strike"
       ],
       "es": [
         "golpear"
@@ -35329,8 +35329,8 @@
         "ersetzen"
       ],
       "en": [
-        "replace",
-        "change"
+        "to replace",
+        "to change"
       ],
       "es": [
         "reemplazar"
@@ -35934,7 +35934,7 @@
         "schreien"
       ],
       "en": [
-        "shout"
+        "to shout"
       ],
       "es": [
         "gritar"
@@ -36884,7 +36884,7 @@
         "mischen"
       ],
       "en": [
-        "mix"
+        "to mix"
       ],
       "es": [
         "mezclar"
@@ -37358,7 +37358,7 @@
         "rennen"
       ],
       "en": [
-        "run"
+        "to run"
       ],
       "es": [
         "correr"
@@ -37426,7 +37426,7 @@
         "einverstanden sein"
       ],
       "en": [
-        "agree"
+        "to agree"
       ],
       "es": [
         "estar de acuerdo",
@@ -37502,8 +37502,8 @@
         "bringen"
       ],
       "en": [
-        "deliver",
-        "escort"
+        "to deliver",
+        "to escort"
       ],
       "es": [
         "llevar"
@@ -37570,7 +37570,7 @@
         "sich entwickeln"
       ],
       "en": [
-        "develop"
+        "to develop"
       ],
       "es": [
         "desarrollarse"
@@ -38109,7 +38109,7 @@
         "braten"
       ],
       "en": [
-        "fry"
+        "to fry"
       ],
       "es": [
         "freír"
@@ -38377,7 +38377,7 @@
         "anbeten"
       ],
       "en": [
-        "worship"
+        "to worship"
       ],
       "es": [
         "adorar"
@@ -38645,8 +38645,8 @@
         "tragen"
       ],
       "en": [
-        "bear",
-        "be responsible for"
+        "to bear",
+        "to be responsible for"
       ],
       "es": [
         "asumir"
@@ -38936,8 +38936,8 @@
         "Schluss machen"
       ],
       "en": [
-        "break",
-        "sever",
+        "to break",
+        "to sever",
         "to break up"
       ],
       "es": [
@@ -39024,8 +39024,8 @@
             "trennen"
           ],
           "en": [
-            "break",
-            "sever"
+            "to break",
+            "to sever"
           ],
           "es": [
             "romper",
@@ -39248,7 +39248,7 @@
         "regeln"
       ],
       "en": [
-        "arrange"
+        "to arrange"
       ],
       "es": [
         "organizar"
@@ -39315,8 +39315,8 @@
         "aufbewahren"
       ],
       "en": [
-        "keep",
-        "store"
+        "to keep",
+        "to store"
       ],
       "es": [
         "guardar"
@@ -39584,7 +39584,7 @@
         "vergleichen"
       ],
       "en": [
-        "compare"
+        "to compare"
       ],
       "es": [
         "comparar"
@@ -39721,9 +39721,9 @@
         "standhalten"
       ],
       "en": [
-        "hold",
-        "withstand",
-        "resist"
+        "to hold",
+        "to withstand",
+        "to resist"
       ],
       "es": [
         "aguantar",
@@ -40078,8 +40078,8 @@
         "rechnen"
       ],
       "en": [
-        "count",
-        "calculate"
+        "to count",
+        "to calculate"
       ],
       "es": [
         "contar"
@@ -40483,9 +40483,9 @@
         "zurückkehren"
       ],
       "en": [
-        "turn over",
-        "flip",
-        "return"
+        "to turn over",
+        "to flip",
+        "to return"
       ],
       "es": [
         "voltear",
@@ -41105,7 +41105,7 @@
         "verbinden"
       ],
       "en": [
-        "join"
+        "to join"
       ],
       "es": [
         "unir"
@@ -41306,8 +41306,8 @@
         "sparen"
       ],
       "en": [
-        "save",
-        "deposit"
+        "to save",
+        "to deposit"
       ],
       "es": [
         "ahorrar"
@@ -41678,7 +41678,7 @@
         "pflanzen"
       ],
       "en": [
-        "plant"
+        "to plant"
       ],
       "es": [
         "plantar"
@@ -41887,7 +41887,7 @@
         "halten"
       ],
       "en": [
-        "hold"
+        "to hold"
       ],
       "es": [
         "sostener"
@@ -42021,8 +42021,8 @@
         "legen"
       ],
       "en": [
-        "put",
-        "place"
+        "to put",
+        "to place"
       ],
       "es": [
         "poner"
@@ -42089,7 +42089,7 @@
         "lehren"
       ],
       "en": [
-        "teach"
+        "to teach"
       ],
       "es": [
         "enseñar"
@@ -42156,8 +42156,8 @@
         "fangen"
       ],
       "en": [
-        "catch",
-        "capture"
+        "to catch",
+        "to capture"
       ],
       "es": [
         "atrapar"
@@ -42224,7 +42224,7 @@
         "erziehen"
       ],
       "en": [
-        "educate"
+        "to educate"
       ],
       "es": [
         "educar"
@@ -42566,8 +42566,8 @@
         "malen"
       ],
       "en": [
-        "paint",
-        "draw"
+        "to paint",
+        "to draw"
       ],
       "es": [
         "pintar"
@@ -42702,7 +42702,7 @@
         "drücken"
       ],
       "en": [
-        "press"
+        "to press"
       ],
       "es": [
         "presionar"
@@ -42769,7 +42769,7 @@
         "tauschen"
       ],
       "en": [
-        "exchange"
+        "to exchange"
       ],
       "es": [
         "intercambiar"
@@ -42836,8 +42836,8 @@
         "handeln"
       ],
       "en": [
-        "trade",
-        "do business"
+        "to trade",
+        "to do business"
       ],
       "es": [
         "comerciar"
@@ -43523,8 +43523,8 @@
         "entstehen"
       ],
       "en": [
-        "arise",
-        "emerge"
+        "to arise",
+        "to emerge"
       ],
       "es": [
         "surgir"
@@ -43592,7 +43592,7 @@
         "verarbeiten"
       ],
       "en": [
-        "process"
+        "to process"
       ],
       "es": [
         "procesar",
@@ -43672,7 +43672,7 @@
         "pflegen"
       ],
       "en": [
-        "treat"
+        "to treat"
       ],
       "es": [
         "cuidar"
@@ -43888,7 +43888,7 @@
         "rühren"
       ],
       "en": [
-        "stir"
+        "to stir"
       ],
       "es": [
         "revolver"
@@ -43955,7 +43955,7 @@
         "sammeln"
       ],
       "en": [
-        "gather"
+        "to gather"
       ],
       "es": [
         "reunir"
@@ -44022,7 +44022,7 @@
         "anordnen"
       ],
       "en": [
-        "arrange"
+        "to arrange"
       ],
       "es": [
         "ordenar"
@@ -44089,7 +44089,7 @@
         "leihen"
       ],
       "en": [
-        "borrow"
+        "to borrow"
       ],
       "es": [
         "pedir prestado"
@@ -44294,7 +44294,7 @@
         "besuchen"
       ],
       "en": [
-        "visit"
+        "to visit"
       ],
       "es": [
         "visitar"
@@ -44496,7 +44496,7 @@
         "schneiden"
       ],
       "en": [
-        "slice"
+        "to slice"
       ],
       "es": [
         "rebanar"
@@ -44563,7 +44563,7 @@
         "anhalten"
       ],
       "en": [
-        "stop"
+        "to stop"
       ],
       "es": [
         "parar"
@@ -44765,8 +44765,8 @@
         "küssen"
       ],
       "en": [
-        "kiss",
-        "smell"
+        "to kiss",
+        "to smell"
       ],
       "es": [
         "besar"
@@ -44833,8 +44833,8 @@
         "abholen"
       ],
       "en": [
-        "pick up",
-        "fetch"
+        "to pick up",
+        "to fetch"
       ],
       "es": [
         "recoger"
@@ -45104,7 +45104,7 @@
         "werfen"
       ],
       "en": [
-        "throw"
+        "to throw"
       ],
       "es": [
         "lanzar"
@@ -45377,7 +45377,7 @@
         "trainieren"
       ],
       "en": [
-        "train"
+        "to train"
       ],
       "es": [
         "entrenar"
@@ -45446,8 +45446,8 @@
         "teilen"
       ],
       "en": [
-        "split",
-        "cleave"
+        "to split",
+        "to cleave"
       ],
       "es": [
         "partir",
@@ -45529,8 +45529,8 @@
         "anerkennen"
       ],
       "en": [
-        "admit",
-        "acknowledge"
+        "to admit",
+        "to acknowledge"
       ],
       "es": [
         "admitir",
@@ -45673,7 +45673,7 @@
         "berühren"
       ],
       "en": [
-        "touch"
+        "to touch"
       ],
       "es": [
         "tocar"
@@ -45807,8 +45807,8 @@
         "greifen nach"
       ],
       "en": [
-        "reach for",
-        "attain"
+        "to reach for",
+        "to attain"
       ],
       "es": [
         "alcanzar"
@@ -45952,8 +45952,8 @@
         "umklammern"
       ],
       "en": [
-        "grip",
-        "grasp"
+        "to grip",
+        "to grasp"
       ],
       "es": [
         "empuñar"
@@ -46360,7 +46360,7 @@
         "trennen"
       ],
       "en": [
-        "separate"
+        "to separate"
       ],
       "es": [
         "separar"
@@ -46510,7 +46510,7 @@
         "einstürzen"
       ],
       "en": [
-        "collapse"
+        "to collapse"
       ],
       "es": [
         "derrumbarse"
@@ -46577,7 +46577,7 @@
         "kochen"
       ],
       "en": [
-        "boil"
+        "to boil"
       ],
       "es": [
         "hervir"
@@ -46644,7 +46644,7 @@
         "einladen"
       ],
       "en": [
-        "invite"
+        "to invite"
       ],
       "es": [
         "invitar"
@@ -46778,7 +46778,7 @@
         "springen"
       ],
       "en": [
-        "jump"
+        "to jump"
       ],
       "es": [
         "saltar"
@@ -47811,8 +47811,8 @@
         "zurückweisen"
       ],
       "en": [
-        "reject",
-        "refuse"
+        "to reject",
+        "to refuse"
       ],
       "es": [
         "rechazar"
@@ -48293,8 +48293,8 @@
         "schaukeln"
       ],
       "en": [
-        "shake",
-        "sway"
+        "to shake",
+        "to sway"
       ],
       "es": [
         "balancear"
@@ -48930,8 +48930,8 @@
         "verschwinden"
       ],
       "en": [
-        "vanish",
-        "disappear"
+        "to vanish",
+        "to disappear"
       ],
       "es": [
         "desaparecer"
@@ -48998,7 +48998,7 @@
         "springen"
       ],
       "en": [
-        "jump"
+        "to jump"
       ],
       "es": [
         "saltar"
@@ -49374,8 +49374,8 @@
         "backen"
       ],
       "en": [
-        "roast",
-        "bake"
+        "to roast",
+        "to bake"
       ],
       "es": [
         "asar",
@@ -49519,8 +49519,8 @@
         "umarmen"
       ],
       "en": [
-        "hug",
-        "embrace"
+        "to hug",
+        "to embrace"
       ],
       "es": [
         "abrazar"
@@ -49662,9 +49662,9 @@
         "rotieren"
       ],
       "en": [
-        "rotate",
-        "spin",
-        "turn"
+        "to rotate",
+        "to spin",
+        "to turn"
       ],
       "es": [
         "girar",
@@ -49743,7 +49743,7 @@
         "beißen"
       ],
       "en": [
-        "bite"
+        "to bite"
       ],
       "es": [
         "morder"
@@ -50172,8 +50172,8 @@
         "fortsetzen"
       ],
       "en": [
-        "connect",
-        "continue"
+        "to connect",
+        "to continue"
       ],
       "es": [
         "conectar",
@@ -50457,8 +50457,8 @@
         "empfangen"
       ],
       "en": [
-        "welcome",
-        "greet"
+        "to welcome",
+        "to greet"
       ],
       "es": [
         "recibir",
@@ -50803,8 +50803,8 @@
         "treten auf"
       ],
       "en": [
-        "step on",
-        "tread"
+        "to step on",
+        "to tread"
       ],
       "es": [
         "pisar"
@@ -51010,7 +51010,7 @@
         "nähen"
       ],
       "en": [
-        "sew"
+        "to sew"
       ],
       "es": [
         "coser"
@@ -51680,7 +51680,7 @@
         "waschen"
       ],
       "en": [
-        "wash"
+        "to wash"
       ],
       "es": [
         "lavar"
@@ -51964,7 +51964,7 @@
         "treten"
       ],
       "en": [
-        "kick"
+        "to kick"
       ],
       "es": [
         "patear"
@@ -52307,9 +52307,9 @@
         "erlangen"
       ],
       "en": [
-        "reach",
-        "achieve",
-        "attain"
+        "to reach",
+        "to achieve",
+        "to attain"
       ],
       "es": [
         "alcanzar",
@@ -52386,7 +52386,7 @@
         "fallen"
       ],
       "en": [
-        "fall"
+        "to fall"
       ],
       "es": [
         "caerse"
@@ -53155,7 +53155,7 @@
         "messen"
       ],
       "en": [
-        "measure"
+        "to measure"
       ],
       "es": [
         "medir"
@@ -54699,7 +54699,7 @@
         "verbinden"
       ],
       "en": [
-        "connect"
+        "to connect"
       ],
       "es": [
         "conectar"
@@ -54835,9 +54835,9 @@
         "befördern"
       ],
       "en": [
-        "transport",
-        "haul",
-        "carry"
+        "to transport",
+        "to haul",
+        "to carry"
       ],
       "es": [
         "transportar",
@@ -55053,9 +55053,9 @@
         "abebben"
       ],
       "en": [
-        "recede",
-        "ebb",
-        "subside"
+        "to recede",
+        "to ebb",
+        "to subside"
       ],
       "es": [
         "retroceder",
@@ -55817,7 +55817,7 @@
         "schlucken"
       ],
       "en": [
-        "swallow"
+        "to swallow"
       ],
       "es": [
         "tragar"
@@ -55953,7 +55953,7 @@
         "kriechen"
       ],
       "en": [
-        "crawl"
+        "to crawl"
       ],
       "es": [
         "gatear",
@@ -57745,7 +57745,7 @@
         "hängen"
       ],
       "en": [
-        "hang"
+        "to hang"
       ],
       "es": [
         "colgar"
@@ -58015,8 +58015,8 @@
         "ohnmächtig werden"
       ],
       "en": [
-        "faint",
-        "pass out"
+        "to faint",
+        "to pass out"
       ],
       "es": [
         "desmayarse"
@@ -58218,7 +58218,7 @@
         "kicken"
       ],
       "en": [
-        "kick"
+        "to kick"
       ],
       "es": [
         "patear",
@@ -58288,8 +58288,8 @@
         "streichen"
       ],
       "en": [
-        "wipe",
-        "stroke"
+        "to wipe",
+        "to stroke"
       ],
       "es": [
         "acariciar"
@@ -58424,8 +58424,8 @@
         "abbiegen"
       ],
       "en": [
-        "turn",
-        "make a turn"
+        "to turn",
+        "to make a turn"
       ],
       "es": [
         "girar",
@@ -58770,7 +58770,7 @@
         "kauen"
       ],
       "en": [
-        "chew"
+        "to chew"
       ],
       "es": [
         "masticar"
@@ -59113,9 +59113,9 @@
         "erkämpfen"
       ],
       "en": [
-        "seize",
-        "grab",
-        "contend for"
+        "to seize",
+        "to grab",
+        "to contend for"
       ],
       "es": [
         "arrebatar",
@@ -59400,8 +59400,8 @@
         "hocken"
       ],
       "en": [
-        "squat",
-        "crouch"
+        "to squat",
+        "to crouch"
       ],
       "es": [
         "ponerse en cuclillas",
@@ -59671,8 +59671,8 @@
         "sich erholen"
       ],
       "en": [
-        "recover",
-        "heal"
+        "to recover",
+        "to heal"
       ],
       "es": [
         "recuperarse"
@@ -59956,8 +59956,8 @@
         "saugen"
       ],
       "en": [
-        "suck",
-        "inhale"
+        "to suck",
+        "to inhale"
       ],
       "es": [
         "chupar"
@@ -60453,8 +60453,8 @@
         "zittern"
       ],
       "en": [
-        "vibrate",
-        "tremble"
+        "to vibrate",
+        "to tremble"
       ],
       "es": [
         "vibrar"
@@ -60655,8 +60655,8 @@
         "rufen"
       ],
       "en": [
-        "shout",
-        "yell"
+        "to shout",
+        "to yell"
       ],
       "es": [
         "gritar"
@@ -60725,8 +60725,8 @@
         "verleugnen"
       ],
       "en": [
-        "renege",
-        "break (a promise)"
+        "to renege",
+        "to break (a promise)"
       ],
       "es": [
         "faltar a la palabra",
@@ -61283,7 +61283,7 @@
         "auftischen"
       ],
       "en": [
-        "serve"
+        "to serve"
       ],
       "es": [
         "servir"
@@ -62298,8 +62298,8 @@
         "verbreiten"
       ],
       "en": [
-        "spread",
-        "scatter"
+        "to spread",
+        "to scatter"
       ],
       "es": [
         "esparcir"
@@ -62510,8 +62510,8 @@
         "streuen"
       ],
       "en": [
-        "sprinkle",
-        "scatter"
+        "to sprinkle",
+        "to scatter"
       ],
       "es": [
         "espolvorear",
@@ -62589,8 +62589,8 @@
         "zerkleinern"
       ],
       "en": [
-        "mince",
-        "chop"
+        "to mince",
+        "to chop"
       ],
       "es": [
         "picar"
@@ -62798,7 +62798,7 @@
         "auf dem Arm tragen"
       ],
       "en": [
-        "carry on the back or hip"
+        "to carry on the back or hip"
       ],
       "es": [
         "cargar a cuestas",
@@ -62947,7 +62947,7 @@
         "schütten"
       ],
       "en": [
-        "pour"
+        "to pour"
       ],
       "es": [
         "verter"
@@ -63388,8 +63388,8 @@
         "zerren"
       ],
       "en": [
-        "drag",
-        "haul"
+        "to drag",
+        "to haul"
       ],
       "es": [
         "arrastrar"
@@ -63739,8 +63739,8 @@
         "stampfen"
       ],
       "en": [
-        "pound",
-        "crush"
+        "to pound",
+        "to crush"
       ],
       "es": [
         "machacar"
@@ -64025,9 +64025,9 @@
         "neigen zu"
       ],
       "en": [
-        "lean",
-        "incline",
-        "tend"
+        "to lean",
+        "to incline",
+        "to tend"
       ],
       "es": [
         "inclinarse",
@@ -64245,7 +64245,7 @@
         "lecken"
       ],
       "en": [
-        "lick"
+        "to lick"
       ],
       "es": [
         "lamer"
@@ -64447,7 +64447,7 @@
         "raspeln"
       ],
       "en": [
-        "grate"
+        "to grate"
       ],
       "es": [
         "rallar"
@@ -64721,8 +64721,8 @@
         "hüpfen"
       ],
       "en": [
-        "leap",
-        "jump"
+        "to leap",
+        "to jump"
       ],
       "es": [
         "saltar",
@@ -64863,7 +64863,7 @@
         "quetschen"
       ],
       "en": [
-        "squeeze"
+        "to squeeze"
       ],
       "es": [
         "exprimir"
@@ -65273,7 +65273,7 @@
         "schwitzen"
       ],
       "en": [
-        "sweat"
+        "to sweat"
       ],
       "es": [
         "sudar"
@@ -65545,7 +65545,7 @@
         "dünsten"
       ],
       "en": [
-        "steam"
+        "to steam"
       ],
       "es": [
         "cocer al vapor"
@@ -65965,7 +65965,7 @@
         "abwägen"
       ],
       "en": [
-        "weigh"
+        "to weigh"
       ],
       "es": [
         "pesar"
@@ -66593,7 +66593,7 @@
         "grüßen"
       ],
       "en": [
-        "greet"
+        "to greet"
       ],
       "es": [
         "saludar"
@@ -66946,8 +66946,8 @@
         "mahlen"
       ],
       "en": [
-        "grind",
-        "mill"
+        "to grind",
+        "to mill"
       ],
       "es": [
         "moler"
@@ -67390,8 +67390,8 @@
         "sieben"
       ],
       "en": [
-        "filter",
-        "strain"
+        "to filter",
+        "to strain"
       ],
       "es": [
         "filtrar",
@@ -67604,7 +67604,7 @@
         "schälen"
       ],
       "en": [
-        "peel"
+        "to peel"
       ],
       "es": [
         "pelar"
@@ -67886,8 +67886,8 @@
         "bestreiten"
       ],
       "en": [
-        "refute",
-        "deny"
+        "to refute",
+        "to deny"
       ],
       "es": [
         "refutar",
@@ -68036,7 +68036,7 @@
         "niesen"
       ],
       "en": [
-        "sneeze"
+        "to sneeze"
       ],
       "es": [
         "estornudar"
@@ -68103,8 +68103,8 @@
         "stolpern"
       ],
       "en": [
-        "stumble",
-        "trip"
+        "to stumble",
+        "to trip"
       ],
       "es": [
         "tropezarse"
@@ -68876,9 +68876,9 @@
         "ankleben"
       ],
       "en": [
-        "stick",
-        "paste",
-        "affix"
+        "to stick",
+        "to paste",
+        "to affix"
       ],
       "es": [
         "pegar"
@@ -69079,7 +69079,7 @@
         "injizieren"
       ],
       "en": [
-        "inject"
+        "to inject"
       ],
       "es": [
         "inyectar"
@@ -69286,8 +69286,8 @@
         "ausrutschen"
       ],
       "en": [
-        "slip",
-        "skid"
+        "to slip",
+        "to skid"
       ],
       "es": [
         "resbalar"
@@ -70124,9 +70124,9 @@
         "betreuen"
       ],
       "en": [
-        "nurture",
-        "care for",
-        "raise"
+        "to nurture",
+        "to care for",
+        "to raise"
       ],
       "es": [
         "criar"
@@ -70346,9 +70346,9 @@
         "beschlagnahmen"
       ],
       "en": [
-        "seize",
-        "snatch",
-        "confiscate"
+        "to seize",
+        "to snatch",
+        "to confiscate"
       ],
       "es": [
         "arrebatar",
@@ -71144,9 +71144,9 @@
         "hochhalten"
       ],
       "en": [
-        "carry on the head",
-        "uphold",
-        "exalt"
+        "to carry on the head",
+        "to uphold",
+        "to exalt"
       ],
       "es": [
         "llevar sobre la cabeza",
@@ -71629,8 +71629,8 @@
         "eingeklemmt werden"
       ],
       "en": [
-        "pinch",
-        "get caught"
+        "to pinch",
+        "to get caught"
       ],
       "es": [
         "pillarse"
@@ -71766,8 +71766,8 @@
         "sich hinlegen"
       ],
       "en": [
-        "collapse",
-        "lie down"
+        "to collapse",
+        "to lie down"
       ],
       "es": [
         "desplomarse",
@@ -71911,7 +71911,7 @@
         "langen nach"
       ],
       "en": [
-        "reach"
+        "to reach"
       ],
       "es": [
         "alcanzar"
@@ -72121,7 +72121,7 @@
         "begleiten"
       ],
       "en": [
-        "accompany"
+        "to accompany"
       ],
       "es": [
         "acompañar"
@@ -72334,8 +72334,8 @@
         "behandeln"
       ],
       "en": [
-        "treat",
-        "cure"
+        "to treat",
+        "to cure"
       ],
       "es": [
         "tratar"
@@ -73141,8 +73141,8 @@
         "zerkratzt werden"
       ],
       "en": [
-        "scratch",
-        "get scratched"
+        "to scratch",
+        "to get scratched"
       ],
       "es": [
         "rasguñarse"
@@ -73277,8 +73277,8 @@
         "langen nach"
       ],
       "en": [
-        "reach for",
-        "reach out"
+        "to reach for",
+        "to reach out"
       ],
       "es": [
         "alcanzar",
@@ -73983,8 +73983,8 @@
         "anstoßen"
       ],
       "en": [
-        "bump",
-        "collide"
+        "to bump",
+        "to collide"
       ],
       "es": [
         "golpearse"
@@ -74327,7 +74327,7 @@
         "zittern"
       ],
       "en": [
-        "shiver"
+        "to shiver"
       ],
       "es": [
         "tiritar"
@@ -74529,8 +74529,8 @@
         "auf der Schulter tragen"
       ],
       "en": [
-        "carry on the shoulder",
-        "bear"
+        "to carry on the shoulder",
+        "to bear"
       ],
       "es": [
         "cargar al hombro",
@@ -75363,7 +75363,7 @@
         "ausrutschen"
       ],
       "en": [
-        "slip"
+        "to slip"
       ],
       "es": [
         "resbalar"
@@ -75430,8 +75430,8 @@
         "haften"
       ],
       "en": [
-        "stick",
-        "adhere"
+        "to stick",
+        "to adhere"
       ],
       "es": [
         "adherirse"
@@ -76265,8 +76265,8 @@
         "klagen"
       ],
       "en": [
-        "complain",
-        "moan"
+        "to complain",
+        "to moan"
       ],
       "es": [
         "quejarse"
@@ -76743,7 +76743,7 @@
         "flüstern"
       ],
       "en": [
-        "whisper"
+        "to whisper"
       ],
       "es": [
         "susurrar"
@@ -81279,7 +81279,7 @@
         "schreien"
       ],
       "en": [
-        "scream"
+        "to scream"
       ],
       "es": [
         "chillar"
@@ -81484,8 +81484,8 @@
         "begleiten"
       ],
       "en": [
-        "accompany",
-        "assist"
+        "to accompany",
+        "to assist"
       ],
       "es": [
         "acompañar"
@@ -82285,7 +82285,7 @@
         "anleiten"
       ],
       "en": [
-        "guide"
+        "to guide"
       ],
       "es": [
         "guiar"
@@ -82712,8 +82712,8 @@
         "ermahnen"
       ],
       "en": [
-        "admonish",
-        "reprimand"
+        "to admonish",
+        "to reprimand"
       ],
       "es": [
         "reprender"
@@ -82921,7 +82921,7 @@
         "führen"
       ],
       "en": [
-        "guide"
+        "to guide"
       ],
       "es": [
         "guiar"
@@ -83350,9 +83350,9 @@
         "hervortreten"
       ],
       "en": [
-        "appear",
-        "emerge",
-        "show up"
+        "to appear",
+        "to emerge",
+        "to show up"
       ],
       "es": [
         "aparecer",
@@ -86705,8 +86705,8 @@
         "fliehen"
       ],
       "en": [
-        "flee",
-        "escape"
+        "to flee",
+        "to escape"
       ],
       "es": [
         "huir"
@@ -87109,8 +87109,8 @@
         "treffen"
       ],
       "en": [
-        "meet",
-        "encounter"
+        "to meet",
+        "to encounter"
       ],
       "es": [
         "encontrarse"
@@ -87918,8 +87918,8 @@
         "vorbeiziehen"
       ],
       "en": [
-        "pass by",
-        "cross"
+        "to pass by",
+        "to cross"
       ],
       "es": [
         "pasar"
@@ -89263,7 +89263,7 @@
         "erklären"
       ],
       "en": [
-        "state"
+        "to state"
       ],
       "es": [
         "declarar"
@@ -89330,7 +89330,7 @@
         "stattfinden"
       ],
       "en": [
-        "take place"
+        "to take place"
       ],
       "es": [
         "transcurrir"
@@ -89565,8 +89565,8 @@
         "enthalten"
       ],
       "en": [
-        "contain",
-        "carry"
+        "to contain",
+        "to carry"
       ],
       "es": [
         "contener"
@@ -91782,7 +91782,7 @@
         "festnehmen"
       ],
       "en": [
-        "detain"
+        "to detain"
       ],
       "es": [
         "detener"
@@ -93068,8 +93068,8 @@
         "zurückfallen"
       ],
       "en": [
-        "relapse",
-        "recur"
+        "to relapse",
+        "to recur"
       ],
       "es": [
         "recaer"
@@ -93220,8 +93220,8 @@
         "sich nähern"
       ],
       "en": [
-        "approach",
-        "near"
+        "to approach",
+        "to near"
       ],
       "es": [
         "acercarse"
@@ -93645,8 +93645,8 @@
         "schweben"
       ],
       "en": [
-        "glide",
-        "float"
+        "to glide",
+        "to float"
       ],
       "es": [
         "planear"
@@ -94948,7 +94948,7 @@
         "verstoßen"
       ],
       "en": [
-        "violate"
+        "to violate"
       ],
       "es": [
         "violar"
@@ -95019,9 +95019,9 @@
         "beschleunigen"
       ],
       "en": [
-        "speed",
-        "race along",
-        "accelerate"
+        "to speed",
+        "to race along",
+        "to accelerate"
       ],
       "es": [
         "acelerar",
@@ -95618,8 +95618,8 @@
         "packen"
       ],
       "en": [
-        "pack",
-        "tidy up"
+        "to pack",
+        "to tidy up"
       ],
       "es": [
         "empacar"
@@ -96074,8 +96074,8 @@
         "klemmen"
       ],
       "en": [
-        "clamp",
-        "pinch"
+        "to clamp",
+        "to pinch"
       ],
       "es": [
         "pinzar"
@@ -96448,7 +96448,7 @@
         "nachfolgen"
       ],
       "en": [
-        "catch up"
+        "to catch up"
       ],
       "es": [
         "alcanzar"
@@ -97129,7 +97129,7 @@
         "zurücklegen"
       ],
       "en": [
-        "undertake"
+        "to undertake"
       ],
       "es": [
         "recorrer"
@@ -97267,9 +97267,9 @@
         "sich bewusst sein"
       ],
       "en": [
-        "understand",
-        "be aware",
-        "comprehend"
+        "to understand",
+        "to be aware",
+        "to comprehend"
       ],
       "es": [
         "comprender",
@@ -97499,8 +97499,8 @@
         "aufbieten"
       ],
       "en": [
-        "mobilize",
-        "muster"
+        "to mobilize",
+        "to muster"
       ],
       "es": [
         "movilizar"
@@ -97567,7 +97567,7 @@
         "freilassen"
       ],
       "en": [
-        "release"
+        "to release"
       ],
       "es": [
         "liberar"
@@ -97769,8 +97769,8 @@
         "erkunden"
       ],
       "en": [
-        "explore",
-        "roam"
+        "to explore",
+        "to roam"
       ],
       "es": [
         "explorar"
@@ -98123,9 +98123,9 @@
         "sich entfalten"
       ],
       "en": [
-        "bloom",
-        "blossom",
-        "flower"
+        "to bloom",
+        "to blossom",
+        "to flower"
       ],
       "es": [
         "florecer",
@@ -98220,7 +98220,7 @@
         "sich auswirken"
       ],
       "en": [
-        "impact"
+        "to impact"
       ],
       "es": [
         "impactar"
@@ -98725,8 +98725,8 @@
         "einsperren"
       ],
       "en": [
-        "cage",
-        "confine"
+        "to cage",
+        "to confine"
       ],
       "es": [
         "encerrar"
@@ -98793,8 +98793,8 @@
         "klopfen"
       ],
       "en": [
-        "knock",
-        "tap"
+        "to knock",
+        "to tap"
       ],
       "es": [
         "tocar"
@@ -99231,8 +99231,8 @@
         "sinken"
       ],
       "en": [
-        "sink",
-        "shipwreck"
+        "to sink",
+        "to shipwreck"
       ],
       "es": [
         "naufragar"
@@ -99381,7 +99381,7 @@
         "tragen"
       ],
       "en": [
-        "bear"
+        "to bear"
       ],
       "es": [
         "soportar"
@@ -100255,8 +100255,8 @@
         "verbieten"
       ],
       "en": [
-        "forbid",
-        "prohibit"
+        "to forbid",
+        "to prohibit"
       ],
       "es": [
         "prohibir"
@@ -100424,8 +100424,8 @@
         "untersuchen"
       ],
       "en": [
-        "study",
-        "examine"
+        "to study",
+        "to examine"
       ],
       "es": [
         "estudiar"
@@ -100840,8 +100840,8 @@
         "durchbrechen"
       ],
       "en": [
-        "break through",
-        "breach"
+        "to break through",
+        "to breach"
       ],
       "es": [
         "romper"
@@ -100908,8 +100908,8 @@
         "eskortieren"
       ],
       "en": [
-        "escort",
-        "guard"
+        "to escort",
+        "to guard"
       ],
       "es": [
         "escoltar"
@@ -101437,9 +101437,9 @@
         "sich wölben"
       ],
       "en": [
-        "curve",
-        "bend",
-        "arch"
+        "to curve",
+        "to bend",
+        "to arch"
       ],
       "es": [
         "curvarse",
@@ -101841,9 +101841,9 @@
         "beschleunigen"
       ],
       "en": [
-        "spur",
-        "drive",
-        "accelerate"
+        "to spur",
+        "to drive",
+        "to accelerate"
       ],
       "es": [
         "espolear",
@@ -102144,9 +102144,9 @@
         "zur Schau stellen"
       ],
       "en": [
-        "show off",
-        "flaunt",
-        "brag"
+        "to show off",
+        "to flaunt",
+        "to brag"
       ],
       "es": [
         "presumir",
@@ -102314,9 +102314,9 @@
         "ausgelöscht werden"
       ],
       "en": [
-        "be destroyed",
-        "perish",
-        "be wiped out"
+        "to be destroyed",
+        "to perish",
+        "to be wiped out"
       ],
       "es": [
         "destruirse",
@@ -102628,7 +102628,7 @@
         "bestreiten"
       ],
       "en": [
-        "deny"
+        "to deny"
       ],
       "es": [
         "desmentir"
@@ -102839,8 +102839,8 @@
         "verletzen"
       ],
       "en": [
-        "violate",
-        "collide"
+        "to violate",
+        "to collide"
       ],
       "es": [
         "violar"
@@ -103482,7 +103482,7 @@
         "vermeiden"
       ],
       "en": [
-        "avoid"
+        "to avoid"
       ],
       "es": [
         "evitar"
@@ -103956,7 +103956,7 @@
         "sich ergeben"
       ],
       "en": [
-        "surrender"
+        "to surrender"
       ],
       "es": [
         "resignarse"
@@ -104437,8 +104437,8 @@
         "umzingeln"
       ],
       "en": [
-        "surround",
-        "besiege"
+        "to surround",
+        "to besiege"
       ],
       "es": [
         "rodear"
@@ -105026,9 +105026,9 @@
         "abfärben"
       ],
       "en": [
-        "fade",
-        "run",
-        "discolor"
+        "to fade",
+        "to run",
+        "to discolor"
       ],
       "es": [
         "desteñir",
@@ -105864,8 +105864,8 @@
         "überschlagen"
       ],
       "en": [
-        "tumble",
-        "somersault"
+        "to tumble",
+        "to somersault"
       ],
       "es": [
         "voltear"
@@ -106815,8 +106815,8 @@
         "verschlingen"
       ],
       "en": [
-        "devour",
-        "gobble"
+        "to devour",
+        "to gobble"
       ],
       "es": [
         "devorar"
@@ -107018,8 +107018,8 @@
         "schützen"
       ],
       "en": [
-        "protect",
-        "shelter"
+        "to protect",
+        "to shelter"
       ],
       "es": [
         "proteger"
@@ -107232,7 +107232,7 @@
         "dämpfen"
       ],
       "en": [
-        "dampen"
+        "to dampen"
       ],
       "es": [
         "amortiguar"
@@ -107303,9 +107303,9 @@
         "auslegen"
       ],
       "en": [
-        "display",
-        "exhibit",
-        "showcase"
+        "to display",
+        "to exhibit",
+        "to showcase"
       ],
       "es": [
         "exhibir",
@@ -107468,8 +107468,8 @@
         "schmelzen"
       ],
       "en": [
-        "melt",
-        "fuse"
+        "to melt",
+        "to fuse"
       ],
       "es": [
         "fundir"
@@ -107755,8 +107755,8 @@
         "abblättern"
       ],
       "en": [
-        "peel off",
-        "crack"
+        "to peel off",
+        "to crack"
       ],
       "es": [
         "desprenderse"
@@ -107890,8 +107890,8 @@
         "verfolgen"
       ],
       "en": [
-        "track",
-        "trace"
+        "to track",
+        "to trace"
       ],
       "es": [
         "rastrear"
@@ -108367,9 +108367,9 @@
         "ausweiten"
       ],
       "en": [
-        "expand",
-        "widen",
-        "broaden"
+        "to expand",
+        "to widen",
+        "to broaden"
       ],
       "es": [
         "ampliar",
@@ -108527,8 +108527,8 @@
         "träumen"
       ],
       "en": [
-        "daydream",
-        "muse"
+        "to daydream",
+        "to muse"
       ],
       "es": [
         "soñar despierto"
@@ -109042,7 +109042,7 @@
         "verklagen"
       ],
       "en": [
-        "sue"
+        "to sue"
       ],
       "es": [
         "demandar"
@@ -109176,7 +109176,7 @@
         "sammeln"
       ],
       "en": [
-        "gather"
+        "to gather"
       ],
       "es": [
         "recopilar"
@@ -109835,8 +109835,8 @@
         "einschränken"
       ],
       "en": [
-        "limit",
-        "restrict"
+        "to limit",
+        "to restrict"
       ],
       "es": [
         "limitar",
@@ -109977,8 +109977,8 @@
         "werfen"
       ],
       "en": [
-        "throw",
-        "fling"
+        "to throw",
+        "to fling"
       ],
       "es": [
         "lanzar"
@@ -110045,7 +110045,7 @@
         "drucken"
       ],
       "en": [
-        "print"
+        "to print"
       ],
       "es": [
         "imprimir"
@@ -110116,7 +110116,7 @@
         "sinken"
       ],
       "en": [
-        "decline"
+        "to decline"
       ],
       "es": [
         "descender"
@@ -110183,7 +110183,7 @@
         "emporschnellen"
       ],
       "en": [
-        "surge"
+        "to surge"
       ],
       "es": [
         "dispararse"
@@ -110318,8 +110318,8 @@
         "verlängern"
       ],
       "en": [
-        "extend",
-        "prolong"
+        "to extend",
+        "to prolong"
       ],
       "es": [
         "prolongar",
@@ -111338,9 +111338,9 @@
         "hindern"
       ],
       "en": [
-        "obstruct",
-        "hinder",
-        "block"
+        "to obstruct",
+        "to hinder",
+        "to block"
       ],
       "es": [
         "obstaculizar",
@@ -112479,9 +112479,9 @@
         "behindern"
       ],
       "en": [
-        "hinder",
-        "impede",
-        "inhibit"
+        "to hinder",
+        "to impede",
+        "to inhibit"
       ],
       "es": [
         "obstaculizar",
@@ -112805,9 +112805,9 @@
         "sich ausweiten"
       ],
       "en": [
-        "spread",
-        "expand",
-        "widen"
+        "to spread",
+        "to expand",
+        "to widen"
       ],
       "es": [
         "extenderse",
@@ -112951,7 +112951,7 @@
         "auspressen"
       ],
       "en": [
-        "squeeze"
+        "to squeeze"
       ],
       "es": [
         "exprimir"
@@ -113022,9 +113022,9 @@
         "zappeln"
       ],
       "en": [
-        "struggle",
-        "writhe",
-        "thrash about"
+        "to struggle",
+        "to writhe",
+        "to thrash about"
       ],
       "es": [
         "forcejear",
@@ -113264,7 +113264,7 @@
         "abstreiten"
       ],
       "en": [
-        "deny"
+        "to deny"
       ],
       "es": [
         "negar"
@@ -113683,9 +113683,9 @@
         "ausleiern"
       ],
       "en": [
-        "stretch",
-        "expand",
-        "widen"
+        "to stretch",
+        "to expand",
+        "to widen"
       ],
       "es": [
         "estirarse",
@@ -114135,9 +114135,9 @@
         "herabsetzen"
       ],
       "en": [
-        "lower",
-        "demean",
-        "belittle"
+        "to lower",
+        "to demean",
+        "to belittle"
       ],
       "es": [
         "rebajar",
@@ -114645,7 +114645,7 @@
         "absorbieren"
       ],
       "en": [
-        "absorb"
+        "to absorb"
       ],
       "es": [
         "absorber"
@@ -114860,9 +114860,9 @@
         "zusammenzucken"
       ],
       "en": [
-        "grimace",
-        "wince",
-        "grin in pain"
+        "to grimace",
+        "to wince",
+        "to grin in pain"
       ],
       "es": [
         "hacer una mueca",
@@ -115753,7 +115753,7 @@
         "verstricken"
       ],
       "en": [
-        "ensnare"
+        "to ensnare"
       ],
       "es": [
         "atrapar"
@@ -115961,8 +115961,8 @@
         "sich erstrecken"
       ],
       "en": [
-        "lengthen",
-        "extend"
+        "to lengthen",
+        "to extend"
       ],
       "es": [
         "alargarse"
@@ -116237,7 +116237,7 @@
         "auftragen"
       ],
       "en": [
-        "serve"
+        "to serve"
       ],
       "es": [
         "servir la comida"
@@ -116456,7 +116456,7 @@
         "probieren"
       ],
       "en": [
-        "taste"
+        "to taste"
       ],
       "es": [
         "probar",
@@ -116738,8 +116738,8 @@
         "schlürfen"
       ],
       "en": [
-        "slurp",
-        "sip"
+        "to slurp",
+        "to sip"
       ],
       "es": [
         "sorber"
@@ -116807,8 +116807,8 @@
         "schlucken"
       ],
       "en": [
-        "gulp",
-        "swallow"
+        "to gulp",
+        "to swallow"
       ],
       "es": [
         "tragar"
@@ -116878,7 +116878,7 @@
         "auslösen"
       ],
       "en": [
-        "trigger"
+        "to trigger"
       ],
       "es": [
         "desencadenar"
@@ -117404,7 +117404,7 @@
         "sich hinlegen"
       ],
       "en": [
-        "lie down"
+        "to lie down"
       ],
       "es": [
         "acostarse",
@@ -117619,7 +117619,7 @@
         "liefern"
       ],
       "en": [
-        "supply"
+        "to supply"
       ],
       "es": [
         "suministrar"
@@ -117974,7 +117974,7 @@
         "löten"
       ],
       "en": [
-        "solder"
+        "to solder"
       ],
       "es": [
         "soldar"
@@ -118193,7 +118193,7 @@
         "undicht sein"
       ],
       "en": [
-        "leak"
+        "to leak"
       ],
       "es": [
         "gotear",
@@ -118628,9 +118628,9 @@
         "torkeln"
       ],
       "en": [
-        "sway",
-        "wobble",
-        "lurch"
+        "to sway",
+        "to wobble",
+        "to lurch"
       ],
       "es": [
         "bambolearse",
@@ -118725,7 +118725,7 @@
         "anlocken"
       ],
       "en": [
-        "attract"
+        "to attract"
       ],
       "es": [
         "atraer"
@@ -118860,7 +118860,7 @@
         "darlegen"
       ],
       "en": [
-        "expose"
+        "to expose"
       ],
       "es": [
         "exponer"
@@ -118928,8 +118928,8 @@
         "treten auf"
       ],
       "en": [
-        "step on",
-        "tread"
+        "to step on",
+        "to tread"
       ],
       "es": [
         "pisar"
@@ -119000,8 +119000,8 @@
         "angrenzen"
       ],
       "en": [
-        "border",
-        "be adjacent"
+        "to border",
+        "to be adjacent"
       ],
       "es": [
         "limitar con",
@@ -119075,9 +119075,9 @@
         "Fuß setzen"
       ],
       "en": [
-        "step",
-        "tread",
-        "set foot"
+        "to step",
+        "to tread",
+        "to set foot"
       ],
       "es": [
         "pisar",
@@ -119150,8 +119150,8 @@
         "breiter werden"
       ],
       "en": [
-        "widen",
-        "broaden"
+        "to widen",
+        "to broaden"
       ],
       "es": [
         "ensancharse"
@@ -119301,8 +119301,8 @@
         "sich anlehnen"
       ],
       "en": [
-        "lean",
-        "lean against"
+        "to lean",
+        "to lean against"
       ],
       "es": [
         "apoyarse",
@@ -119376,9 +119376,9 @@
         "aufstützen"
       ],
       "en": [
-        "rest on",
-        "support",
-        "pivot on"
+        "to rest on",
+        "to support",
+        "to pivot on"
       ],
       "es": [
         "apoyarse",
@@ -119527,8 +119527,8 @@
         "abstützen"
       ],
       "en": [
-        "prop up",
-        "support"
+        "to prop up",
+        "to support"
       ],
       "es": [
         "apuntalar",
@@ -119608,8 +119608,8 @@
         "abstützen"
       ],
       "en": [
-        "support",
-        "prop"
+        "to support",
+        "to prop"
       ],
       "es": [
         "sostener",
@@ -119688,8 +119688,8 @@
         "packen"
       ],
       "en": [
-        "grip",
-        "clutch"
+        "to grip",
+        "to clutch"
       ],
       "es": [
         "agarrar",
@@ -120192,9 +120192,9 @@
         "zerren"
       ],
       "en": [
-        "snatch",
-        "yank",
-        "jerk"
+        "to snatch",
+        "to yank",
+        "to jerk"
       ],
       "es": [
         "arrancar de un tirón",
@@ -120343,9 +120343,9 @@
         "schleppen"
       ],
       "en": [
-        "pull",
-        "draw",
-        "haul"
+        "to pull",
+        "to draw",
+        "to haul"
       ],
       "es": [
         "tirar de",
@@ -120569,7 +120569,7 @@
         "baumeln lassen"
       ],
       "en": [
-        "carry dangling in the hand"
+        "to carry dangling in the hand"
       ],
       "es": [
         "llevar en la mano colgando"
@@ -121001,8 +121001,8 @@
         "vorbeischauen"
       ],
       "en": [
-        "drop by",
-        "stop by"
+        "to drop by",
+        "to stop by"
       ],
       "es": [
         "pasar por"
@@ -121205,8 +121205,8 @@
         "dünner werden"
       ],
       "en": [
-        "thin",
-        "become thin"
+        "to thin",
+        "to become thin"
       ],
       "es": [
         "adelgazarse",
@@ -121276,8 +121276,8 @@
         "sich verlegen"
       ],
       "en": [
-        "move",
-        "relocate"
+        "to move",
+        "to relocate"
       ],
       "es": [
         "mudarse",
@@ -121356,9 +121356,9 @@
         "sich erstrecken"
       ],
       "en": [
-        "stretch",
-        "extend",
-        "span"
+        "to stretch",
+        "to extend",
+        "to span"
       ],
       "es": [
         "extenderse",
@@ -123041,7 +123041,7 @@
       ],
       "en": [
         "stretched out",
-        "spread"
+        "to spread"
       ],
       "es": [
         "extendido",
@@ -124536,8 +124536,8 @@
         "anheben"
       ],
       "en": [
-        "raise",
-        "elevate"
+        "to raise",
+        "to elevate"
       ],
       "es": [
         "elevar",
@@ -124832,8 +124832,8 @@
         "überfluten"
       ],
       "en": [
-        "overflow",
-        "brim over"
+        "to overflow",
+        "to brim over"
       ],
       "es": [
         "desbordarse",
@@ -124977,8 +124977,8 @@
         "verlagern"
       ],
       "en": [
-        "shift",
-        "transfer"
+        "to shift",
+        "to transfer"
       ],
       "es": [
         "transferir",
@@ -125211,7 +125211,7 @@
         "segeln"
       ],
       "en": [
-        "sail"
+        "to sail"
       ],
       "es": [
         "navegar"
@@ -126131,8 +126131,8 @@
         "niedriger werden"
       ],
       "en": [
-        "lower",
-        "become low"
+        "to lower",
+        "to become low"
       ],
       "es": [
         "bajar",
@@ -126495,8 +126495,8 @@
         "kleben"
       ],
       "en": [
-        "glue",
-        "attach"
+        "to glue",
+        "to attach"
       ],
       "es": [
         "pegar"
@@ -127446,8 +127446,8 @@
         "sich erheben"
       ],
       "en": [
-        "rise",
-        "become high"
+        "to rise",
+        "to become high"
       ],
       "es": [
         "elevarse",
@@ -127899,8 +127899,8 @@
         "stolpern"
       ],
       "en": [
-        "trip",
-        "stumble"
+        "to trip",
+        "to stumble"
       ],
       "es": [
         "tropezar"
@@ -127967,7 +127967,7 @@
         "teilnehmen"
       ],
       "en": [
-        "attend"
+        "to attend"
       ],
       "es": [
         "asistir"
@@ -128390,7 +128390,7 @@
         "sich erinnern"
       ],
       "en": [
-        "remember"
+        "to remember"
       ],
       "es": [
         "recordar"
@@ -128892,8 +128892,8 @@
         "antworten"
       ],
       "en": [
-        "respond",
-        "react to"
+        "to respond",
+        "to react to"
       ],
       "es": [
         "responder"
@@ -129096,8 +129096,8 @@
         "anheben"
       ],
       "en": [
-        "lift",
-        "raise"
+        "to lift",
+        "to raise"
       ],
       "es": [
         "levantar",
@@ -129336,8 +129336,8 @@
         "einengen"
       ],
       "en": [
-        "narrow",
-        "restrict"
+        "to narrow",
+        "to restrict"
       ],
       "es": [
         "estrechar",
@@ -130410,7 +130410,7 @@
         "verstehen"
       ],
       "en": [
-        "understand"
+        "to understand"
       ],
       "es": [
         "entender"
@@ -130478,8 +130478,8 @@
         "schmaler werden"
       ],
       "en": [
-        "narrow",
-        "become narrow"
+        "to narrow",
+        "to become narrow"
       ],
       "es": [
         "estrecharse"
@@ -130755,7 +130755,7 @@
         "bestehen"
       ],
       "en": [
-        "pass"
+        "to pass"
       ],
       "es": [
         "aprobar"
@@ -130822,8 +130822,8 @@
         "stöhnen"
       ],
       "en": [
-        "groan",
-        "moan"
+        "to groan",
+        "to moan"
       ],
       "es": [
         "gemir"
@@ -131047,8 +131047,8 @@
         "wimmern"
       ],
       "en": [
-        "moan",
-        "whimper"
+        "to moan",
+        "to whimper"
       ],
       "es": [
         "gimotear"
@@ -131254,8 +131254,8 @@
         "kreischen"
       ],
       "en": [
-        "shriek",
-        "screech"
+        "to shriek",
+        "to screech"
       ],
       "es": [
         "chillar"
@@ -131533,8 +131533,8 @@
         "murmeln"
       ],
       "en": [
-        "mumble",
-        "mutter"
+        "to mumble",
+        "to mutter"
       ],
       "es": [
         "murmurar"
@@ -131898,8 +131898,8 @@
         "gravieren"
       ],
       "en": [
-        "carve",
-        "engrave"
+        "to carve",
+        "to engrave"
       ],
       "es": [
         "tallar",
@@ -131978,8 +131978,8 @@
         "wechseln"
       ],
       "en": [
-        "replace",
-        "change"
+        "to replace",
+        "to change"
       ],
       "es": [
         "reemplazar",
@@ -132264,8 +132264,8 @@
         "spritzen"
       ],
       "en": [
-        "spray",
-        "squirt"
+        "to spray",
+        "to squirt"
       ],
       "es": [
         "rociar",
@@ -132347,7 +132347,7 @@
         "verkürzen"
       ],
       "en": [
-        "shorten"
+        "to shorten"
       ],
       "es": [
         "acortar"
@@ -132634,9 +132634,9 @@
         "ins Stocken geraten"
       ],
       "en": [
-        "falter",
-        "be stuck",
-        "halt intermittently"
+        "to falter",
+        "to be stuck",
+        "to halt intermittently"
       ],
       "es": [
         "atascarse",
@@ -133077,8 +133077,8 @@
         "anordnen"
       ],
       "en": [
-        "arrange",
-        "compile"
+        "to arrange",
+        "to compile"
       ],
       "es": [
         "ordenar",
@@ -134392,7 +134392,7 @@
         "sammeln"
       ],
       "en": [
-        "collect"
+        "to collect"
       ],
       "es": [
         "recoger"
@@ -134526,7 +134526,7 @@
         "vergessen"
       ],
       "en": [
-        "forget"
+        "to forget"
       ],
       "es": [
         "olvidar"
@@ -135142,8 +135142,8 @@
         "düngen"
       ],
       "en": [
-        "fertilize",
-        "make fertile"
+        "to fertilize",
+        "to make fertile"
       ],
       "es": [
         "fertilizar",
@@ -135939,8 +135939,8 @@
         "transferieren"
       ],
       "en": [
-        "move",
-        "transfer"
+        "to move",
+        "to transfer"
       ],
       "es": [
         "trasladar",
@@ -136529,8 +136529,8 @@
         "beladen"
       ],
       "en": [
-        "load",
-        "contain"
+        "to load",
+        "to contain"
       ],
       "es": [
         "cargar",
@@ -137344,9 +137344,9 @@
         "zustopfen"
       ],
       "en": [
-        "clog",
-        "plug",
-        "stop up"
+        "to clog",
+        "to plug",
+        "to stop up"
       ],
       "es": [
         "tapar",
@@ -137848,8 +137848,8 @@
         "zielen"
       ],
       "en": [
-        "aim",
-        "take aim"
+        "to aim",
+        "to take aim"
       ],
       "es": [
         "apuntar"
@@ -138409,7 +138409,7 @@
         "bearbeiten"
       ],
       "en": [
-        "work on"
+        "to work on"
       ],
       "es": [
         "hacer"
@@ -138857,8 +138857,8 @@
         "ankern"
       ],
       "en": [
-        "anchor",
-        "dock"
+        "to anchor",
+        "to dock"
       ],
       "es": [
         "anclar"
@@ -138925,7 +138925,7 @@
         "besprechen"
       ],
       "en": [
-        "discuss"
+        "to discuss"
       ],
       "es": [
         "discutir"
@@ -139615,9 +139615,9 @@
         "verquirlen"
       ],
       "en": [
-        "beat",
-        "whisk",
-        "shake"
+        "to beat",
+        "to whisk",
+        "to shake"
       ],
       "es": [
         "batir"
@@ -139974,7 +139974,7 @@
         "beachten"
       ],
       "en": [
-        "pay attention"
+        "to pay attention"
       ],
       "es": [
         "prestar atención"
@@ -140959,7 +140959,7 @@
         "üben"
       ],
       "en": [
-        "practice"
+        "to practice"
       ],
       "es": [
         "practicar"
@@ -141026,7 +141026,7 @@
         "notieren"
       ],
       "en": [
-        "note down"
+        "to note down"
       ],
       "es": [
         "anotar"
@@ -141448,7 +141448,7 @@
         "treten"
       ],
       "en": [
-        "kick"
+        "to kick"
       ],
       "es": [
         "patear"
@@ -141868,8 +141868,8 @@
         "meißeln"
       ],
       "en": [
-        "chisel",
-        "sculpt"
+        "to chisel",
+        "to sculpt"
       ],
       "es": [
         "cincelar",
@@ -142093,8 +142093,8 @@
         "durchdringen"
       ],
       "en": [
-        "seep",
-        "permeate"
+        "to seep",
+        "to permeate"
       ],
       "es": [
         "filtrarse",
@@ -142630,8 +142630,8 @@
         "zielen auf"
       ],
       "en": [
-        "aim at",
-        "target"
+        "to aim at",
+        "to target"
       ],
       "es": [
         "apuntar a"
@@ -142768,9 +142768,9 @@
         "verlagern"
       ],
       "en": [
-        "divert",
-        "shift",
-        "transfer"
+        "to divert",
+        "to shift",
+        "to transfer"
       ],
       "es": [
         "desviar",
@@ -143017,9 +143017,9 @@
         "fassen"
       ],
       "en": [
-        "load",
-        "fit",
-        "hold"
+        "to load",
+        "to fit",
+        "to hold"
       ],
       "es": [
         "cargar",
@@ -144193,8 +144193,8 @@
         "verfehlen"
       ],
       "en": [
-        "miss",
-        "go off target"
+        "to miss",
+        "to go off target"
       ],
       "es": [
         "fallar"
@@ -144412,8 +144412,8 @@
         "befördern"
       ],
       "en": [
-        "transport",
-        "haul"
+        "to transport",
+        "to haul"
       ],
       "es": [
         "transportar"
@@ -144919,8 +144919,8 @@
         "gestalten"
       ],
       "en": [
-        "arrange",
-        "organize"
+        "to arrange",
+        "to organize"
       ],
       "es": [
         "organizar",
@@ -145489,8 +145489,8 @@
         "Handel treiben"
       ],
       "en": [
-        "trade",
-        "do business"
+        "to trade",
+        "to do business"
       ],
       "es": [
         "comerciar"
@@ -146520,8 +146520,8 @@
         "zerlegen"
       ],
       "en": [
-        "unload",
-        "dismantle"
+        "to unload",
+        "to dismantle"
       ],
       "es": [
         "descargar",
@@ -146806,8 +146806,8 @@
         "sautieren"
       ],
       "en": [
-        "stir-fry",
-        "sauté"
+        "to stir-fry",
+        "to sauté"
       ],
       "es": [
         "saltear",
@@ -147146,7 +147146,7 @@
         "anmelden"
       ],
       "en": [
-        "register"
+        "to register"
       ],
       "es": [
         "registrarse"
@@ -147992,9 +147992,9 @@
         "verschieben"
       ],
       "en": [
-        "shift",
-        "slide",
-        "move over"
+        "to shift",
+        "to slide",
+        "to move over"
       ],
       "es": [
         "correr",
@@ -148362,8 +148362,8 @@
         "zerlegen"
       ],
       "en": [
-        "unload",
-        "dismantle"
+        "to unload",
+        "to dismantle"
       ],
       "es": [
         "descargar",
@@ -148668,7 +148668,7 @@
         "wiederholen"
       ],
       "en": [
-        "repeat"
+        "to repeat"
       ],
       "es": [
         "repetir"
@@ -149088,8 +149088,8 @@
         "beliefern"
       ],
       "en": [
-        "supply",
-        "provide"
+        "to supply",
+        "to provide"
       ],
       "es": [
         "suministrar",
@@ -149872,7 +149872,7 @@
         "schälen"
       ],
       "en": [
-        "peel"
+        "to peel"
       ],
       "es": [
         "pelar"
@@ -149941,8 +149941,8 @@
         "aufhäufen"
       ],
       "en": [
-        "pile up",
-        "stack"
+        "to pile up",
+        "to stack"
       ],
       "es": [
         "apilar",
@@ -150251,7 +150251,7 @@
         "erforschen"
       ],
       "en": [
-        "research"
+        "to research"
       ],
       "es": [
         "investigar"
@@ -150320,8 +150320,8 @@
         "umtauschen"
       ],
       "en": [
-        "exchange",
-        "swap"
+        "to exchange",
+        "to swap"
       ],
       "es": [
         "intercambiar",
@@ -150536,8 +150536,8 @@
         "handeln"
       ],
       "en": [
-        "bargain",
-        "haggle"
+        "to bargain",
+        "to haggle"
       ],
       "es": [
         "regatear"
@@ -150607,8 +150607,8 @@
         "rudern"
       ],
       "en": [
-        "row",
-        "paddle"
+        "to row",
+        "to paddle"
       ],
       "es": [
         "remar"
@@ -150749,8 +150749,8 @@
         "paddeln"
       ],
       "en": [
-        "paddle",
-        "pedal"
+        "to paddle",
+        "to pedal"
       ],
       "es": [
         "remar"
@@ -150817,7 +150817,7 @@
         "fehlen"
       ],
       "en": [
-        "be absent"
+        "to be absent"
       ],
       "es": [
         "faltar"
@@ -151536,8 +151536,8 @@
         "aufbringen"
       ],
       "en": [
-        "pry up",
-        "bring up"
+        "to pry up",
+        "to bring up"
       ],
       "es": [
         "apalancar",
@@ -152341,9 +152341,9 @@
         "folgen"
       ],
       "en": [
-        "follow",
-        "join",
-        "come along"
+        "to follow",
+        "to join",
+        "to come along"
       ],
       "es": [
         "seguir",
@@ -153888,7 +153888,7 @@
         "in Scheiben schneiden"
       ],
       "en": [
-        "slice"
+        "to slice"
       ],
       "es": [
         "rebanar",
@@ -154034,8 +154034,8 @@
         "schleifen"
       ],
       "en": [
-        "drag",
-        "haul"
+        "to drag",
+        "to haul"
       ],
       "es": [
         "arrastrar"
@@ -155370,7 +155370,7 @@
         "auswendig lernen"
       ],
       "en": [
-        "memorize"
+        "to memorize"
       ],
       "es": [
         "memorizar"
@@ -155790,8 +155790,8 @@
         "hervorheben"
       ],
       "en": [
-        "highlight",
-        "shine on"
+        "to highlight",
+        "to shine on"
       ],
       "es": [
         "enfocar",
@@ -156212,8 +156212,8 @@
         "sich wandeln"
       ],
       "en": [
-        "change",
-        "transform"
+        "to change",
+        "to transform"
       ],
       "es": [
         "cambiar",
@@ -156627,8 +156627,8 @@
         "detaillieren"
       ],
       "en": [
-        "detail",
-        "itemize"
+        "to detail",
+        "to itemize"
       ],
       "es": [
         "detallar"
@@ -156764,9 +156764,9 @@
         "verrücken"
       ],
       "en": [
-        "shift",
-        "move",
-        "slide"
+        "to shift",
+        "to move",
+        "to slide"
       ],
       "es": [
         "desplazar",
@@ -157891,7 +157891,7 @@
         "zusammenfassen"
       ],
       "en": [
-        "summarize"
+        "to summarize"
       ],
       "es": [
         "resumir"
@@ -159347,8 +159347,8 @@
         "sich abwechseln"
       ],
       "en": [
-        "take turns",
-        "alternate"
+        "to take turns",
+        "to alternate"
       ],
       "es": [
         "turnarse",
@@ -160295,8 +160295,8 @@
         "en gros kaufen"
       ],
       "en": [
-        "buy up",
-        "buy in bulk"
+        "to buy up",
+        "to buy in bulk"
       ],
       "es": [
         "comprar al por mayor",
@@ -161245,8 +161245,8 @@
         "Schlange stehen"
       ],
       "en": [
-        "queue",
-        "line up"
+        "to queue",
+        "to line up"
       ],
       "es": [
         "hacer cola"
@@ -161653,8 +161653,8 @@
         "anhäufen"
       ],
       "en": [
-        "hoard",
-        "pile up"
+        "to hoard",
+        "to pile up"
       ],
       "es": [
         "acumular",
@@ -163979,9 +163979,9 @@
         "verändern"
       ],
       "en": [
-        "change",
-        "modify",
-        "alter"
+        "to change",
+        "to modify",
+        "to alter"
       ],
       "es": [
         "cambiar",
@@ -164866,7 +164866,7 @@
         "wachsen"
       ],
       "en": [
-        "grow"
+        "to grow"
       ],
       "es": [
         "crecer"
@@ -165212,9 +165212,9 @@
         "sich entfalten"
       ],
       "en": [
-        "develop",
-        "grow",
-        "flourish"
+        "to develop",
+        "to grow",
+        "to flourish"
       ],
       "es": [
         "desarrollarse",
@@ -165495,8 +165495,8 @@
         "aufgereiht sein"
       ],
       "en": [
-        "be lined up",
-        "be in a row"
+        "to be lined up",
+        "to be in a row"
       ],
       "es": [
         "estar alineados",
@@ -166866,7 +166866,7 @@
         "pflücken"
       ],
       "en": [
-        "pick"
+        "to pick"
       ],
       "es": [
         "recoger"
@@ -169215,9 +169215,9 @@
         "sich vermehren"
       ],
       "en": [
-        "increase",
-        "grow",
-        "be added"
+        "to increase",
+        "to grow",
+        "to be added"
       ],
       "es": [
         "aumentar",
@@ -169582,8 +169582,8 @@
         "reduzieren"
       ],
       "en": [
-        "reduce",
-        "decrease"
+        "to reduce",
+        "to decrease"
       ],
       "es": [
         "reducir",
@@ -169932,8 +169932,8 @@
         "steigen"
       ],
       "en": [
-        "increase",
-        "rise"
+        "to increase",
+        "to rise"
       ],
       "es": [
         "aumentar",
@@ -170984,8 +170984,8 @@
         "sich verwandeln"
       ],
       "en": [
-        "transform",
-        "incarnate"
+        "to transform",
+        "to incarnate"
       ],
       "es": [
         "transformarse"
@@ -171119,7 +171119,7 @@
         "besuchen"
       ],
       "en": [
-        "visit"
+        "to visit"
       ],
       "es": [
         "visitar"
@@ -171388,7 +171388,7 @@
         "abschreiben"
       ],
       "en": [
-        "cheat"
+        "to cheat"
       ],
       "es": [
         "copiar"
@@ -171455,8 +171455,8 @@
         "plagiieren"
       ],
       "en": [
-        "plagiarize",
-        "copy"
+        "to plagiarize",
+        "to copy"
       ],
       "es": [
         "plagiar"
@@ -171727,8 +171727,8 @@
         "nennen"
       ],
       "en": [
-        "nickname",
-        "dub"
+        "to nickname",
+        "to dub"
       ],
       "es": [
         "apodar"
@@ -171795,8 +171795,8 @@
         "sagen"
       ],
       "en": [
-        "say",
-        "tell"
+        "to say",
+        "to tell"
       ],
       "es": [
         "decir"
@@ -172475,9 +172475,9 @@
         "herunterlassen"
       ],
       "en": [
-        "lower",
-        "bring down",
-        "reduce"
+        "to lower",
+        "to bring down",
+        "to reduce"
       ],
       "es": [
         "bajar",
@@ -172627,8 +172627,8 @@
         "strömen"
       ],
       "en": [
-        "flow",
-        "stream"
+        "to flow",
+        "to stream"
       ],
       "es": [
         "fluir",
@@ -173174,8 +173174,8 @@
         "einen Schritt machen"
       ],
       "en": [
-        "step",
-        "stride"
+        "to step",
+        "to stride"
       ],
       "es": [
         "dar un paso",
@@ -173323,8 +173323,8 @@
         "vermehren"
       ],
       "en": [
-        "add",
-        "increase"
+        "to add",
+        "to increase"
       ],
       "es": [
         "añadir",
@@ -173606,8 +173606,8 @@
         "treten"
       ],
       "en": [
-        "pedal",
-        "paddle"
+        "to pedal",
+        "to paddle"
       ],
       "es": [
         "pedalear"
@@ -173741,8 +173741,8 @@
         "zügeln"
       ],
       "en": [
-        "restrain",
-        "curb"
+        "to restrain",
+        "to curb"
       ],
       "es": [
         "refrenar"
@@ -173876,8 +173876,8 @@
         "umherziehen"
       ],
       "en": [
-        "wander",
-        "roam"
+        "to wander",
+        "to roam"
       ],
       "es": [
         "vagar"
@@ -174418,8 +174418,8 @@
         "ertrinken"
       ],
       "en": [
-        "sink",
-        "drown"
+        "to sink",
+        "to drown"
       ],
       "es": [
         "hundirse",
@@ -174696,8 +174696,8 @@
         "sich drängen"
       ],
       "en": [
-        "crowd",
-        "swarm"
+        "to crowd",
+        "to swarm"
       ],
       "es": [
         "agolparse"
@@ -175119,8 +175119,8 @@
         "wehen"
       ],
       "en": [
-        "flutter",
-        "wave"
+        "to flutter",
+        "to wave"
       ],
       "es": [
         "ondear"
@@ -175255,8 +175255,8 @@
         "klarstellen"
       ],
       "en": [
-        "explain",
-        "clarify"
+        "to explain",
+        "to clarify"
       ],
       "es": [
         "explicar",
@@ -175339,8 +175339,8 @@
         "verfolgen"
       ],
       "en": [
-        "chase",
-        "pursue"
+        "to chase",
+        "to pursue"
       ],
       "es": [
         "perseguir"
@@ -175414,8 +175414,8 @@
         "verlangen"
       ],
       "en": [
-        "ask for",
-        "request"
+        "to ask for",
+        "to request"
       ],
       "es": [
         "pedir"
@@ -175487,8 +175487,8 @@
         "dicht folgen"
       ],
       "en": [
-        "follow closely",
-        "tag along"
+        "to follow closely",
+        "to tag along"
       ],
       "es": [
         "seguir de cerca"
@@ -175556,8 +175556,8 @@
         "öffentlich machen"
       ],
       "en": [
-        "announce",
-        "make public"
+        "to announce",
+        "to make public"
       ],
       "es": [
         "anunciar",
@@ -175698,8 +175698,8 @@
         "arbeiten"
       ],
       "en": [
-        "work",
-        "do"
+        "to work",
+        "to do"
       ],
       "es": [
         "trabajar"
@@ -175766,8 +175766,8 @@
         "murmeln"
       ],
       "en": [
-        "mutter",
-        "mumble"
+        "to mutter",
+        "to mumble"
       ],
       "es": [
         "murmurar"
@@ -175903,9 +175903,9 @@
         "rotieren"
       ],
       "en": [
-        "spin",
-        "rotate",
-        "turn around"
+        "to spin",
+        "to rotate",
+        "to turn around"
       ],
       "es": [
         "girar",
@@ -176252,8 +176252,8 @@
         "strömen"
       ],
       "en": [
-        "gush",
-        "pour out"
+        "to gush",
+        "to pour out"
       ],
       "es": [
         "chorrear"
@@ -176525,8 +176525,8 @@
         "widerhallen"
       ],
       "en": [
-        "echo",
-        "resound"
+        "to echo",
+        "to resound"
       ],
       "es": [
         "resonar"
@@ -176660,8 +176660,8 @@
         "einsperren"
       ],
       "en": [
-        "confine",
-        "shackle"
+        "to confine",
+        "to shackle"
       ],
       "es": [
         "confinar"
@@ -176728,8 +176728,8 @@
         "leeren"
       ],
       "en": [
-        "drain",
-        "empty"
+        "to drain",
+        "to empty"
       ],
       "es": [
         "vaciar"
@@ -176998,8 +176998,8 @@
         "winken"
       ],
       "en": [
-        "wave",
-        "beckon"
+        "to wave",
+        "to beckon"
       ],
       "es": [
         "saludar con la mano"
@@ -177135,9 +177135,9 @@
         "sich verringern"
       ],
       "en": [
-        "decrease",
-        "diminish",
-        "be reduced"
+        "to decrease",
+        "to diminish",
+        "to be reduced"
       ],
       "es": [
         "disminuir",
@@ -177284,8 +177284,8 @@
         "heimsuchen"
       ],
       "en": [
-        "strike",
-        "hit"
+        "to strike",
+        "to hit"
       ],
       "es": [
         "azotar"
@@ -177486,8 +177486,8 @@
         "ernennen"
       ],
       "en": [
-        "inaugurate",
-        "appoint"
+        "to inaugurate",
+        "to appoint"
       ],
       "es": [
         "nombrar"
@@ -177624,8 +177624,8 @@
         "sinken"
       ],
       "en": [
-        "decrease",
-        "decline"
+        "to decrease",
+        "to decline"
       ],
       "es": [
         "disminuir",
@@ -177841,8 +177841,8 @@
         "besuchen"
       ],
       "en": [
-        "visit",
-        "call on"
+        "to visit",
+        "to call on"
       ],
       "es": [
         "visitar"
@@ -177976,8 +177976,8 @@
         "überqueren"
       ],
       "en": [
-        "cross",
-        "cross over"
+        "to cross",
+        "to cross over"
       ],
       "es": [
         "cruzar",
@@ -178184,9 +178184,9 @@
         "wenden"
       ],
       "en": [
-        "turn",
-        "rotate",
-        "spin"
+        "to turn",
+        "to rotate",
+        "to spin"
       ],
       "es": [
         "girar",
@@ -178663,8 +178663,8 @@
         "schlichten"
       ],
       "en": [
-        "break up (a fight)",
-        "separate"
+        "to break up (a fight)",
+        "to separate"
       ],
       "es": [
         "separar"
@@ -178798,8 +178798,8 @@
         "umwickeln"
       ],
       "en": [
-        "coil",
-        "wind around"
+        "to coil",
+        "to wind around"
       ],
       "es": [
         "enroscar"
@@ -178866,8 +178866,8 @@
         "überfließen"
       ],
       "en": [
-        "overflow",
-        "abound"
+        "to overflow",
+        "to abound"
       ],
       "es": [
         "desbordar"
@@ -179003,8 +179003,8 @@
         "fallen lassen"
       ],
       "en": [
-        "drop",
-        "let fall"
+        "to drop",
+        "to let fall"
       ],
       "es": [
         "dejar caer",
@@ -179418,8 +179418,8 @@
         "zermahlen"
       ],
       "en": [
-        "pulverize",
-        "crush fine"
+        "to pulverize",
+        "to crush fine"
       ],
       "es": [
         "triturar"
@@ -179487,8 +179487,8 @@
         "verändern"
       ],
       "en": [
-        "change",
-        "alter"
+        "to change",
+        "to alter"
       ],
       "es": [
         "cambiar",
@@ -179637,9 +179637,9 @@
         "bestreichen"
       ],
       "en": [
-        "smear",
-        "coat",
-        "besmear"
+        "to smear",
+        "to coat",
+        "to besmear"
       ],
       "es": [
         "untar",
@@ -180450,7 +180450,7 @@
         "verstauchen"
       ],
       "en": [
-        "sprain"
+        "to sprain"
       ],
       "es": [
         "torcerse"
@@ -180519,9 +180519,9 @@
         "rutschen"
       ],
       "en": [
-        "slide",
-        "glide",
-        "launch"
+        "to slide",
+        "to glide",
+        "to launch"
       ],
       "es": [
         "deslizarse",
@@ -180802,9 +180802,9 @@
         "scheiden"
       ],
       "en": [
-        "separate",
-        "split",
-        "divide"
+        "to separate",
+        "to split",
+        "to divide"
       ],
       "es": [
         "separar",
@@ -180901,7 +180901,7 @@
         "entbinden"
       ],
       "en": [
-        "give birth"
+        "to give birth"
       ],
       "es": [
         "dar a luz",
@@ -181356,8 +181356,8 @@
         "sich umdrehen"
       ],
       "en": [
-        "turn around",
-        "turn back"
+        "to turn around",
+        "to turn back"
       ],
       "es": [
         "darse la vuelta",
@@ -181437,9 +181437,9 @@
         "begleiten"
       ],
       "en": [
-        "deliver",
-        "escort",
-        "take someone"
+        "to deliver",
+        "to escort",
+        "to take someone"
       ],
       "es": [
         "llevar",
@@ -181522,8 +181522,8 @@
         "feststellen"
       ],
       "en": [
-        "declare",
-        "state"
+        "to declare",
+        "to state"
       ],
       "es": [
         "declarar",
@@ -181667,9 +181667,9 @@
         "schweben"
       ],
       "en": [
-        "float",
-        "hover",
-        "drift"
+        "to float",
+        "to hover",
+        "to drift"
       ],
       "es": [
         "flotar",
@@ -181751,9 +181751,9 @@
         "sich unterstellen"
       ],
       "en": [
-        "take shelter",
-        "seek shade",
-        "take refuge"
+        "to take shelter",
+        "to seek shade",
+        "to take refuge"
       ],
       "es": [
         "refugiarse",
@@ -182286,9 +182286,9 @@
         "hochheben"
       ],
       "en": [
-        "raise",
-        "lift",
-        "increase"
+        "to raise",
+        "to lift",
+        "to increase"
       ],
       "es": [
         "subir",
@@ -182442,8 +182442,8 @@
         "erbitten"
       ],
       "en": [
-        "request",
-        "plead"
+        "to request",
+        "to plead"
       ],
       "es": [
         "rogar",
@@ -182941,9 +182941,9 @@
         "sprühen"
       ],
       "en": [
-        "emit",
-        "radiate",
-        "spurt"
+        "to emit",
+        "to radiate",
+        "to spurt"
       ],
       "es": [
         "irradiar",
@@ -183182,9 +183182,9 @@
         "den Kopf abschlagen"
       ],
       "en": [
-        "behead",
-        "decapitate",
-        "cut off the head"
+        "to behead",
+        "to decapitate",
+        "to cut off the head"
       ],
       "es": [
         "decapitar",
@@ -183346,7 +183346,7 @@
         "auf den Schoß nehmen"
       ],
       "en": [
-        "hold on lap"
+        "to hold on lap"
       ],
       "es": [
         "tener en el regazo"
@@ -183548,7 +183548,7 @@
         "abprallen"
       ],
       "en": [
-        "bounce"
+        "to bounce"
       ],
       "es": [
         "rebotar"
@@ -183752,8 +183752,8 @@
         "erwähnen"
       ],
       "en": [
-        "mention",
-        "name"
+        "to mention",
+        "to name"
       ],
       "es": [
         "mencionar",
@@ -184250,8 +184250,8 @@
         "abholen"
       ],
       "en": [
-        "pick up",
-        "fetch"
+        "to pick up",
+        "to fetch"
       ],
       "es": [
         "recoger",
@@ -184326,7 +184326,7 @@
         "unterdrücken"
       ],
       "en": [
-        "suppress"
+        "to suppress"
       ],
       "es": [
         "reprimir"
@@ -184532,7 +184532,7 @@
         "sich übergeben"
       ],
       "en": [
-        "vomit"
+        "to vomit"
       ],
       "es": [
         "vomitar"
@@ -184753,8 +184753,8 @@
         "erstarren"
       ],
       "en": [
-        "freeze",
-        "congeal"
+        "to freeze",
+        "to congeal"
       ],
       "es": [
         "congelarse",
@@ -185045,8 +185045,8 @@
         "verdunsten"
       ],
       "en": [
-        "evaporate",
-        "steam"
+        "to evaporate",
+        "to steam"
       ],
       "es": [
         "evaporarse"
@@ -185116,8 +185116,8 @@
         "prüfen"
       ],
       "en": [
-        "examine",
-        "check"
+        "to examine",
+        "to check"
       ],
       "es": [
         "examinar",
@@ -185264,8 +185264,8 @@
         "sprechen"
       ],
       "en": [
-        "talk",
-        "speak"
+        "to talk",
+        "to speak"
       ],
       "es": [
         "hablar"
@@ -185337,8 +185337,8 @@
         "schwächer werden"
       ],
       "en": [
-        "weaken",
-        "get weaker"
+        "to weaken",
+        "to get weaker"
       ],
       "es": [
         "debilitarse"
@@ -185552,9 +185552,9 @@
         "werfen"
       ],
       "en": [
-        "throw",
-        "toss",
-        "fling"
+        "to throw",
+        "to toss",
+        "to fling"
       ],
       "es": [
         "lanzar",
@@ -185631,8 +185631,8 @@
         "überqueren"
       ],
       "en": [
-        "cross",
-        "cross over"
+        "to cross",
+        "to cross over"
       ],
       "es": [
         "cruzar",
@@ -185703,7 +185703,7 @@
         "entwerfen"
       ],
       "en": [
-        "design",
+        "to design",
         "to design"
       ],
       "es": [
@@ -185773,9 +185773,9 @@
         "vibrieren"
       ],
       "en": [
-        "tremble",
-        "vibrate",
-        "shake"
+        "to tremble",
+        "to vibrate",
+        "to shake"
       ],
       "es": [
         "temblar",
@@ -185856,8 +185856,8 @@
         "erzählen"
       ],
       "en": [
-        "tell",
-        "narrate"
+        "to tell",
+        "to narrate"
       ],
       "es": [
         "contar",
@@ -185931,8 +185931,8 @@
         "anordnen"
       ],
       "en": [
-        "order",
-        "command"
+        "to order",
+        "to command"
       ],
       "es": [
         "ordenar",
@@ -186078,8 +186078,8 @@
         "größer werden"
       ],
       "en": [
-        "enlarge",
-        "grow bigger"
+        "to enlarge",
+        "to grow bigger"
       ],
       "es": [
         "agrandarse",
@@ -186233,7 +186233,7 @@
         "durchsuchen"
       ],
       "en": [
-        "raid"
+        "to raid"
       ],
       "es": [
         "registrar"
@@ -186302,8 +186302,8 @@
         "hüpfen"
       ],
       "en": [
-        "jump",
-        "leap"
+        "to jump",
+        "to leap"
       ],
       "es": [
         "saltar"
@@ -186512,8 +186512,8 @@
         "nennen"
       ],
       "en": [
-        "mention",
-        "state"
+        "to mention",
+        "to state"
       ],
       "es": [
         "mencionar"
@@ -187510,8 +187510,8 @@
         "offenbaren"
       ],
       "en": [
-        "express",
-        "reveal"
+        "to express",
+        "to reveal"
       ],
       "es": [
         "expresar",
@@ -187674,9 +187674,9 @@
         "äußern"
       ],
       "en": [
-        "utter",
-        "express",
-        "say"
+        "to utter",
+        "to express",
+        "to say"
       ],
       "es": [
         "pronunciar",
@@ -187756,9 +187756,9 @@
         "schwanken"
       ],
       "en": [
-        "sway",
-        "wobble",
-        "rock"
+        "to sway",
+        "to wobble",
+        "to rock"
       ],
       "es": [
         "balancearse",
@@ -188192,7 +188192,7 @@
         "schmelzen"
       ],
       "en": [
-        "melt"
+        "to melt"
       ],
       "es": [
         "derretirse",
@@ -188269,8 +188269,8 @@
         "heranwachsen"
       ],
       "en": [
-        "grow",
-        "grow up"
+        "to grow",
+        "to grow up"
       ],
       "es": [
         "crecer"
@@ -189055,8 +189055,8 @@
         "umstürzen"
       ],
       "en": [
-        "collapse",
-        "topple"
+        "to collapse",
+        "to topple"
       ],
       "es": [
         "derrumbarse",
@@ -189634,8 +189634,8 @@
         "erwidern"
       ],
       "en": [
-        "reply",
-        "respond"
+        "to reply",
+        "to respond"
       ],
       "es": [
         "responder"
@@ -189774,8 +189774,8 @@
         "stärker werden"
       ],
       "en": [
-        "strengthen",
-        "get stronger"
+        "to strengthen",
+        "to get stronger"
       ],
       "es": [
         "fortalecerse",
@@ -189853,8 +189853,8 @@
         "verdunsten"
       ],
       "en": [
-        "evaporate",
-        "vaporize"
+        "to evaporate",
+        "to vaporize"
       ],
       "es": [
         "evaporarse"
@@ -190072,8 +190072,8 @@
         "sich ausbreiten"
       ],
       "en": [
-        "spread",
-        "disseminate"
+        "to spread",
+        "to disseminate"
       ],
       "es": [
         "difundir",
@@ -190222,7 +190222,7 @@
         "berichten"
       ],
       "en": [
-        "report"
+        "to report"
       ],
       "es": [
         "reportar",
@@ -190365,8 +190365,8 @@
         "abbiegen"
       ],
       "en": [
-        "turn",
-        "make a turn"
+        "to turn",
+        "to make a turn"
       ],
       "es": [
         "girar",
@@ -190511,8 +190511,8 @@
         "beauftragen"
       ],
       "en": [
-        "order",
-        "tell to do"
+        "to order",
+        "to tell to do"
       ],
       "es": [
         "ordenar",
@@ -190815,8 +190815,8 @@
         "erschüttern"
       ],
       "en": [
-        "shake",
-        "jolt"
+        "to shake",
+        "to jolt"
       ],
       "es": [
         "sacudir",
@@ -191251,8 +191251,8 @@
         "überbringen"
       ],
       "en": [
-        "convey",
-        "deliver"
+        "to convey",
+        "to deliver"
       ],
       "es": [
         "transmitir",
@@ -191397,8 +191397,8 @@
         "antworten"
       ],
       "en": [
-        "reply",
-        "respond"
+        "to reply",
+        "to respond"
       ],
       "es": [
         "responder",
@@ -191901,8 +191901,8 @@
         "verfaulen"
       ],
       "en": [
-        "rot",
-        "decay"
+        "to rot",
+        "to decay"
       ],
       "es": [
         "pudrirse",
@@ -192049,8 +192049,8 @@
         "erfragen"
       ],
       "en": [
-        "ask",
-        "inquire"
+        "to ask",
+        "to inquire"
       ],
       "es": [
         "preguntar"
@@ -192341,8 +192341,8 @@
         "heiß werden"
       ],
       "en": [
-        "heat up",
-        "get hot"
+        "to heat up",
+        "to get hot"
       ],
       "es": [
         "calentarse"
@@ -192557,8 +192557,8 @@
         "darstellen"
       ],
       "en": [
-        "describe",
-        "depict"
+        "to describe",
+        "to depict"
       ],
       "es": [
         "describir",
@@ -193047,7 +193047,7 @@
         "bekanntgeben"
       ],
       "en": [
-        "announce"
+        "to announce"
       ],
       "es": [
         "anunciar"
@@ -193324,8 +193324,8 @@
         "informieren"
       ],
       "en": [
-        "inform",
-        "tell"
+        "to inform",
+        "to tell"
       ],
       "es": [
         "informar",
@@ -193482,8 +193482,8 @@
         "erstarren"
       ],
       "en": [
-        "freeze",
-        "solidify"
+        "to freeze",
+        "to solidify"
       ],
       "es": [
         "congelarse"
@@ -193563,8 +193563,8 @@
         "herbeirufen"
       ],
       "en": [
-        "call",
-        "summon"
+        "to call",
+        "to summon"
       ],
       "es": [
         "llamar"
@@ -194207,8 +194207,8 @@
         "auffordern"
       ],
       "en": [
-        "invite",
-        "ask along"
+        "to invite",
+        "to ask along"
       ],
       "es": [
         "invitar"
@@ -194574,8 +194574,8 @@
         "aufdecken"
       ],
       "en": [
-        "reveal",
-        "express"
+        "to reveal",
+        "to express"
       ],
       "es": [
         "revelar"
@@ -194718,8 +194718,8 @@
         "kleiner werden"
       ],
       "en": [
-        "shrink",
-        "get smaller"
+        "to shrink",
+        "to get smaller"
       ],
       "es": [
         "encogerse",
@@ -194881,7 +194881,7 @@
         "lügen"
       ],
       "en": [
-        "lie"
+        "to lie"
       ],
       "es": [
         "mentir"
@@ -195241,8 +195241,8 @@
         "vorschlagen"
       ],
       "en": [
-        "suggest",
-        "recommend"
+        "to suggest",
+        "to recommend"
       ],
       "es": [
         "sugerir",
@@ -195323,8 +195323,8 @@
         "wenden"
       ],
       "en": [
-        "flip",
-        "turn over"
+        "to flip",
+        "to turn over"
       ],
       "es": [
         "voltear",
@@ -195470,8 +195470,8 @@
         "inständig bitten"
       ],
       "en": [
-        "plead",
-        "beg"
+        "to plead",
+        "to beg"
       ],
       "es": [
         "suplicar",
@@ -195552,8 +195552,8 @@
         "flüssig werden"
       ],
       "en": [
-        "melt",
-        "liquefy"
+        "to melt",
+        "to liquefy"
       ],
       "es": [
         "derretirse",
@@ -195923,8 +195923,8 @@
         "auffordern"
       ],
       "en": [
-        "invite",
-        "ask along"
+        "to invite",
+        "to ask along"
       ],
       "es": [
         "invitar"
@@ -196219,8 +196219,8 @@
         "abebben"
       ],
       "en": [
-        "recede",
-        "subside"
+        "to recede",
+        "to subside"
       ],
       "es": [
         "bajar",
@@ -196985,8 +196985,8 @@
         "verbreitern"
       ],
       "en": [
-        "widen",
-        "broaden"
+        "to widen",
+        "to broaden"
       ],
       "es": [
         "ensanchar"
@@ -197350,8 +197350,8 @@
         "kürzer werden"
       ],
       "en": [
-        "shorten",
-        "become short"
+        "to shorten",
+        "to become short"
       ],
       "es": [
         "acortarse"
@@ -197419,8 +197419,8 @@
         "rutschen"
       ],
       "en": [
-        "slide",
-        "glide"
+        "to slide",
+        "to glide"
       ],
       "es": [
         "deslizarse"
@@ -197490,8 +197490,8 @@
         "einholen"
       ],
       "en": [
-        "catch up with",
-        "follow after"
+        "to catch up with",
+        "to follow after"
       ],
       "es": [
         "alcanzar",
@@ -198042,8 +198042,8 @@
         "dicker werden"
       ],
       "en": [
-        "thicken",
-        "become thick"
+        "to thicken",
+        "to become thick"
       ],
       "es": [
         "engrosarse",
@@ -198180,8 +198180,8 @@
         "wuchern"
       ],
       "en": [
-        "grow dense",
-        "become lush"
+        "to grow dense",
+        "to become lush"
       ],
       "es": [
         "volverse frondoso",
@@ -198775,7 +198775,7 @@
         "ausgebreitet"
       ],
       "en": [
-        "spread out",
+        "to spread out",
         "stretched out"
       ],
       "es": [
@@ -199137,7 +199137,7 @@
         "lügen"
       ],
       "en": [
-        "lie"
+        "to lie"
       ],
       "es": [
         "mentir"
@@ -199206,8 +199206,8 @@
         "regieren"
       ],
       "en": [
-        "command",
-        "rule"
+        "to command",
+        "to rule"
       ],
       "es": [
         "mandar",
@@ -199288,8 +199288,8 @@
         "vorschlagen"
       ],
       "en": [
-        "propose",
-        "suggest"
+        "to propose",
+        "to suggest"
       ],
       "es": [
         "proponer",
@@ -199362,7 +199362,7 @@
         "beraten"
       ],
       "en": [
-        "advise"
+        "to advise"
       ],
       "es": [
         "aconsejar"
@@ -199634,9 +199634,9 @@
         "abteilen"
       ],
       "en": [
-        "partition",
-        "separate",
-        "block off"
+        "to partition",
+        "to separate",
+        "to block off"
       ],
       "es": [
         "tabicar",
@@ -199865,8 +199865,8 @@
         "sagen"
       ],
       "en": [
-        "say",
-        "utter"
+        "to say",
+        "to utter"
       ],
       "es": [
         "decir"
@@ -199936,9 +199936,9 @@
         "blockieren"
       ],
       "en": [
-        "obstruct",
-        "hinder",
-        "block"
+        "to obstruct",
+        "to hinder",
+        "to block"
       ],
       "es": [
         "obstaculizar",
@@ -200906,7 +200906,7 @@
         "schaukeln"
       ],
       "en": [
-        "swing"
+        "to swing"
       ],
       "es": [
         "balancear",
@@ -200983,8 +200983,8 @@
         "unterhalten"
       ],
       "en": [
-        "entertain",
-        "comfort"
+        "to entertain",
+        "to comfort"
       ],
       "es": [
         "entretener"
@@ -201492,8 +201492,8 @@
         "vorschlagen"
       ],
       "en": [
-        "propose",
-        "suggest"
+        "to propose",
+        "to suggest"
       ],
       "es": [
         "proponer"
@@ -201630,8 +201630,8 @@
         "heilen"
       ],
       "en": [
-        "cure",
-        "heal"
+        "to cure",
+        "to heal"
       ],
       "es": [
         "curar"
@@ -201768,7 +201768,7 @@
         "kommunizieren"
       ],
       "en": [
-        "communicate"
+        "to communicate"
       ],
       "es": [
         "comunicarse"
@@ -201837,8 +201837,8 @@
         "besteigen"
       ],
       "en": [
-        "climb",
-        "ascend"
+        "to climb",
+        "to ascend"
       ],
       "es": [
         "escalar",
@@ -201983,7 +201983,7 @@
         "kosten"
       ],
       "en": [
-        "taste"
+        "to taste"
       ],
       "es": [
         "probar",
@@ -202198,7 +202198,7 @@
         "necken"
       ],
       "en": [
-        "tease"
+        "to tease"
       ],
       "es": [
         "coquetear"
@@ -202345,7 +202345,7 @@
         "melden"
       ],
       "en": [
-        "report"
+        "to report"
       ],
       "es": [
         "reportar",
@@ -203480,8 +203480,8 @@
         "aufwärmen"
       ],
       "en": [
-        "heat",
-        "warm up"
+        "to heat",
+        "to warm up"
       ],
       "es": [
         "calentar"
@@ -203557,9 +203557,9 @@
         "reif machen"
       ],
       "en": [
-        "ripen",
-        "mature",
-        "cook through"
+        "to ripen",
+        "to mature",
+        "to cook through"
       ],
       "es": [
         "madurar",
@@ -203993,8 +203993,8 @@
         "austreten"
       ],
       "en": [
-        "seep",
-        "ooze"
+        "to seep",
+        "to ooze"
       ],
       "es": [
         "rezumar",
@@ -204218,8 +204218,8 @@
         "begießen"
       ],
       "en": [
-        "douse",
-        "pour over"
+        "to douse",
+        "to pour over"
       ],
       "es": [
         "echar agua",
@@ -204368,7 +204368,7 @@
         "schmelzen"
       ],
       "en": [
-        "melt"
+        "to melt"
       ],
       "es": [
         "derretirse"
@@ -204917,7 +204917,7 @@
         "beleidigen"
       ],
       "en": [
-        "insult"
+        "to insult"
       ],
       "es": [
         "insultar"
@@ -205190,8 +205190,8 @@
         "kalt werden"
       ],
       "en": [
-        "cool down",
-        "get cold"
+        "to cool down",
+        "to get cold"
       ],
       "es": [
         "enfriarse"
@@ -205927,8 +205927,8 @@
         "kühlen"
       ],
       "en": [
-        "cool",
-        "chill"
+        "to cool",
+        "to chill"
       ],
       "es": [
         "enfriar"
@@ -206001,8 +206001,8 @@
         "schildern"
       ],
       "en": [
-        "recount",
-        "narrate"
+        "to recount",
+        "to narrate"
       ],
       "es": [
         "relatar",
@@ -207262,9 +207262,9 @@
         "erläutern"
       ],
       "en": [
-        "elaborate",
-        "describe",
-        "break down"
+        "to elaborate",
+        "to describe",
+        "to break down"
       ],
       "es": [
         "detallar",
@@ -207843,8 +207843,8 @@
         "sagen"
       ],
       "en": [
-        "tell",
-        "inform"
+        "to tell",
+        "to inform"
       ],
       "es": [
         "avisar",
@@ -208120,8 +208120,8 @@
         "registrieren"
       ],
       "en": [
-        "register",
-        "sign up"
+        "to register",
+        "to sign up"
       ],
       "es": [
         "registrarse"
@@ -208258,7 +208258,7 @@
         "erläutern"
       ],
       "en": [
-        "explain"
+        "to explain"
       ],
       "es": [
         "explicar"
@@ -208809,8 +208809,8 @@
         "erzählen"
       ],
       "en": [
-        "narrate",
-        "tell a story"
+        "to narrate",
+        "to tell a story"
       ],
       "es": [
         "narrar",
@@ -209019,8 +209019,8 @@
         "berichten"
       ],
       "en": [
-        "report",
-        "announce"
+        "to report",
+        "to announce"
       ],
       "es": [
         "informar",
@@ -209102,9 +209102,9 @@
         "zerstoßen"
       ],
       "en": [
-        "mash",
-        "puree",
-        "grind smooth"
+        "to mash",
+        "to puree",
+        "to grind smooth"
       ],
       "es": [
         "triturar",
@@ -209247,7 +209247,7 @@
         "rösten"
       ],
       "en": [
-        "dry-roast"
+        "to dry-roast"
       ],
       "es": [
         "tostar (sin aceite)"
@@ -210132,7 +210132,7 @@
         "überreden"
       ],
       "en": [
-        "persuade"
+        "to persuade"
       ],
       "es": [
         "persuadir"
@@ -210199,7 +210199,7 @@
         "übersetzen"
       ],
       "en": [
-        "translate"
+        "to translate"
       ],
       "es": [
         "traducir"
@@ -210670,8 +210670,8 @@
         "antworten"
       ],
       "en": [
-        "respond",
-        "react"
+        "to respond",
+        "to react"
       ],
       "es": [
         "responder"
@@ -212128,8 +212128,8 @@
         "sagen"
       ],
       "en": [
-        "utter",
-        "say"
+        "to utter",
+        "to say"
       ],
       "es": [
         "pronunciar",
@@ -212689,7 +212689,7 @@
         "aufräumen"
       ],
       "en": [
-        "tidy up"
+        "to tidy up"
       ],
       "es": [
         "ordena"
@@ -213025,7 +213025,7 @@
         "hinzufügen"
       ],
       "en": [
-        "add"
+        "to add"
       ],
       "es": [
         "añadir"
@@ -213697,8 +213697,8 @@
         "raten"
       ],
       "en": [
-        "advise",
-        "counsel"
+        "to advise",
+        "to counsel"
       ],
       "es": [
         "aconsejar"
@@ -214443,7 +214443,7 @@
         "verspotten"
       ],
       "en": [
-        "mock"
+        "to mock"
       ],
       "es": [
         "burlarse"
@@ -216363,8 +216363,8 @@
         "benachrichtigen"
       ],
       "en": [
-        "notify",
-        "inform"
+        "to notify",
+        "to inform"
       ],
       "es": [
         "avisar",
@@ -216510,8 +216510,8 @@
         "regeln"
       ],
       "en": [
-        "arrange",
-        "organize"
+        "to arrange",
+        "to organize"
       ],
       "es": [
         "organizar"
@@ -217538,7 +217538,7 @@
         "klicken"
       ],
       "en": [
-        "click"
+        "to click"
       ],
       "es": [
         "hacer clic"
@@ -217739,7 +217739,7 @@
         "teilen"
       ],
       "en": [
-        "share"
+        "to share"
       ],
       "es": [
         "compartir"
@@ -217806,7 +217806,7 @@
         "folgen"
       ],
       "en": [
-        "follow"
+        "to follow"
       ],
       "es": [
         "seguir"
@@ -220210,7 +220210,7 @@
         "buchstabieren"
       ],
       "en": [
-        "spell"
+        "to spell"
       ],
       "es": [
         "deletrear"
@@ -220861,7 +220861,7 @@
         "sortieren"
       ],
       "en": [
-        "sort",
+        "to sort",
         "to sort"
       ],
       "es": [
@@ -222587,8 +222587,8 @@
         "en gros kaufen"
       ],
       "en": [
-        "buy up",
-        "buy in bulk"
+        "to buy up",
+        "to buy in bulk"
       ],
       "es": [
         "comprar al por mayor",
@@ -223401,7 +223401,7 @@
         "überreden"
       ],
       "en": [
-        "persuade"
+        "to persuade"
       ],
       "es": [
         "persuadir"
@@ -223468,8 +223468,8 @@
         "halten"
       ],
       "en": [
-        "raise",
-        "keep"
+        "to raise",
+        "to keep"
       ],
       "es": [
         "criar"
@@ -223872,8 +223872,8 @@
         "nebeneinanderstellen"
       ],
       "en": [
-        "line up",
-        "place in a row"
+        "to line up",
+        "to place in a row"
       ],
       "es": [
         "alinear",
@@ -224684,7 +224684,7 @@
         "buchstabieren"
       ],
       "en": [
-        "spell"
+        "to spell"
       ],
       "es": [
         "deletrear"
@@ -226298,7 +226298,7 @@
         "übersetzen"
       ],
       "en": [
-        "translate"
+        "to translate"
       ],
       "es": [
         "traducir"
@@ -227384,7 +227384,7 @@
         "necken"
       ],
       "en": [
-        "tease"
+        "to tease"
       ],
       "es": [
         "tentar"
@@ -229543,7 +229543,7 @@
         "beißen"
       ],
       "en": [
-        "bite"
+        "to bite"
       ],
       "es": [
         "morder"
@@ -230228,7 +230228,7 @@
         "löschen"
       ],
       "en": [
-        "delete"
+        "to delete"
       ],
       "es": [
         "eliminar"
@@ -231912,7 +231912,7 @@
         "servieren"
       ],
       "en": [
-        "serve"
+        "to serve"
       ],
       "es": [
         "servir"
@@ -232657,7 +232657,7 @@
         "Eier legen"
       ],
       "en": [
-        "lay eggs"
+        "to lay eggs"
       ],
       "es": [
         "poner huevos"
@@ -232858,7 +232858,7 @@
         "teilen"
       ],
       "en": [
-        "share"
+        "to share"
       ],
       "es": [
         "compartir"
@@ -234202,7 +234202,7 @@
         "tippen"
       ],
       "en": [
-        "type"
+        "to type"
       ],
       "es": [
         "teclear"
@@ -235497,7 +235497,7 @@
         "zwitschern"
       ],
       "en": [
-        "chirp"
+        "to chirp"
       ],
       "es": [
         "trinar"
@@ -238619,7 +238619,7 @@
         "herunterladen"
       ],
       "en": [
-        "download"
+        "to download"
       ],
       "es": [
         "descargar"
@@ -238822,7 +238822,7 @@
         "bellen"
       ],
       "en": [
-        "bark"
+        "to bark"
       ],
       "es": [
         "ladrar"
@@ -239670,7 +239670,7 @@
         "dehnen"
       ],
       "en": [
-        "stretch"
+        "to stretch"
       ],
       "es": [
         "estirar"
@@ -240013,7 +240013,7 @@
         "hochladen"
       ],
       "en": [
-        "upload"
+        "to upload"
       ],
       "es": [
         "subir"
@@ -243509,7 +243509,7 @@
         "kopieren"
       ],
       "en": [
-        "copy"
+        "to copy"
       ],
       "es": [
         "copiar"
@@ -244777,8 +244777,8 @@
         "durchsuchen"
       ],
       "en": [
-        "browse",
-        "search"
+        "to browse",
+        "to search"
       ],
       "es": [
         "explorar"
@@ -244988,7 +244988,7 @@
         "aufbrühen"
       ],
       "en": [
-        "brew"
+        "to brew"
       ],
       "es": [
         "preparar"
@@ -248494,7 +248494,7 @@
         "einstecken"
       ],
       "en": [
-        "plug in"
+        "to plug in"
       ],
       "es": [
         "enchufar"
@@ -255111,7 +255111,7 @@
         "verbinden"
       ],
       "en": [
-        "connect"
+        "to connect"
       ],
       "es": [
         "conectar"
@@ -257302,7 +257302,7 @@
         "überweisen"
       ],
       "en": [
-        "transfer",
+        "to transfer",
         "to transfer"
       ],
       "es": [
@@ -258593,8 +258593,8 @@
         "abbiegen"
       ],
       "en": [
-        "turn",
-        "veer"
+        "to turn",
+        "to veer"
       ],
       "es": [
         "girar",
@@ -260084,8 +260084,8 @@
         "strömen"
       ],
       "en": [
-        "flow",
-        "stream"
+        "to flow",
+        "to stream"
       ],
       "es": [
         "fluir",
@@ -260465,8 +260465,8 @@
         "wackeln"
       ],
       "en": [
-        "shake",
-        "shudder"
+        "to shake",
+        "to shudder"
       ],
       "es": [
         "sacudirse",
@@ -260910,8 +260910,8 @@
         "schaukeln"
       ],
       "en": [
-        "swing",
-        "sway"
+        "to swing",
+        "to sway"
       ],
       "es": [
         "balancear",
@@ -263970,8 +263970,8 @@
         "spazieren gehen"
       ],
       "en": [
-        "stroll",
-        "go for a walk"
+        "to stroll",
+        "to go for a walk"
       ],
       "es": [
         "pasear"
@@ -269917,7 +269917,7 @@
         "kneten"
       ],
       "en": [
-        "knead"
+        "to knead"
       ],
       "es": [
         "amasar"
@@ -270279,7 +270279,7 @@
         "bestreuen"
       ],
       "en": [
-        "sprinkle"
+        "to sprinkle"
       ],
       "es": [
         "espolvorear"
@@ -270575,8 +270575,8 @@
         "einfetten"
       ],
       "en": [
-        "spread",
-        "smear"
+        "to spread",
+        "to smear"
       ],
       "es": [
         "untar"
@@ -270806,7 +270806,7 @@
         "sieden"
       ],
       "en": [
-        "boil"
+        "to boil"
       ],
       "es": [
         "hervir"
@@ -273318,8 +273318,8 @@
         "gesund machen"
       ],
       "en": [
-        "heal",
-        "cure"
+        "to heal",
+        "to cure"
       ],
       "es": [
         "sanar",
@@ -276742,7 +276742,7 @@
         "sich kümmern"
       ],
       "en": [
-        "care"
+        "to care"
       ],
       "es": [
         "importar",
@@ -279389,8 +279389,8 @@
         "erwidern"
       ],
       "en": [
-        "answer",
-        "reply"
+        "to answer",
+        "to reply"
       ],
       "es": [
         "responder",
@@ -282395,7 +282395,7 @@
         "anschauen"
       ],
       "en": [
-        "watch"
+        "to watch"
       ],
       "es": [
         "ver"
@@ -284791,7 +284791,7 @@
         "einzahlen"
       ],
       "en": [
-        "deposit",
+        "to deposit",
         "to deposit"
       ],
       "es": [
@@ -284868,7 +284868,7 @@
         "bereuen"
       ],
       "en": [
-        "regret"
+        "to regret"
       ],
       "es": [
         "arrepentirse"
@@ -285212,7 +285212,7 @@
         "verspotten"
       ],
       "en": [
-        "mock"
+        "to mock"
       ],
       "es": [
         "burlarse"
@@ -289257,7 +289257,7 @@
         "tauchen"
       ],
       "en": [
-        "dive"
+        "to dive"
       ],
       "es": [
         "bucear"
@@ -291120,7 +291120,7 @@
         "bewundern"
       ],
       "en": [
-        "admire"
+        "to admire"
       ],
       "es": [
         "admirar"
@@ -294338,7 +294338,7 @@
         "angeln"
       ],
       "en": [
-        "fish"
+        "to fish"
       ],
       "es": [
         "pescar"
@@ -294405,7 +294405,7 @@
         "aufhellen"
       ],
       "en": [
-        "brighten"
+        "to brighten"
       ],
       "es": [
         "aclarar"
@@ -294899,7 +294899,7 @@
         "angeln"
       ],
       "en": [
-        "fish"
+        "to fish"
       ],
       "es": [
         "pescar"
@@ -296008,8 +296008,8 @@
         "gärtnern"
       ],
       "en": [
-        "garden",
-        "do gardening"
+        "to garden",
+        "to do gardening"
       ],
       "es": [
         "hacer jardinería"
@@ -297821,8 +297821,8 @@
         "wehen"
       ],
       "en": [
-        "blow",
-        "waft"
+        "to blow",
+        "to waft"
       ],
       "es": [
         "soplar"
@@ -298174,7 +298174,7 @@
         "wehen"
       ],
       "en": [
-        "blow"
+        "to blow"
       ],
       "es": [
         "soplar"
@@ -298530,7 +298530,7 @@
         "miauen"
       ],
       "en": [
-        "meow"
+        "to meow"
       ],
       "es": [
         "maullar"
@@ -298948,7 +298948,7 @@
         "brüllen"
       ],
       "en": [
-        "roar"
+        "to roar"
       ],
       "es": [
         "rugir"
@@ -299295,7 +299295,7 @@
         "schlucken"
       ],
       "en": [
-        "gulp"
+        "to gulp"
       ],
       "es": [
         "tragar"
@@ -299502,7 +299502,7 @@
         "servieren"
       ],
       "en": [
-        "serve"
+        "to serve"
       ],
       "es": [
         "servir"
@@ -299770,8 +299770,8 @@
         "bescheinen"
       ],
       "en": [
-        "shine on",
-        "illuminate"
+        "to shine on",
+        "to illuminate"
       ],
       "es": [
         "iluminar"
@@ -301009,7 +301009,7 @@
         "schrumpfen"
       ],
       "en": [
-        "shrink"
+        "to shrink"
       ],
       "es": [
         "encoger"
@@ -302373,8 +302373,8 @@
         "übergießen"
       ],
       "en": [
-        "pour",
-        "douse"
+        "to pour",
+        "to douse"
       ],
       "es": [
         "verter"
@@ -304467,8 +304467,8 @@
         "beschlagnahmen"
       ],
       "en": [
-        "confiscate",
-        "seize"
+        "to confiscate",
+        "to seize"
       ],
       "es": [
         "confiscar",
@@ -304831,7 +304831,7 @@
         "scannen"
       ],
       "en": [
-        "scan"
+        "to scan"
       ],
       "es": [
         "escanear"
@@ -305336,7 +305336,7 @@
         "chatten"
       ],
       "en": [
-        "chat"
+        "to chat"
       ],
       "es": [
         "chatear"
@@ -305674,8 +305674,8 @@
         "sich unterwerfen"
       ],
       "en": [
-        "bow down",
-        "submit"
+        "to bow down",
+        "to submit"
       ],
       "es": [
         "inclinarse",
@@ -305890,7 +305890,7 @@
         "aktualisieren"
       ],
       "en": [
-        "update"
+        "to update"
       ],
       "es": [
         "actualizar"
@@ -306098,8 +306098,8 @@
         "lugen"
       ],
       "en": [
-        "peek",
-        "peep"
+        "to peek",
+        "to peep"
       ],
       "es": [
         "espiar",
@@ -306551,7 +306551,7 @@
         "scrollen"
       ],
       "en": [
-        "scroll"
+        "to scroll"
       ],
       "es": [
         "desplazar"
@@ -307420,8 +307420,8 @@
         "springen"
       ],
       "en": [
-        "dive",
-        "plunge"
+        "to dive",
+        "to plunge"
       ],
       "es": [
         "zambullirse"
@@ -307847,8 +307847,8 @@
         "schrumpfen"
       ],
       "en": [
-        "shrink",
-        "decrease"
+        "to shrink",
+        "to decrease"
       ],
       "es": [
         "encogerse",
@@ -308949,8 +308949,8 @@
         "sich ablagern"
       ],
       "en": [
-        "settle",
-        "precipitate"
+        "to settle",
+        "to precipitate"
       ],
       "es": [
         "sedimentar",
@@ -309262,8 +309262,8 @@
         "auskundschaften"
       ],
       "en": [
-        "spy on",
-        "lurk"
+        "to spy on",
+        "to lurk"
       ],
       "es": [
         "acechar",
@@ -309494,8 +309494,8 @@
         "lahmlegen"
       ],
       "en": [
-        "paralyze",
-        "cripple"
+        "to paralyze",
+        "to cripple"
       ],
       "es": [
         "paralizar"
@@ -309639,8 +309639,8 @@
         "schleichen"
       ],
       "en": [
-        "sneak",
-        "slip in"
+        "to sneak",
+        "to slip in"
       ],
       "es": [
         "escabullirse",
@@ -309721,7 +309721,7 @@
         "umarmen"
       ],
       "en": [
-        "embrace"
+        "to embrace"
       ],
       "es": [
         "abrazar"
@@ -309797,8 +309797,8 @@
         "einschüchtern"
       ],
       "en": [
-        "bluff",
-        "intimidate"
+        "to bluff",
+        "to intimidate"
       ],
       "es": [
         "amenazar",
@@ -312108,8 +312108,8 @@
         "anstiften"
       ],
       "en": [
-        "incite",
-        "instigate"
+        "to incite",
+        "to instigate"
       ],
       "es": [
         "incitar",
@@ -312860,8 +312860,8 @@
         "sich ausbreiten"
       ],
       "en": [
-        "spread",
-        "break out"
+        "to spread",
+        "to break out"
       ],
       "es": [
         "propagarse",
@@ -313076,9 +313076,9 @@
         "lösen"
       ],
       "en": [
-        "finish",
-        "complete",
-        "solve"
+        "to finish",
+        "to complete",
+        "to solve"
       ],
       "es": [
         "terminar",
@@ -313161,8 +313161,8 @@
         "abprallen"
       ],
       "en": [
-        "bounce",
-        "soar"
+        "to bounce",
+        "to soar"
       ],
       "es": [
         "rebotar",
@@ -313322,8 +313322,8 @@
         "angreifen"
       ],
       "en": [
-        "charge",
-        "attack"
+        "to charge",
+        "to attack"
       ],
       "es": [
         "arremeter",
@@ -313401,8 +313401,8 @@
         "testen"
       ],
       "en": [
-        "try out",
-        "test"
+        "to try out",
+        "to test"
       ],
       "es": [
         "probar"
@@ -313622,8 +313622,8 @@
         "sich winden"
       ],
       "en": [
-        "stretch",
-        "writhe"
+        "to stretch",
+        "to writhe"
       ],
       "es": [
         "desperezarse",
@@ -314168,8 +314168,8 @@
         "betrauern"
       ],
       "en": [
-        "lament",
-        "mourn"
+        "to lament",
+        "to mourn"
       ],
       "es": [
         "lamentar"
@@ -314715,8 +314715,8 @@
         "aufbrausen"
       ],
       "en": [
-        "become inflamed",
-        "become furious"
+        "to become inflamed",
+        "to become furious"
       ],
       "es": [
         "inflamarse",
@@ -315094,8 +315094,8 @@
         "empfangen"
       ],
       "en": [
-        "welcome",
-        "go to meet"
+        "to welcome",
+        "to go to meet"
       ],
       "es": [
         "salir al encuentro de",
@@ -315501,7 +315501,7 @@
         "aus dem Hinterhalt angreifen"
       ],
       "en": [
-        "ambush"
+        "to ambush"
       ],
       "es": [
         "emboscar"
@@ -315574,8 +315574,8 @@
         "unterlegen"
       ],
       "en": [
-        "prop up",
-        "obstruct"
+        "to prop up",
+        "to obstruct"
       ],
       "es": [
         "calzar",
@@ -315904,9 +315904,9 @@
         "verbessern"
       ],
       "en": [
-        "repair",
-        "fix",
-        "improve"
+        "to repair",
+        "to fix",
+        "to improve"
       ],
       "es": [
         "reparar",
@@ -315988,8 +315988,8 @@
         "packen"
       ],
       "en": [
-        "grip",
-        "clutch"
+        "to grip",
+        "to clutch"
       ],
       "es": [
         "agarrar",
@@ -316071,8 +316071,8 @@
         "ächzen"
       ],
       "en": [
-        "moan",
-        "groan"
+        "to moan",
+        "to groan"
       ],
       "es": [
         "gemir"
@@ -316486,8 +316486,8 @@
         "bändigen"
       ],
       "en": [
-        "tame",
-        "domesticate"
+        "to tame",
+        "to domesticate"
       ],
       "es": [
         "domesticar",
@@ -316570,8 +316570,8 @@
         "den Kopf senken"
       ],
       "en": [
-        "bow down",
-        "stoop"
+        "to bow down",
+        "to stoop"
       ],
       "es": [
         "agacharse",
@@ -317063,9 +317063,9 @@
         "handhaben"
       ],
       "en": [
-        "handle",
-        "deal with",
-        "manage"
+        "to handle",
+        "to deal with",
+        "to manage"
       ],
       "es": [
         "manejar",
@@ -317494,8 +317494,8 @@
         "sich anlehnen"
       ],
       "en": [
-        "lean",
-        "recline"
+        "to lean",
+        "to recline"
       ],
       "es": [
         "recostarse"
@@ -317564,8 +317564,8 @@
         "hinfallen"
       ],
       "en": [
-        "fall face down",
-        "collapse"
+        "to fall face down",
+        "to collapse"
       ],
       "es": [
         "caer de bruces"
@@ -318454,9 +318454,9 @@
         "bewältigen"
       ],
       "en": [
-        "overcome",
-        "resolve",
-        "deal with"
+        "to overcome",
+        "to resolve",
+        "to deal with"
       ],
       "es": [
         "superar",
@@ -318842,8 +318842,8 @@
         "einsinken"
       ],
       "en": [
-        "fall into",
-        "get stuck"
+        "to fall into",
+        "to get stuck"
       ],
       "es": [
         "hundirse",
@@ -319305,8 +319305,8 @@
         "durchbrechen"
       ],
       "en": [
-        "break through",
-        "barge through"
+        "to break through",
+        "to barge through"
       ],
       "es": [
         "irrumpir"
@@ -319676,8 +319676,8 @@
         "ignorieren"
       ],
       "en": [
-        "neglect",
-        "ignore"
+        "to neglect",
+        "to ignore"
       ],
       "es": [
         "descuidar",
@@ -320553,8 +320553,8 @@
         "herausstrecken"
       ],
       "en": [
-        "stick out",
-        "extend"
+        "to stick out",
+        "to extend"
       ],
       "es": [
         "sacar (la lengua)"
@@ -321287,7 +321287,7 @@
         "schweben"
       ],
       "en": [
-        "float"
+        "to float"
       ],
       "es": [
         "flotar"
@@ -321354,8 +321354,8 @@
         "stranden"
       ],
       "en": [
-        "be stranded",
-        "wash ashore"
+        "to be stranded",
+        "to wash ashore"
       ],
       "es": [
         "quedar varado"
@@ -321832,8 +321832,8 @@
         "schnitzen"
       ],
       "en": [
-        "carve",
-        "engrave"
+        "to carve",
+        "to engrave"
       ],
       "es": [
         "tallar"
@@ -322290,9 +322290,9 @@
         "ausstatten"
       ],
       "en": [
-        "complete",
-        "equip",
-        "supplement"
+        "to complete",
+        "to equip",
+        "to supplement"
       ],
       "es": [
         "completar",
@@ -322706,8 +322706,8 @@
         "wegtreiben"
       ],
       "en": [
-        "drift",
-        "be swept away"
+        "to drift",
+        "to be swept away"
       ],
       "es": [
         "ser arrastrado"
@@ -323513,8 +323513,8 @@
         "zerreißen"
       ],
       "en": [
-        "tear",
-        "rip"
+        "to tear",
+        "to rip"
       ],
       "es": [
         "rasgar"
@@ -324822,7 +324822,7 @@
         "trocknen"
       ],
       "en": [
-        "dry"
+        "to dry"
       ],
       "es": [
         "secar"
@@ -324889,7 +324889,7 @@
         "schärfen"
       ],
       "en": [
-        "sharpen"
+        "to sharpen"
       ],
       "es": [
         "afilar"
@@ -326646,8 +326646,8 @@
         "aneinanderreihen"
       ],
       "en": [
-        "arrange",
-        "string together"
+        "to arrange",
+        "to string together"
       ],
       "es": [
         "ensartar"
@@ -327086,7 +327086,7 @@
         "waschen"
       ],
       "en": [
-        "wash"
+        "to wash"
       ],
       "es": [
         "lavar"
@@ -328995,7 +328995,7 @@
         "erforschen"
       ],
       "en": [
-        "explore"
+        "to explore"
       ],
       "es": [
         "explorar"
@@ -329449,8 +329449,8 @@
         "entlanggehen"
       ],
       "en": [
-        "go along",
-        "trace"
+        "to go along",
+        "to trace"
       ],
       "es": [
         "recorrer",
@@ -330211,8 +330211,8 @@
         "umherfliegen"
       ],
       "en": [
-        "scatter",
-        "be strewn about"
+        "to scatter",
+        "to be strewn about"
       ],
       "es": [
         "esparcirse"
@@ -330279,8 +330279,8 @@
         "herabstürzen"
       ],
       "en": [
-        "dive",
-        "nosedive"
+        "to dive",
+        "to nosedive"
       ],
       "es": [
         "descender en picado"
@@ -330800,8 +330800,8 @@
         "hocken"
       ],
       "en": [
-        "squat",
-        "crouch"
+        "to squat",
+        "to crouch"
       ],
       "es": [
         "ponerse en cuclillas"
@@ -331021,8 +331021,8 @@
         "meißeln"
       ],
       "en": [
-        "chisel",
-        "sculpt"
+        "to chisel",
+        "to sculpt"
       ],
       "es": [
         "cincelar"
@@ -331425,8 +331425,8 @@
         "spritzen"
       ],
       "en": [
-        "spurt",
-        "gush"
+        "to spurt",
+        "to gush"
       ],
       "es": [
         "brotar a chorros"
@@ -331572,8 +331572,8 @@
         "perfektionieren"
       ],
       "en": [
-        "perfect",
-        "improve"
+        "to perfect",
+        "to improve"
       ],
       "es": [
         "perfeccionar"
@@ -331945,8 +331945,8 @@
         "zusammenmischen"
       ],
       "en": [
-        "concoct",
-        "mix"
+        "to concoct",
+        "to mix"
       ],
       "es": [
         "preparar mezclando"
@@ -332178,9 +332178,9 @@
         "abklingen"
       ],
       "en": [
-        "subside",
-        "abate",
-        "calm down"
+        "to subside",
+        "to abate",
+        "to calm down"
       ],
       "es": [
         "amainar",
@@ -332717,8 +332717,8 @@
         "vertilgen"
       ],
       "en": [
-        "eradicate",
-        "exterminate"
+        "to eradicate",
+        "to exterminate"
       ],
       "es": [
         "erradicar",
@@ -332868,9 +332868,9 @@
         "erschließen"
       ],
       "en": [
-        "penetrate",
-        "clear",
-        "expand into"
+        "to penetrate",
+        "to clear",
+        "to expand into"
       ],
       "es": [
         "adentrarse",
@@ -332952,9 +332952,9 @@
         "erforschen"
       ],
       "en": [
-        "study",
-        "examine",
-        "review"
+        "to study",
+        "to examine",
+        "to review"
       ],
       "es": [
         "estudiar",
@@ -334060,9 +334060,9 @@
         "ordnen"
       ],
       "en": [
-        "tidy up",
-        "arrange",
-        "neaten"
+        "to tidy up",
+        "to arrange",
+        "to neaten"
       ],
       "es": [
         "ordenar",
@@ -334213,9 +334213,9 @@
         "abstützen"
       ],
       "en": [
-        "support",
-        "prop up",
-        "sustain"
+        "to support",
+        "to prop up",
+        "to sustain"
       ],
       "es": [
         "sostener",
@@ -334380,7 +334380,7 @@
         "erstarrt"
       ],
       "en": [
-        "be transfixed",
+        "to be transfixed",
         "rooted to the spot"
       ],
       "es": [
@@ -334850,9 +334850,9 @@
         "nachlassen"
       ],
       "en": [
-        "subside",
-        "abate",
-        "ease off"
+        "to subside",
+        "to abate",
+        "to ease off"
       ],
       "es": [
         "amainar",
@@ -335145,8 +335145,8 @@
         "wüten"
       ],
       "en": [
-        "run amok",
-        "rampage"
+        "to run amok",
+        "to rampage"
       ],
       "es": [
         "enfurecerse",
@@ -335230,9 +335230,9 @@
         "ausrotten"
       ],
       "en": [
-        "eradicate",
-        "combat",
-        "stamp out"
+        "to eradicate",
+        "to combat",
+        "to stamp out"
       ],
       "es": [
         "erradicar",
@@ -335587,9 +335587,9 @@
         "in Ordnung bringen"
       ],
       "en": [
-        "settle",
-        "sort out",
-        "finish"
+        "to settle",
+        "to sort out",
+        "to finish"
       ],
       "es": [
         "resolver",
@@ -335672,8 +335672,8 @@
         "erledigen"
       ],
       "en": [
-        "complete",
-        "finish"
+        "to complete",
+        "to finish"
       ],
       "es": [
         "completar",
@@ -335819,7 +335819,7 @@
         "aufmerksam zuhören"
       ],
       "en": [
-        "listen attentively"
+        "to listen attentively"
       ],
       "es": [
         "escuchar atentamente",
@@ -336175,8 +336175,8 @@
         "niederreißen"
       ],
       "en": [
-        "demolish",
-        "bring down"
+        "to demolish",
+        "to bring down"
       ],
       "es": [
         "derribar",
@@ -336553,8 +336553,8 @@
         "unterstützen"
       ],
       "en": [
-        "support",
-        "back"
+        "to support",
+        "to back"
       ],
       "es": [
         "apoyar",
@@ -336634,9 +336634,9 @@
         "aufräumen"
       ],
       "en": [
-        "fix up",
-        "reorganize",
-        "set right"
+        "to fix up",
+        "to reorganize",
+        "to set right"
       ],
       "es": [
         "arreglar",
@@ -336791,9 +336791,9 @@
         "enthüllen"
       ],
       "en": [
-        "disclose",
-        "reveal",
-        "lay bare"
+        "to disclose",
+        "to reveal",
+        "to lay bare"
       ],
       "es": [
         "revelar",
@@ -336876,9 +336876,9 @@
         "vorbringen"
       ],
       "en": [
-        "throw out",
-        "fling",
-        "put forward"
+        "to throw out",
+        "to fling",
+        "to put forward"
       ],
       "es": [
         "lanzar",
@@ -336961,8 +336961,8 @@
         "zum Ausdruck bringen"
       ],
       "en": [
-        "express",
-        "state"
+        "to express",
+        "to state"
       ],
       "es": [
         "expresar",
@@ -337566,9 +337566,9 @@
         "bekämpfen"
       ],
       "en": [
-        "tackle",
-        "cope with",
-        "overcome"
+        "to tackle",
+        "to cope with",
+        "to overcome"
       ],
       "es": [
         "enfrentar",
@@ -337726,9 +337726,9 @@
         "schwächer werden"
       ],
       "en": [
-        "dim",
-        "fade",
-        "grow faint"
+        "to dim",
+        "to fade",
+        "to grow faint"
       ],
       "es": [
         "atenuarse",
@@ -337897,9 +337897,9 @@
         "vernichten"
       ],
       "en": [
-        "crush",
-        "quell",
-        "wipe out"
+        "to crush",
+        "to quell",
+        "to wipe out"
       ],
       "es": [
         "aplastar",
@@ -338062,7 +338062,7 @@
         "renovieren"
       ],
       "en": [
-        "renovate"
+        "to renovate"
       ],
       "es": [
         "renovar"
@@ -338137,8 +338137,8 @@
         "bekräftigen"
       ],
       "en": [
-        "strengthen",
-        "confirm"
+        "to strengthen",
+        "to confirm"
       ],
       "es": [
         "reforzar",
@@ -338221,9 +338221,9 @@
         "aufhalten"
       ],
       "en": [
-        "dam",
-        "stem",
-        "hold back"
+        "to dam",
+        "to stem",
+        "to hold back"
       ],
       "es": [
         "contener",
@@ -338306,9 +338306,9 @@
         "erläutern"
       ],
       "en": [
-        "elaborate",
-        "explain",
-        "break down"
+        "to elaborate",
+        "to explain",
+        "to break down"
       ],
       "es": [
         "detallar",
@@ -338389,8 +338389,8 @@
         "abschließen"
       ],
       "en": [
-        "finish",
-        "complete"
+        "to finish",
+        "to complete"
       ],
       "es": [
         "terminar",
@@ -338720,8 +338720,8 @@
         "zusammenfassen"
       ],
       "en": [
-        "summarize",
-        "encapsulate"
+        "to summarize",
+        "to encapsulate"
       ],
       "es": [
         "resumir"
@@ -338794,8 +338794,8 @@
         "umstoßen"
       ],
       "en": [
-        "knock down",
-        "demolish"
+        "to knock down",
+        "to demolish"
       ],
       "es": [
         "derribar"
@@ -338875,8 +338875,8 @@
         "bestätigen"
       ],
       "en": [
-        "strengthen",
-        "affirm"
+        "to strengthen",
+        "to affirm"
       ],
       "es": [
         "afianzar",
@@ -339042,7 +339042,7 @@
         "verblüfft"
       ],
       "en": [
-        "be amazed",
+        "to be amazed",
         "dazzled"
       ],
       "es": [
@@ -339486,9 +339486,9 @@
         "untersuchen"
       ],
       "en": [
-        "study",
-        "examine",
-        "analyze"
+        "to study",
+        "to examine",
+        "to analyze"
       ],
       "es": [
         "estudiar",
@@ -339787,8 +339787,8 @@
         "ins Leben rufen"
       ],
       "en": [
-        "conceive",
-        "initiate"
+        "to conceive",
+        "to initiate"
       ],
       "es": [
         "idear",
@@ -340138,8 +340138,8 @@
         "aufdecken"
       ],
       "en": [
-        "reveal",
-        "uncover"
+        "to reveal",
+        "to uncover"
       ],
       "es": [
         "revelar",
@@ -340508,8 +340508,8 @@
         "ermitteln"
       ],
       "en": [
-        "investigate",
-        "look into"
+        "to investigate",
+        "to look into"
       ],
       "es": [
         "investigar"
@@ -340652,8 +340652,8 @@
         "ankurbeln"
       ],
       "en": [
-        "promote",
-        "encourage"
+        "to promote",
+        "to encourage"
       ],
       "es": [
         "promover",
@@ -340735,9 +340735,9 @@
         "abfangen"
       ],
       "en": [
-        "support",
-        "prop",
-        "brace"
+        "to support",
+        "to prop",
+        "to brace"
       ],
       "es": [
         "apuntalar",
@@ -340887,7 +340887,7 @@
         "erstaunt"
       ],
       "en": [
-        "be astonished",
+        "to be astonished",
         "agape"
       ],
       "es": [
@@ -340970,8 +340970,8 @@
         "vertreiben"
       ],
       "en": [
-        "evict",
-        "displace"
+        "to evict",
+        "to displace"
       ],
       "es": [
         "desalojar",
@@ -341117,8 +341117,8 @@
         "verleiten"
       ],
       "en": [
-        "lead astray",
-        "plunge into"
+        "to lead astray",
+        "to plunge into"
       ],
       "es": [
         "arrastrar",
@@ -341286,8 +341286,8 @@
         "heulen"
       ],
       "en": [
-        "roar",
-        "howl"
+        "to roar",
+        "to howl"
       ],
       "es": [
         "rugir",
@@ -341659,8 +341659,8 @@
         "wittern"
       ],
       "en": [
-        "sniff",
-        "smell out"
+        "to sniff",
+        "to smell out"
       ],
       "es": [
         "olfatear",
@@ -341740,7 +341740,7 @@
         "fasziniert"
       ],
       "en": [
-        "be stunned",
+        "to be stunned",
         "mesmerized"
       ],
       "es": [
@@ -341974,7 +341974,7 @@
         "schluchzen"
       ],
       "en": [
-        "sob"
+        "to sob"
       ],
       "es": [
         "sollozar"
@@ -342114,7 +342114,7 @@
         "schluchzen"
       ],
       "en": [
-        "sob"
+        "to sob"
       ],
       "es": [
         "sollozar"
@@ -342397,7 +342397,7 @@
         "stutzen"
       ],
       "en": [
-        "be stunned",
+        "to be stunned",
         "taken aback"
       ],
       "es": [
@@ -344815,8 +344815,8 @@
         "erkunden"
       ],
       "en": [
-        "dig into",
-        "explore"
+        "to dig into",
+        "to explore"
       ],
       "es": [
         "indagar",
@@ -344899,8 +344899,8 @@
         "behindern"
       ],
       "en": [
-        "trip up",
-        "obstruct"
+        "to trip up",
+        "to obstruct"
       ],
       "es": [
         "poner la zancadilla",
@@ -344983,8 +344983,8 @@
         "widersprechen"
       ],
       "en": [
-        "refute",
-        "object"
+        "to refute",
+        "to object"
       ],
       "es": [
         "refutar",
@@ -345403,8 +345403,8 @@
         "hochjubeln"
       ],
       "en": [
-        "pin hopes on",
-        "aspire to"
+        "to pin hopes on",
+        "to aspire to"
       ],
       "es": [
         "poner grandes esperanzas en",
@@ -345731,8 +345731,8 @@
         "anherrschen"
       ],
       "en": [
-        "snap at",
-        "rebuke harshly"
+        "to snap at",
+        "to rebuke harshly"
       ],
       "es": [
         "increpar",
@@ -345815,8 +345815,8 @@
         "knacken lassen"
       ],
       "en": [
-        "gnash",
-        "crack"
+        "to gnash",
+        "to crack"
       ],
       "es": [
         "hacer rechinar",
@@ -345899,8 +345899,8 @@
         "das Gesicht verziehen"
       ],
       "en": [
-        "frown",
-        "wince"
+        "to frown",
+        "to wince"
       ],
       "es": [
         "fruncir el ceño",
@@ -346067,8 +346067,8 @@
         "genau untersuchen"
       ],
       "en": [
-        "scrutinize",
-        "investigate"
+        "to scrutinize",
+        "to investigate"
       ],
       "es": [
         "escudriñar",
@@ -346235,8 +346235,8 @@
         "teilen"
       ],
       "en": [
-        "part",
-        "push aside"
+        "to part",
+        "to push aside"
       ],
       "es": [
         "apartar",
@@ -346534,8 +346534,8 @@
         "spalten"
       ],
       "en": [
-        "split",
-        "cleave"
+        "to split",
+        "to cleave"
       ],
       "es": [
         "partir",
@@ -346607,8 +346607,8 @@
         "sich durchdrängen"
       ],
       "en": [
-        "push through",
-        "break through"
+        "to push through",
+        "to break through"
       ],
       "es": [
         "abrirse paso"
@@ -346680,8 +346680,8 @@
         "aufsteigen"
       ],
       "en": [
-        "soar",
-        "rise high"
+        "to soar",
+        "to rise high"
       ],
       "es": [
         "elevarse",
@@ -346753,8 +346753,8 @@
         "der Länge nach hinfallen"
       ],
       "en": [
-        "fall flat",
-        "sprawl"
+        "to fall flat",
+        "to sprawl"
       ],
       "es": [
         "caer de bruces",
@@ -351711,8 +351711,8 @@
         "zittern"
       ],
       "en": [
-        "shiver",
-        "tremble"
+        "to shiver",
+        "to tremble"
       ],
       "es": [
         "temblar"
@@ -351779,8 +351779,8 @@
         "sich hinlegen"
       ],
       "en": [
-        "lie down",
-        "topple"
+        "to lie down",
+        "to topple"
       ],
       "es": [
         "tumbarse"
@@ -351847,7 +351847,7 @@
         "auf dem Rücken liegen"
       ],
       "en": [
-        "lie on one's back",
+        "to lie on one's back",
         "supine"
       ],
       "es": [
@@ -351915,7 +351915,7 @@
         "spülen"
       ],
       "en": [
-        "rinse"
+        "to rinse"
       ],
       "es": [
         "enjuagar"
@@ -351982,8 +351982,8 @@
         "in der Sonne trocknen"
       ],
       "en": [
-        "dry in the sun",
-        "sun-dry"
+        "to dry in the sun",
+        "to sun-dry"
       ],
       "es": [
         "secar al sol"
@@ -352050,8 +352050,8 @@
         "räuchern"
       ],
       "en": [
-        "smoke",
-        "smoke-cure"
+        "to smoke",
+        "to smoke-cure"
       ],
       "es": [
         "ahumar"
@@ -352118,8 +352118,8 @@
         "zerfetzen"
       ],
       "en": [
-        "tear",
-        "rip apart"
+        "to tear",
+        "to rip apart"
       ],
       "es": [
         "desgarrar"
@@ -352186,8 +352186,8 @@
         "zerreißen"
       ],
       "en": [
-        "tear",
-        "rip"
+        "to tear",
+        "to rip"
       ],
       "es": [
         "rasgar"
@@ -352254,8 +352254,8 @@
         "zerreißen"
       ],
       "en": [
-        "tear",
-        "rend"
+        "to tear",
+        "to rend"
       ],
       "es": [
         "desgarrar"
@@ -352322,8 +352322,8 @@
         "zerquetschen"
       ],
       "en": [
-        "crush",
-        "mash"
+        "to crush",
+        "to mash"
       ],
       "es": [
         "triturar"
@@ -352390,8 +352390,8 @@
         "zermahlen"
       ],
       "en": [
-        "grind",
-        "pulverize"
+        "to grind",
+        "to pulverize"
       ],
       "es": [
         "moler"
@@ -352458,7 +352458,7 @@
         "feilen"
       ],
       "en": [
-        "file"
+        "to file"
       ],
       "es": [
         "limar"
@@ -352525,8 +352525,8 @@
         "flechten"
       ],
       "en": [
-        "weave",
-        "plait"
+        "to weave",
+        "to plait"
       ],
       "es": [
         "trenzar"
@@ -355534,8 +355534,8 @@
         "anstiften"
       ],
       "en": [
-        "incite",
-        "instigate"
+        "to incite",
+        "to instigate"
       ],
       "es": [
         "incitar",
@@ -355617,9 +355617,9 @@
         "unterdrücken"
       ],
       "en": [
-        "muffle",
-        "suppress",
-        "dampen"
+        "to muffle",
+        "to suppress",
+        "to dampen"
       ],
       "es": [
         "amortiguar",
@@ -355702,8 +355702,8 @@
         "vervollständigen"
       ],
       "en": [
-        "fulfill",
-        "complete"
+        "to fulfill",
+        "to complete"
       ],
       "es": [
         "cumplir",
@@ -355782,8 +355782,8 @@
         "renovieren"
       ],
       "en": [
-        "restore",
-        "renovate"
+        "to restore",
+        "to renovate"
       ],
       "es": [
         "restaurar"
@@ -355857,9 +355857,9 @@
         "niederschlagen"
       ],
       "en": [
-        "lash",
-        "thrash",
-        "sweep away"
+        "to lash",
+        "to thrash",
+        "to sweep away"
       ],
       "es": [
         "azotar",
@@ -355941,8 +355941,8 @@
         "nachstellen"
       ],
       "en": [
-        "stalk",
-        "tail"
+        "to stalk",
+        "to tail"
       ],
       "es": [
         "acechar",
@@ -356020,9 +356020,9 @@
         "vermessen"
       ],
       "en": [
-        "survey",
-        "investigate",
-        "probe"
+        "to survey",
+        "to investigate",
+        "to probe"
       ],
       "es": [
         "sondear",
@@ -356105,8 +356105,8 @@
         "weihen"
       ],
       "en": [
-        "ordain",
-        "consecrate"
+        "to ordain",
+        "to consecrate"
       ],
       "es": [
         "ordenar",
@@ -356189,8 +356189,8 @@
         "prüfen"
       ],
       "en": [
-        "scrutinize",
-        "observe closely"
+        "to scrutinize",
+        "to observe closely"
       ],
       "es": [
         "examinar detenidamente"
@@ -356261,8 +356261,8 @@
         "wiehern"
       ],
       "en": [
-        "neigh",
-        "whinny"
+        "to neigh",
+        "to whinny"
       ],
       "es": [
         "relinchar"
@@ -356332,7 +356332,7 @@
         "vor Weinen sprachlos sein"
       ],
       "en": [
-        "be choked with sobs",
+        "to be choked with sobs",
         "speechless from crying"
       ],
       "es": [
@@ -356403,7 +356403,7 @@
         "benommen"
       ],
       "en": [
-        "be dazed",
+        "to be dazed",
         "lost in thought"
       ],
       "es": [
@@ -356484,7 +356484,7 @@
         "erschrecken"
       ],
       "en": [
-        "be startled"
+        "to be startled"
       ],
       "es": [
         "sobresaltarse"
@@ -356559,8 +356559,8 @@
         "erschüttert sein"
       ],
       "en": [
-        "be jolted",
-        "slump down in shock"
+        "to be jolted",
+        "to slump down in shock"
       ],
       "es": [
         "desplomarse",

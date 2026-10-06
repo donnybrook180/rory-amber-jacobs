@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "targetLang": "id",
   "nativeLangs": [
     "ar",
@@ -23,7 +23,7 @@
   "wordCount": 5000,
   "audioCount": 0,
   "exampleCount": 0,
-  "contentHash": "d184834b65ca",
+  "contentHash": "7bb12bf03a1f",
   "minAppVersion": "1.0.0",
   "files": {
     "words.id.json": "words.id.json",
