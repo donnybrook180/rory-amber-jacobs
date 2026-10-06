@@ -322101,9 +322101,9 @@
     "gender": "m"
   },
   {
-    "key": "pt_7e4b93679771",
+    "key": "pt_47a5d7655c89",
     "rank": 4513,
-    "target": "telemovel",
+    "target": "fila",
     "pos": "noun",
     "level": "advanced",
     "pack": {
@@ -322112,62 +322112,74 @@
     },
     "translations": {
       "ar": [
-        "هاتف محمول"
+        "طابور"
       ],
       "de": [
-        "Handy"
+        "Schlange",
+        "Reihe"
       ],
       "en": [
-        "mobile phone"
+        "queue",
+        "line"
       ],
       "es": [
-        "móvil"
+        "fila",
+        "cola"
       ],
       "fr": [
-        "téléphone portable"
+        "file d'attente",
+        "rang"
       ],
       "hi": [
-        "मोबाइल फोन"
+        "क़तार",
+        "लाइन"
       ],
       "id": [
-        "ponsel"
+        "antrean",
+        "barisan"
       ],
       "it": [
-        "cellulare"
+        "fila",
+        "coda"
       ],
       "ja": [
-        "携帯電話"
+        "列"
       ],
       "ko": [
-        "휴대폰"
+        "줄"
       ],
       "nl": [
-        "mobiele telefoon"
+        "rij",
+        "wachtrij"
       ],
       "ru": [
-        "мобильный телефон"
+        "очередь",
+        "ряд"
       ],
       "sw": [
-        "simu ya mkononi"
+        "foleni",
+        "mstari"
       ],
       "th": [
-        "โทรศัพท์มือถือ"
+        "แถว",
+        "คิว"
       ],
       "ur": [
-        "موبائل فون"
+        "قطار"
       ],
       "vi": [
-        "điện thoại di động"
+        "hàng"
       ],
       "zh": [
-        "手机"
+        "队伍",
+        "排"
       ]
     },
     "audio": null,
     "examples": [],
     "srcRank": 3145,
-    "article": "o",
-    "gender": "m"
+    "article": "a",
+    "gender": "f"
   },
   {
     "key": "pt_51a681d21668",
@@ -352266,9 +352278,9 @@
     "srcRank": 4619
   },
   {
-    "key": "pt_3d1fa1d9664e",
+    "key": "pt_f6ef1e292f06",
     "rank": 4923,
-    "target": "enfâse",
+    "target": "ênfase",
     "pos": "noun",
     "level": "advanced",
     "pack": {
@@ -356509,9 +356521,9 @@
     "gender": "f"
   },
   {
-    "key": "pt_72d40258dbe5",
+    "key": "pt_aaa882014501",
     "rank": 4981,
-    "target": "loígistica",
+    "target": "logística",
     "pos": "noun",
     "level": "advanced",
     "pack": {

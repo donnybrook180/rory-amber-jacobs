@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "targetLang": "pt",
   "nativeLangs": [
     "ar",
@@ -23,7 +23,7 @@
   "wordCount": 5000,
   "audioCount": 0,
   "exampleCount": 0,
-  "contentHash": "8e945c506a9d",
+  "contentHash": "f5a79755f898",
   "minAppVersion": "1.0.0",
   "files": {
     "words.pt.json": "words.pt.json",

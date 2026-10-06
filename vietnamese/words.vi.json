@@ -11049,63 +11049,72 @@
     },
     "translations": {
       "ar": [
-        "ذبابة الخيل",
-        "نُعَرة"
+        "يأمل",
+        "يتمنى"
       ],
       "de": [
-        "Bremse",
-        "Pferdebremse"
+        "hoffen",
+        "wünschen"
       ],
       "en": [
-        "horsefly",
-        "gadfly"
+        "to hope",
+        "to wish"
       ],
       "es": [
-        "tábano"
+        "esperar",
+        "desear"
       ],
       "fr": [
-        "taon"
+        "espérer",
+        "souhaiter"
       ],
       "hi": [
-        "घोड़ामक्खी",
-        "डांस"
+        "आशा करना",
+        "चाहना"
       ],
       "id": [
-        "lalat kuda",
-        "pikat"
+        "berharap",
+        "mengharapkan"
       ],
       "it": [
-        "tafano"
+        "sperare",
+        "desiderare"
       ],
       "ja": [
-        "虻"
+        "望む",
+        "願う"
       ],
       "ko": [
-        "등에"
+        "바라다",
+        "희망하다"
       ],
       "nl": [
-        "paardenvlieg",
-        "daas"
+        "hopen",
+        "wensen"
       ],
       "pt": [
-        "mutuca",
-        "moscardo"
+        "esperar",
+        "desejar"
       ],
       "ru": [
-        "слепень",
-        "овод"
+        "надеяться",
+        "желать"
       ],
       "sw": [
-        "inzi wa farasi"
+        "kutumaini",
+        "kutamani"
       ],
       "th": [
-        "เหลือบ"
+        "หวัง",
+        "ปรารถนา"
       ],
       "ur": [
-        "گھوڑ مکھی"
+        "امید کرنا",
+        "چاہنا"
       ],
       "zh": [
-        "牛虻"
+        "盼望",
+        "希望"
       ]
     },
     "audio": null,
@@ -25282,56 +25291,68 @@
     },
     "translations": {
       "ar": [
-        "خين (آلة نفخ)"
+        "يمدح",
+        "يثني على"
       ],
       "de": [
-        "Khen (Mundorgel)"
+        "loben",
+        "Komplimente machen"
       ],
       "en": [
-        "khen",
-        "mouth organ"
+        "to praise",
+        "to compliment"
       ],
       "es": [
-        "khen (órgano de boca)"
+        "elogiar",
+        "alabar"
       ],
       "fr": [
-        "khène"
+        "féliciter",
+        "complimenter"
       ],
       "hi": [
-        "खेन (मुंह वाद्य)"
+        "तारीफ़ करना",
+        "प्रशंसा करना"
       ],
       "id": [
-        "khen (organ mulut)"
+        "memuji"
       ],
       "it": [
-        "khen (organo a bocca)"
+        "lodare",
+        "elogiare"
       ],
       "ja": [
-        "ケーン"
+        "褒める",
+        "称賛する"
       ],
       "ko": [
-        "캔 (생황)"
+        "칭찬하다"
       ],
       "nl": [
-        "khen (mondorgel)"
+        "prijzen",
+        "complimenteren"
       ],
       "pt": [
-        "khen (órgão de boca)"
+        "elogiar",
+        "louvar"
       ],
       "ru": [
-        "кхен (губной орган)"
+        "хвалить"
       ],
       "sw": [
-        "khen (kinanda cha mdomo)"
+        "kusifu",
+        "kupongeza"
       ],
       "th": [
-        "แคน"
+        "ชม",
+        "ชมเชย"
       ],
       "ur": [
-        "کھین (منہ کا ساز)"
+        "تعریف کرنا"
       ],
       "zh": [
-        "芦笙"
+        "表扬",
+        "称赞"
       ]
     },
     "audio": null,
@@ -65238,55 +65259,59 @@
     },
     "translations": {
       "ar": [
-        "ذلك"
+        "يقيس"
       ],
       "de": [
-        "jener"
+        "messen"
       ],
       "en": [
-        "that"
+        "to measure"
       ],
       "es": [
-        "ese"
+        "medir"
       ],
       "fr": [
-        "ce"
+        "mesurer"
       ],
       "hi": [
-        "वह"
+        "नापना",
+        "मापना"
       ],
       "id": [
-        "itu"
+        "mengukur"
       ],
       "it": [
-        "quello"
+        "misurare"
       ],
       "ja": [
-        "その"
+        "測る"
       ],
       "ko": [
-        "그"
+        "재다",
+        "측정하다"
       ],
       "nl": [
-        "die"
+        "meten"
       ],
       "pt": [
-        "esse"
+        "medir"
       ],
       "ru": [
-        "тот"
+        "измерять",
+        "мерить"
       ],
       "sw": [
-        "hiyo"
+        "kupima"
       ],
       "th": [
-        "นั้น"
+        "วัด"
       ],
       "ur": [
-        "وہ"
+        "ناپنا"
       ],
       "zh": [
-        "那"
+        "测量",
+        "量"
       ]
     },
     "audio": null,
@@ -68380,62 +68405,72 @@
     },
     "translations": {
       "ar": [
-        "بحيرة شاطئية"
+        "يخلط",
+        "يُحضّر"
       ],
       "de": [
-        "Lagune",
-        "Haff"
+        "mischen",
+        "aufbrühen"
       ],
       "en": [
-        "lagoon"
+        "to mix",
+        "to brew"
       ],
       "es": [
-        "laguna",
-        "albufera"
+        "mezclar",
+        "preparar"
       ],
       "fr": [
-        "lagune"
+        "mélanger",
+        "préparer"
       ],
       "hi": [
-        "अनूप",
-        "लैगून"
+        "घोलना",
+        "बनाना"
       ],
       "id": [
-        "laguna"
+        "mencampur",
+        "menyeduh"
       ],
       "it": [
-        "laguna"
+        "mescolare",
+        "preparare"
       ],
       "ja": [
-        "潟",
-        "ラグーン"
+        "混ぜる",
+        "淹れる"
       ],
       "ko": [
-        "석호",
-        "라군"
+        "타다",
+        "섞다"
       ],
       "nl": [
-        "lagune"
+        "mengen",
+        "zetten"
       ],
       "pt": [
-        "laguna"
+        "misturar",
+        "preparar"
       ],
       "ru": [
-        "лагуна"
+        "смешивать",
+        "заваривать"
       ],
       "sw": [
-        "ziwa la pwani"
+        "kuchanganya",
+        "kutengeneza"
       ],
       "th": [
-        "ลากูน",
-        "ทะเลสาบน้ำเค็ม"
+        "ผสม",
+        "ชง"
       ],
       "ur": [
-        "لگون",
-        "جھیل نما خلیج"
+        "ملانا",
+        "بنانا"
       ],
       "zh": [
-        "潟湖"
+        "冲泡",
+        "调制"
       ]
     },
     "audio": null,
@@ -69625,60 +69660,69 @@
     },
     "translations": {
       "ar": [
-        "ممر جبلي"
+        "يرتدي",
+        "يلبس"
       ],
       "de": [
-        "Gebirgspass"
+        "tragen",
+        "anlegen"
       ],
       "en": [
-        "mountain pass"
+        "to wear",
+        "to put on"
       ],
       "es": [
-        "puerto de montaña",
-        "paso"
+        "llevar",
+        "ponerse"
       ],
       "fr": [
-        "col"
+        "porter",
+        "mettre"
       ],
       "hi": [
-        "दर्रा"
+        "पहनना"
       ],
       "id": [
-        "celah gunung"
+        "memakai",
+        "mengenakan"
       ],
       "it": [
-        "passo",
-        "valico"
+        "indossare",
+        "portare"
       ],
       "ja": [
-        "峠"
+        "身につける",
+        "着ける"
       ],
       "ko": [
-        "고개",
-        "산고개"
+        "착용하다",
+        "끼다"
       ],
       "nl": [
-        "bergpas"
+        "dragen",
+        "omdoen"
       ],
       "pt": [
-        "desfiladeiro",
-        "passo de montanha"
+        "usar",
+        "colocar"
       ],
       "ru": [
-        "горный перевал"
+        "носить",
+        "надевать"
       ],
       "sw": [
-        "njia ya mlimani"
+        "kuvaa"
       ],
       "th": [
-        "ช่องเขา"
+        "สวม",
+        "ใส่"
       ],
       "ur": [
-        "درہ"
+        "پہننا"
       ],
       "zh": [
-        "山口",
-        "山隘"
+        "戴",
+        "佩戴"
       ]
     },
     "audio": null,
@@ -78817,55 +78861,56 @@
     },
     "translations": {
       "ar": [
-        "ضفدع"
+        "يمضغ"
       ],
       "de": [
-        "Frosch"
+        "kauen"
       ],
       "en": [
-        "frog"
+        "to chew"
       ],
       "es": [
-        "rana"
+        "masticar"
       ],
       "fr": [
-        "grenouille"
+        "mâcher"
       ],
       "hi": [
-        "मेंढक"
+        "चबाना"
       ],
       "id": [
-        "katak"
+        "mengunyah"
       ],
       "it": [
-        "rana"
+        "masticare"
       ],
       "ja": [
-        "カエル"
+        "噛む"
       ],
       "ko": [
-        "개구리"
+        "씹다"
       ],
       "nl": [
-        "kikker"
+        "kauwen"
       ],
       "pt": [
-        "rã"
+        "mastigar"
       ],
       "ru": [
-        "лягушка"
+        "жевать"
       ],
       "sw": [
-        "chura"
+        "kutafuna"
       ],
       "th": [
-        "กบเล็ก"
+        "เคี้ยว"
       ],
       "ur": [
-        "مینڈک"
+        "چبانا"
       ],
       "zh": [
-        "小青蛙"
+        "嚼",
+        "咀嚼"
       ]
     },
     "audio": null,
@@ -92911,60 +92956,72 @@
     },
     "translations": {
       "ar": [
-        "وقح"
+        "يندفع",
+        "يقذف"
       ],
       "de": [
-        "frech"
+        "sich stürzen",
+        "schleudern"
       ],
       "en": [
-        "insolent",
-        "rude"
+        "to dash",
+        "to hurl"
       ],
       "es": [
-        "insolente"
+        "lanzarse",
+        "arrojar"
       ],
       "fr": [
-        "insolent"
+        "se précipiter",
+        "lancer"
       ],
       "hi": [
-        "गुस्ताख़"
+        "झपटना",
+        "फेंकना"
       ],
       "id": [
-        "kurang ajar"
+        "melesat",
+        "melemparkan"
       ],
       "it": [
-        "insolente"
+        "lanciarsi",
+        "scagliare"
       ],
       "ja": [
-        "生意気"
+        "突進する",
+        "投げつける"
       ],
       "ko": [
-        "건방진"
+        "돌진하다",
+        "던지다"
       ],
       "nl": [
-        "brutaal"
+        "stormen",
+        "werpen"
       ],
       "pt": [
-        "insolente",
-        "atrevido"
+        "lançar-se",
+        "arremessar"
       ],
       "ru": [
-        "дерзкий",
-        "наглый"
+        "бросаться",
+        "метать"
       ],
       "sw": [
-        "mwenye dharau"
+        "kukimbilia",
+        "kurusha"
       ],
       "th": [
-        "ทะลึ่ง",
-        "กวน"
+        "พุ่ง",
+        "ขว้าง"
       ],
       "ur": [
-        "گستاخ"
+        "جھپٹنا",
+        "پھینکنا"
       ],
       "zh": [
-        "无礼",
-        "嚣张"
+        "冲",
+        "投掷"
       ]
     },
     "audio": null,
@@ -121354,56 +121411,71 @@
     },
     "translations": {
       "ar": [
-        "يتزعزع"
+        "يتزعزع",
+        "يهتز"
       ],
       "de": [
-        "wackeln"
+        "wackeln",
+        "schwanken"
       ],
       "en": [
-        "shaky",
-        "to wobble"
+        "to wobble",
+        "to waver"
       ],
       "es": [
-        "tambalearse"
+        "tambalearse",
+        "flaquear"
       ],
       "fr": [
-        "vaciller"
+        "vaciller",
+        "chanceler"
       ],
       "hi": [
+        "डगमगाना",
         "हिलना"
       ],
       "id": [
-        "goyah"
+        "goyah",
+        "bergoyang"
       ],
       "it": [
-        "vacillare"
+        "vacillare",
+        "traballare"
       ],
       "ja": [
-        "ぐらつく"
+        "ぐらつく",
+        "揺らぐ"
       ],
       "ko": [
         "흔들리다"
       ],
       "nl": [
-        "wankelen"
+        "wankelen",
+        "wiebelen"
       ],
       "pt": [
-        "abalar"
+        "vacilar",
+        "balançar"
       ],
       "ru": [
-        "шататься"
+        "шататься",
+        "колебаться"
       ],
       "sw": [
+        "kuyumbayumba",
         "kutikisika"
       ],
       "th": [
-        "คลอนแคลน"
+        "โยกคลอน",
+        "สั่นคลอน"
       ],
       "ur": [
+        "ڈگمگانا",
         "ہلنا"
       ],
       "zh": [
-        "动摇"
+        "动摇",
+        "摇晃"
       ]
     },
     "audio": null,
@@ -181523,72 +181595,56 @@
     },
     "translations": {
       "ar": [
-        "يلعب شد الحبل",
-        "شد الحبل"
+        "يلعب شد الحبل"
       ],
       "de": [
-        "Tauziehen spielen",
-        "Tauziehen machen"
+        "Tauziehen spielen"
       ],
       "en": [
-        "to play tug of war",
-        "tug of war"
+        "to play tug of war"
       ],
       "es": [
         "jugar a la cuerda",
-        "tirar de la cuerda"
+        "jugar al tira y afloja"
       ],
       "fr": [
-        "jouer au tir à la corde",
-        "faire le tir à la corde"
+        "jouer au tir à la corde"
       ],
       "hi": [
-        "रस्साकशी खेलना",
-        "रस्सा खींचना"
+        "रस्साकशी खेलना"
       ],
       "id": [
-        "bermain tarik tambang",
-        "tarik tambang"
+        "bermain tarik tambang"
       ],
       "it": [
-        "giocare al tiro alla fune",
-        "fare il tiro alla fune"
+        "giocare al tiro alla fune"
       ],
       "ja": [
-        "綱引きをする",
-        "綱引きで遊ぶ"
+        "綱引きをする"
       ],
       "ko": [
-        "줄다리기를 하다",
-        "줄을 당기다"
+        "줄다리기하다"
       ],
       "nl": [
-        "touwtrekken",
-        "touwtje trekken"
+        "touwtrekken"
       ],
       "pt": [
-        "jogar cabo de guerra",
-        "puxar a corda"
+        "jogar cabo de guerra"
       ],
       "ru": [
-        "играть в перетягивание каната",
         "перетягивать канат"
       ],
       "sw": [
-        "kuvuta kamba",
-        "kucheza mchezo wa kuvuta kamba"
+        "kuvuta kamba"
       ],
       "th": [
-        "เล่นชักเย่อ",
         "ชักเย่อ"
       ],
       "ur": [
-        "رسہ کشی کرنا",
-        "رسی کھینچنا"
+        "رسہ کشی کرنا"
       ],
       "zh": [
-        "拔河",
-        "玩拔河"
+        "拔河"
       ]
     },
     "audio": null,
@@ -188541,72 +188597,55 @@
     },
     "translations": {
       "ar": [
-        "يؤدي رقصة الأسد",
-        "رقص الأسد"
+        "يؤدي رقصة الأسد"
       ],
       "de": [
-        "Löwentanz aufführen",
-        "Löwentanz tanzen"
+        "den Löwentanz aufführen"
       ],
       "en": [
-        "to perform a lion dance",
-        "lion dance"
+        "to perform a lion dance"
       ],
       "es": [
-        "bailar la danza del león",
-        "hacer la danza del león"
+        "bailar la danza del león"
       ],
       "fr": [
-        "danser la danse du lion",
-        "exécuter la danse du lion"
+        "danser la danse du lion"
       ],
       "hi": [
-        "शेर नृत्य करना",
-        "सिंह नृत्य करना"
+        "शेर नृत्य करना"
       ],
       "id": [
-        "menari barongsai",
-        "mempertunjukkan tari singa"
+        "menarikan barongsai"
       ],
       "it": [
-        "eseguire la danza del leone",
-        "ballare la danza del leone"
+        "eseguire la danza del leone"
       ],
       "ja": [
-        "獅子舞をする",
-        "獅子舞を演じる"
+        "獅子舞を舞う"
       ],
       "ko": [
-        "사자춤을 추다",
-        "사자놀이를 하다"
+        "사자춤을 추다"
       ],
       "nl": [
-        "leeuwendans uitvoeren",
-        "de leeuwendans dansen"
+        "de leeuwendans uitvoeren"
       ],
       "pt": [
-        "dançar a dança do leão",
-        "fazer a dança do leão"
+        "dançar a dança do leão"
       ],
       "ru": [
-        "исполнять танец льва",
-        "танцевать танец льва"
+        "исполнять танец льва"
       ],
       "sw": [
-        "kucheza ngoma ya simba",
-        "kuonyesha densi ya simba"
+        "kucheza ngoma ya simba"
       ],
       "th": [
-        "เชิดสิงโต",
-        "แสดงระบำสิงโต"
+        "เชิดสิงโต"
       ],
       "ur": [
-        "شیر کا رقص کرنا",
-        "لائن ڈانس کرنا"
+        "شیر رقص کرنا"
       ],
       "zh": [
-        "舞狮",
-        "耍狮子"
+        "舞狮"
       ]
     },
     "audio": null,
@@ -203239,72 +203278,55 @@
     },
     "translations": {
       "ar": [
-        "يلعب الغميضة",
-        "الاستغماية"
+        "يلعب الغميضة"
       ],
       "de": [
-        "Verstecken spielen",
-        "Versteck spielen"
+        "Verstecken spielen"
       ],
       "en": [
-        "to play hide-and-seek",
-        "hide-and-seek"
+        "to play hide-and-seek"
       ],
       "es": [
-        "jugar al escondite",
-        "jugar a las escondidas"
+        "jugar al escondite"
       ],
       "fr": [
-        "jouer à cache-cache",
-        "faire une partie de cache-cache"
+        "jouer à cache-cache"
       ],
       "hi": [
-        "आँख-मिचौली खेलना",
         "लुका-छिपी खेलना"
       ],
       "id": [
-        "main petak umpet",
-        "bermain sembunyi-sembunyian"
+        "bermain petak umpet"
       ],
       "it": [
-        "giocare a nascondino",
-        "fare a nascondino"
+        "giocare a nascondino"
       ],
       "ja": [
-        "かくれんぼをする",
-        "隠れんぼうをする"
+        "かくれんぼをする"
       ],
       "ko": [
-        "숨바꼭질을 하다",
-        "술래잡기를 하다"
+        "숨바꼭질하다"
       ],
       "nl": [
-        "verstoppertje spelen",
-        "verstoppen spelen"
+        "verstoppertje spelen"
       ],
       "pt": [
-        "brincar de esconde-esconde",
-        "jogar esconde-esconde"
+        "brincar de esconde-esconde"
       ],
       "ru": [
-        "играть в прятки",
         "играть в прятки"
       ],
       "sw": [
-        "kucheza kujificha na kutafuta",
-        "kucheza mchezo wa kujificha"
+        "kucheza kujificha"
       ],
       "th": [
-        "เล่นซ่อนหา",
-        "เล่นซ่อนแอบ"
+        "เล่นซ่อนหา"
       ],
       "ur": [
-        "آنکھ مچولی کھیلنا",
-        "چھپن چھپائی کھیلنا"
+        "آنکھ مچولی کھیلنا"
       ],
       "zh": [
-        "捉迷藏",
-        "玩躲猫猫"
+        "玩捉迷藏"
       ]
     },
     "audio": null,
@@ -238673,68 +238695,58 @@
     },
     "translations": {
       "ar": [
-        "إعادة الدفن",
-        "الدفن بعد نبش الرفات"
+        "يعيد الدفن"
       ],
       "de": [
-        "Umbettung",
-        "Zweitbestattung"
+        "umbetten",
+        "erneut bestatten"
       ],
       "en": [
-        "reburial",
-        "second burial after exhumation"
+        "to rebury"
       ],
       "es": [
-        "reinhumación",
-        "segundo entierro"
+        "reinhumar"
       ],
       "fr": [
-        "réinhumation",
-        "seconde inhumation"
+        "réinhumer"
       ],
       "hi": [
-        "पुनर्दफन",
-        "दूसरी दफन"
+        "दोबारा दफ़नाना"
       ],
       "id": [
-        "penguburan ulang",
-        "pemindahan makam"
+        "memakamkan ulang"
       ],
       "it": [
-        "risepoltura",
-        "seconda sepoltura"
+        "riseppellire"
       ],
       "ja": [
-        "改葬"
+        "改葬する"
       ],
       "ko": [
-        "개장",
-        "이장"
+        "이장하다"
       ],
       "nl": [
-        "herbegraving",
-        "tweede begrafenis"
+        "herbegraven"
       ],
       "pt": [
-        "reinumação",
-        "segundo sepultamento"
+        "reenterrar",
+        "sepultar novamente"
       ],
       "ru": [
-        "перезахоронение"
+        "перезахоранивать"
       ],
       "sw": [
         "kuzika upya"
       ],
       "th": [
-        "การฝังศพใหม่",
-        "การล้างป่าช้า"
+        "ฝังใหม่"
       ],
       "ur": [
-        "دوبارہ تدفین"
+        "دوبارہ دفنانا"
       ],
       "zh": [
-        "吉葬",
-        "改葬"
+        "迁葬",
+        "二次安葬"
       ]
     },
     "audio": null,
@@ -239453,58 +239465,55 @@
     },
     "translations": {
       "ar": [
-        "الدفن الأولي المؤقت"
+        "يدفن مؤقتًا"
       ],
       "de": [
-        "vorläufige Erstbestattung"
+        "vorläufig bestatten"
       ],
       "en": [
-        "temporary first burial"
+        "to bury temporarily"
       ],
       "es": [
-        "primer entierro temporal"
+        "enterrar temporalmente"
       ],
       "fr": [
-        "première inhumation temporaire"
+        "inhumer provisoirement"
       ],
       "hi": [
-        "अस्थायी पहली दफन"
+        "अस्थायी रूप से दफ़नाना"
       ],
       "id": [
-        "penguburan sementara pertama"
+        "memakamkan sementara"
       ],
       "it": [
-        "prima sepoltura temporanea"
+        "seppellire provvisoriamente"
       ],
       "ja": [
-        "仮埋葬",
-        "一次埋葬"
+        "仮埋葬する"
       ],
       "ko": [
-        "초장",
-        "임시 매장"
+        "임시로 매장하다"
       ],
       "nl": [
-        "tijdelijke eerste begrafenis"
+        "voorlopig begraven"
       ],
       "pt": [
-        "primeiro sepultamento temporário"
+        "enterrar provisoriamente"
       ],
       "ru": [
-        "временное первичное погребение"
+        "временно хоронить"
       ],
       "sw": [
-        "mazishi ya muda ya kwanza"
+        "kuzika kwa muda"
       ],
       "th": [
-        "การฝังศพชั่วคราวครั้งแรก"
+        "ฝังศพชั่วคราว"
       ],
       "ur": [
-        "عارضی پہلی تدفین"
+        "عارضی طور پر دفنانا"
       ],
       "zh": [
-        "凶葬",
-        "临时埋葬"
+        "暂葬"
       ]
     },
     "audio": null,
@@ -243062,55 +243071,68 @@
     },
     "translations": {
       "ar": [
-        "ممحاة"
+        "يجمع"
       ],
       "de": [
-        "Radiergummi"
+        "sammeln",
+        "zusammentragen"
       ],
       "en": [
-        "eraser"
+        "to gather",
+        "to collect"
       ],
       "es": [
-        "goma de borrar"
+        "reunir",
+        "recoger"
       ],
       "fr": [
-        "gomme"
+        "rassembler",
+        "ramasser"
       ],
       "hi": [
-        "रबर"
+        "इकट्ठा करना",
+        "जमा करना"
       ],
       "id": [
-        "penghapus"
+        "mengumpulkan"
       ],
       "it": [
-        "gomma"
+        "raccogliere",
+        "radunare"
       ],
       "ja": [
-        "消しゴム"
+        "集める",
+        "かき集める"
       ],
       "ko": [
-        "지우개"
+        "모으다",
+        "거두다"
       ],
       "nl": [
-        "gum"
+        "verzamelen",
+        "bijeenbrengen"
       ],
       "pt": [
-        "borracha"
+        "juntar",
+        "recolher"
       ],
       "ru": [
-        "ластик"
+        "собирать"
       ],
       "sw": [
-        "kifutio"
+        "kukusanya"
       ],
       "th": [
-        "ยางลบ"
+        "รวบรวม",
+        "เก็บรวม"
       ],
       "ur": [
-        "ربر"
+        "جمع کرنا",
+        "اکٹھا کرنا"
       ],
       "zh": [
-        "橡皮"
+        "收集",
+        "聚集"
       ]
     },
     "audio": null,
@@ -244800,55 +244822,62 @@
     },
     "translations": {
       "ar": [
-        "ساق"
+        "يسكب على"
       ],
       "de": [
-        "Bein"
+        "übergießen"
       ],
       "en": [
-        "leg"
+        "to pour over",
+        "to ladle over"
       ],
       "es": [
-        "pierna"
+        "verter sobre",
+        "bañar"
       ],
       "fr": [
-        "jambe"
+        "verser sur",
+        "arroser"
       ],
       "hi": [
-        "टांग"
+        "ऊपर डालना"
       ],
       "id": [
-        "kaki"
+        "menyiramkan"
       ],
       "it": [
-        "gamba"
+        "versare sopra"
       ],
       "ja": [
-        "足"
+        "かける",
+        "注ぎかける"
       ],
       "ko": [
-        "다리"
+        "끼얹다",
+        "붓다"
       ],
       "nl": [
-        "been"
+        "overgieten"
       ],
       "pt": [
-        "perna"
+        "regar",
+        "despejar sobre"
       ],
       "ru": [
-        "нога"
+        "поливать"
       ],
       "sw": [
-        "mguu"
+        "kumwagia"
       ],
       "th": [
-        "ขา"
+        "ราด"
       ],
       "ur": [
-        "ٹانگ"
+        "اوپر ڈالنا"
       ],
       "zh": [
-        "腿"
+        "浇",
+        "淋"
       ]
     },
     "audio": null,
@@ -249289,56 +249318,59 @@
     },
     "translations": {
       "ar": [
-        "سن"
+        "يحمّص"
       ],
       "de": [
-        "Zahn"
+        "rösten"
       ],
       "en": [
-        "tooth"
+        "to roast",
+        "to dry-fry"
       ],
       "es": [
-        "diente"
+        "tostar"
       ],
       "fr": [
-        "dent"
+        "torréfier",
+        "griller"
       ],
       "hi": [
-        "दांत"
+        "भूनना"
       ],
       "id": [
-        "gigi"
+        "menyangrai"
       ],
       "it": [
-        "dente"
+        "tostare"
       ],
       "ja": [
-        "歯"
+        "炒る"
       ],
       "ko": [
-        "이",
-        "치아"
+        "볶다"
       ],
       "nl": [
-        "tand"
+        "roosteren",
+        "branden"
       ],
       "pt": [
-        "dente"
+        "torrar"
       ],
       "ru": [
-        "зуб"
+        "обжаривать"
       ],
       "sw": [
-        "jino"
+        "kukaanga"
       ],
       "th": [
-        "ฟัน"
+        "คั่ว"
       ],
       "ur": [
-        "دانت"
+        "بھوننا"
       ],
       "zh": [
-        "牙齿"
+        "炒",
+        "焙"
       ]
     },
     "audio": null,
@@ -253342,55 +253374,72 @@
     },
     "translations": {
       "ar": [
-        "الدودة الشريطية"
+        "يسوّي",
+        "يتقاسم"
       ],
       "de": [
-        "Bandwurm"
+        "einebnen",
+        "aufteilen"
       ],
       "en": [
-        "tapeworm"
+        "to level",
+        "to share out"
       ],
       "es": [
-        "tenia"
+        "nivelar",
+        "repartir"
       ],
       "fr": [
-        "ténia"
+        "niveler",
+        "répartir"
       ],
       "hi": [
-        "फीताकृमि"
+        "समतल करना",
+        "बाँटना"
       ],
       "id": [
-        "cacing pita"
+        "meratakan",
+        "membagi"
       ],
       "it": [
-        "tenia"
+        "livellare",
+        "ripartire"
       ],
       "ja": [
-        "条虫"
+        "平らにする",
+        "分け合う"
       ],
       "ko": [
-        "촌충"
+        "평평하게 하다",
+        "나누다"
       ],
       "nl": [
-        "lintworm"
+        "egaliseren",
+        "verdelen"
       ],
       "pt": [
-        "tênia"
+        "nivelar",
+        "repartir"
       ],
       "ru": [
-        "ленточный червь"
+        "выравнивать",
+        "делить"
       ],
       "sw": [
-        "tegu"
+        "kusawazisha",
+        "kugawanya"
       ],
       "th": [
-        "พยาธิตัวตืด"
+        "ปรับให้เรียบ",
+        "แบ่งปัน"
       ],
       "ur": [
-        "فیتہ کرم"
+        "ہموار کرنا",
+        "بانٹنا"
       ],
       "zh": [
-        "绦虫"
+        "平整",
+        "分享"
       ]
     },
     "audio": null,
@@ -338371,70 +338420,71 @@
     },
     "translations": {
       "ar": [
-        "يرتفع ضغطه",
+        "يستشيط غضبًا",
         "ينفعل"
       ],
       "de": [
-        "in Rage geraten",
-        "der Blutdruck steigt"
+        "sich aufregen",
+        "hochgehen"
       ],
       "en": [
         "to get worked up",
-        "blood pressure spikes"
+        "to blow one's top"
       ],
       "es": [
-        "subirse la tensión",
-        "alterarse"
+        "alterarse",
+        "sulfurarse"
       ],
       "fr": [
-        "monter en pression",
-        "s'énerver"
+        "s'énerver",
+        "monter en pression"
       ],
       "hi": [
-        "खून खौलना",
-        "भड़क जाना"
+        "भड़क उठना",
+        "तैश में आना"
       ],
       "id": [
         "naik darah",
-        "emosi"
+        "marah-marah"
       ],
       "it": [
-        "andare su di giri",
-        "salire la pressione"
+        "arrabbiarsi",
+        "andare su tutte le furie"
       ],
       "ja": [
-        "血圧が上がる",
-        "カッとなる"
+        "カッとなる",
+        "頭に血が上る"
       ],
       "ko": [
         "열받다",
-        "혈압 오르다"
+        "흥분하다"
       ],
       "nl": [
-        "over de rooie gaan"
+        "over de rooie gaan",
+        "zich opwinden"
       ],
       "pt": [
-        "subir a pressão",
-        "ter um treco"
+        "irritar-se",
+        "perder as estribeiras"
       ],
       "ru": [
-        "вскипеть",
-        "давление поднимается"
+        "выходить из себя",
+        "взвинчиваться"
       ],
       "sw": [
-        "kupanda presha",
-        "kukasirika"
+        "kupandwa na hasira"
       ],
       "th": [
-        "ความดันขึ้น",
-        "หัวร้อน"
+        "ของขึ้น",
+        "โมโห"
       ],
       "ur": [
-        "غصے سے بھڑک اٹھنا"
+        "بھڑک اٹھنا",
+        "غصے میں آنا"
       ],
       "zh": [
-        "血压飙升",
-        "上头"
+        "发火",
+        "激动"
       ]
     },
     "audio": null,
@@ -347339,44 +347389,45 @@
     },
     "translations": {
       "ar": [
-        "التسميد التنشيطي"
+        "يضيف سمادًا تكميليًا"
       ],
       "de": [
-        "Kopfdüngung"
+        "nachdüngen"
       ],
       "en": [
         "to top-dress",
-        "supplementary fertilizing"
+        "to apply supplementary fertilizer"
       ],
       "es": [
-        "abonado de cobertera"
+        "abonar en cobertera"
       ],
       "fr": [
-        "fertilisation de couverture"
+        "fertiliser en couverture"
       ],
       "hi": [
-        "ऊपरी खाद देना"
+        "अतिरिक्त खाद डालना"
       ],
       "id": [
-        "pemupukan susulan"
+        "memupuk susulan"
       ],
       "it": [
-        "concimazione di copertura"
+        "concimare in copertura"
       ],
       "ja": [
         "追肥する"
       ],
       "ko": [
-        "웃거름 주다"
+        "웃거름을 주다",
+        "추비하다"
       ],
       "nl": [
-        "bijbemesting"
+        "bijbemesten"
       ],
       "pt": [
-        "adubação de cobertura"
+        "adubar em cobertura"
       ],
       "ru": [
-        "подкормка"
+        "подкармливать"
       ],
       "sw": [
         "kuweka mbolea ya nyongeza"
@@ -347385,7 +347436,7 @@
         "ใส่ปุ๋ยแต่งหน้า"
       ],
       "ur": [
-        "اوپری کھاد دینا"
+        "اضافی کھاد ڈالنا"
       ],
       "zh": [
         "追肥"
@@ -348276,44 +348327,43 @@
     },
     "translations": {
       "ar": [
-        "التسميد الأساسي"
+        "يضع سمادًا أساسيًا"
       ],
       "de": [
-        "Grunddüngung"
+        "grunddüngen"
       ],
       "en": [
-        "to apply base fertilizer",
-        "basal dressing"
+        "to apply base fertilizer"
       ],
       "es": [
-        "abonado de fondo"
+        "abonar de fondo"
       ],
       "fr": [
-        "fumure de fond"
+        "faire une fumure de fond"
       ],
       "hi": [
-        "आधार खाद देना"
+        "बुआई से पहले खाद डालना"
       ],
       "id": [
-        "pemupukan dasar"
+        "memberi pupuk dasar"
       ],
       "it": [
-        "concimazione di fondo"
+        "concimare di fondo"
       ],
       "ja": [
         "元肥を施す"
       ],
       "ko": [
-        "밑거름 주다"
+        "밑거름을 주다"
       ],
       "nl": [
-        "basisbemesting"
+        "een basisbemesting geven"
       ],
       "pt": [
-        "adubação de base"
+        "fazer adubação de base"
       ],
       "ru": [
-        "основное удобрение"
+        "вносить основное удобрение"
       ],
       "sw": [
         "kuweka mbolea ya msingi"
@@ -348322,11 +348372,10 @@
         "ใส่ปุ๋ยรองพื้น"
       ],
       "ur": [
-        "بنیادی کھاد دینا"
+        "بنیادی کھاد ڈالنا"
       ],
       "zh": [
-        "基肥",
-        "底肥"
+        "施底肥"
       ]
     },
     "audio": null,
