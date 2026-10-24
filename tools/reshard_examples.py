@@ -58,7 +58,9 @@ def main():
         if any(aligned):
             by_pack[w["pack"]["id"]][w["key"]] = aligned
             carried += 1
-            total += sum(1 for e in aligned if e)
+            # Sentences, as enrich_examples counts them (a sense holds a list).
+            total += sum(len(e) if isinstance(e, list) else 1
+                         for e in aligned if e)
 
     # 3. Overwrite the shard dir with the new layout.
     if ex_root.exists():

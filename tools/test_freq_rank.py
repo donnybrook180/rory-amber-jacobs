@@ -105,6 +105,14 @@ def test_idempotent_small_tier():
     assert all("srcRank" in w for w in r1)
 
 
+def test_homograph_scored_by_its_stand_in():
+    # "est" as "the east" must not ride on "il est" (is).
+    words = [_w("est", 1), _w("maison", 2), _w("de", 3)]
+    ranked = rank_words(words, "fr")
+    order = [w["target"] for w in ranked]
+    assert order.index("de") < order.index("maison") < order.index("est")
+
+
 def main():
     tests = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
     for t in tests:

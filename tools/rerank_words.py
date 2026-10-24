@@ -15,6 +15,7 @@ is not removed — it sinks to the tail; the report prints how much.
 Usage:
     python tools/rerank_words.py            # rewrite in place
     python tools/rerank_words.py --check    # report only, exit 1 if changes needed
+    python tools/rerank_words.py --lang fr  # one language only
 """
 from __future__ import annotations
 
@@ -67,11 +68,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true",
                     help="report only; exit 1 if any file needs re-ranking")
+    ap.add_argument("--lang", help="only this language code (e.g. fr)")
     args = ap.parse_args()
 
     total_changed = 0
     for wf in sorted(glob.glob(str(ROOT / "*" / "words.*.json"))):
         wpath = Path(wf)
+        if args.lang and _code_of(wpath) != args.lang:
+            continue
         code, ranked, changed, moved, t, junk, top_before, top_after = \
             process(wpath)
         name = wpath.parent.name

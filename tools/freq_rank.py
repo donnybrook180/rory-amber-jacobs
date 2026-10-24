@@ -34,6 +34,15 @@ LARGE = {"en", "es", "fr", "de", "pt", "it", "ru", "zh", "ja", "ar", "nl"}
 # Thin corpora: blend corpus signal with the generator's original order.
 SMALL = {"id", "vi", "ko", "hi", "ur", "tr"}
 
+# Homographs: the list's word is a rare reading of a spelling that is
+# almost always another word, so the spelling's frequency is not its own.
+# Each is scored by a stand-in of similar use. French "est" (the east) is
+# nearly always "il est" (is): corpus rank 5, where "ouest" (west) puts it
+# in the low hundreds.
+HOMOGRAPHS = {
+    "fr": {"est": "ouest"},
+}
+
 _ZIPF_MAX = 8.0  # practical ceiling of the Zipf scale
 _BLEND_ORIG = 0.7  # weight on original position for small-tier langs
 _BLEND_ZIPF = 0.3
@@ -113,7 +122,8 @@ def rank_words(words: list[dict], code: str) -> list[dict]:
         keyed = []
         for w in words:
             orig = w["srcRank"]
-            z = zipf_frequency(w["target"], code)
+            proxy = HOMOGRAPHS.get(code, {}).get(w["target"], w["target"])
+            z = zipf_frequency(proxy, code)
             keyed.append((-_score(z, orig, n, large), orig, w))
         keyed.sort(key=lambda t: (t[0], t[1]))
         words = [w for _, _, w in keyed]
