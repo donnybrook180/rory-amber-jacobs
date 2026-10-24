@@ -55,6 +55,26 @@ def process(words_path: Path):
     return code, ranked, changed, moved, t, junk, before[:8], after[:8]
 
 
+def sort_topics(lang_dir: Path, code: str, ranked: list) -> bool:
+    """Keep topics.<code>.json word lists in rank order (the app and
+    validate_content expect it). Entries are `key` or `key:senseIdx`.
+    Returns True when the file changed."""
+    tpath = lang_dir / f"topics.{code}.json"
+    if not tpath.exists():
+        return False
+    raw = tpath.read_text(encoding="utf-8")
+    data = json.loads(raw)
+    rank = {w["key"]: w["rank"] for w in ranked}
+    for tid, entries in data["topics"].items():
+        data["topics"][tid] = sorted(
+            entries, key=lambda e: rank.get(e.split(":")[0], 10**9))
+    out = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    if out == raw:
+        return False
+    tpath.write_text(out, encoding="utf-8")
+    return True
+
+
 def bump_manifest(lang_dir: Path):
     mpath = lang_dir / "manifest.json"
     if not mpath.exists():
@@ -81,7 +101,16 @@ def main():
         name = wpath.parent.name
 
         if not changed:
-            print(f"  {name} ({code}, {t}): already ranked")
+            if not args.check and sort_topics(wpath.parent, code, ranked):
+                print(f"  {name} ({code}): topics re-sorted")
+                bumped = bump_manifest(wpath.parent)
+                if bumped:
+                    mpath, manifest = bumped
+                    mpath.write_text(
+                        json.dumps(manifest, ensure_ascii=False, indent=2),
+                        encoding="utf-8")
+            else:
+                print(f"  {name} ({code}, {t}): already ranked")
             continue
         total_changed += 1
         print(f"  {name} ({code}, tier={t}): {moved} moved, "
@@ -95,6 +124,8 @@ def main():
         wpath.write_text(
             json.dumps(ranked, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8")
+        if sort_topics(wpath.parent, code, ranked):
+            print(f"      -> {name}/topics.{code}.json re-sorted")
         bumped = bump_manifest(wpath.parent)
         if bumped:
             mpath, manifest = bumped
